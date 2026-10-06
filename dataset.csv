@@ -1,0 +1,1350 @@
+Age,Gender,Height_cm,Weight_kg,BMI,Chronic_Disease,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Cholesterol_Level,Blood_Sugar_Level,Genetic_Risk_Factor,Allergies,Daily_Steps,Exercise_Frequency,Sleep_Hours,Alcohol_Consumption,Smoking_Habit,Dietary_Habits,Caloric_Intake,Protein_Intake,Carbohydrate_Intake,Fat_Intake,Preferred_Cuisine,Food_Aversions,Recommended_Meal_Plan
+28,Other,164,93,34.58,Diabetes,104,100,187,232,No,Nut Allergy,7328,2,9.5,No,No,Keto,1769,111,102,50,Asian,Salty,Low-Fat Diet
+41,Other,183,96,28.67,Diabetes,119,75,203,113,No,Lactose Intolerance,6811,0,7.2,Yes,No,Regular,1274,131,140,35,Indian,Salty,Low-Fat Diet
+75,Female,154,54,22.77,Obesity,135,117,165,129,No,Nut Allergy,12521,3,6.6,Yes,Yes,Regular,3221,95,310,145,Western,Salty,High-Protein Diet
+66,Female,154,59,24.88,Diabetes,139,104,287,222,Yes,Lactose Intolerance,6938,2,4.2,Yes,Yes,Regular,1979,110,114,28,Indian,Salty,Balanced Diet
+77,Female,167,104,37.29,Hypertension,96,95,207,247,Yes,Lactose Intolerance,11285,2,8.9,No,Yes,Keto,2381,105,369,70,Indian,Salty,High-Protein Diet
+26,Male,197,117,30.15,Heart Disease,128,96,218,138,Yes,Nut Allergy,10050,6,6,Yes,Yes,Vegetarian,1539,180,376,38,Indian,Spicy,Balanced Diet
+31,Other,165,86,31.59,Diabetes,100,87,277,168,No,Gluten Intolerance,2672,1,8.4,No,No,Keto,3146,169,224,52,Western,Spicy,Low-Fat Diet
+37,Female,151,109,47.8,Hypertension,124,97,272,146,No,Lactose Intolerance,4933,4,5.8,Yes,No,Vegan,3140,65,315,88,Western,Salty,Balanced Diet
+71,Female,170,52,17.99,Diabetes,135,92,266,115,Yes,Nut Allergy,11725,0,8.8,No,No,Keto,2378,148,157,76,Asian,Salty,Low-Fat Diet
+27,Female,189,118,33.03,Obesity,160,82,194,199,Yes,Gluten Intolerance,12458,4,6,No,No,Vegetarian,1424,162,192,26,Asian,Spicy,High-Protein Diet
+74,Male,158,61,24.44,Heart Disease,124,90,185,213,Yes,Gluten Intolerance,7877,5,7,Yes,No,Keto,2218,64,108,101,Asian,Salty,Balanced Diet
+57,Female,160,101,39.45,Obesity,164,102,271,168,No,Nut Allergy,7974,0,6.9,Yes,No,Regular,2446,177,137,96,Indian,Salty,Low-Carb Diet
+41,Male,180,52,16.05,Diabetes,156,64,254,96,No,Gluten Intolerance,8006,0,6.4,No,No,Vegetarian,1504,147,187,98,Indian,Spicy,Low-Fat Diet
+58,Female,180,62,19.14,Heart Disease,126,82,236,86,No,Gluten Intolerance,8113,2,7.3,No,No,Regular,2447,127,303,128,Asian,Salty,Low-Fat Diet
+34,Other,178,68,21.46,Hypertension,95,76,187,196,No,Lactose Intolerance,12386,4,6.7,No,No,Regular,2974,109,390,83,Mediterranean,Salty,Low-Fat Diet
+40,Other,184,70,20.68,Obesity,123,105,232,110,No,Nut Allergy,5545,5,7.8,No,No,Regular,2876,92,366,43,Indian,Sweet,Low-Fat Diet
+32,Male,194,60,15.94,Diabetes,171,89,211,105,Yes,Nut Allergy,7384,2,8.9,No,No,Regular,1821,93,146,66,Mediterranean,Sweet,Balanced Diet
+43,Female,188,54,15.28,Hypertension,136,91,177,181,No,Lactose Intolerance,5634,6,7.5,No,Yes,Regular,2438,101,100,66,Indian,Sweet,Balanced Diet
+49,Male,197,75,19.33,Obesity,153,116,163,119,Yes,Gluten Intolerance,14451,3,7.4,Yes,Yes,Regular,1654,163,189,28,Indian,Salty,Low-Carb Diet
+66,Other,193,56,15.03,Diabetes,137,85,275,142,No,Lactose Intolerance,3292,0,9,No,No,Vegan,1358,125,366,54,Mediterranean,Salty,Low-Fat Diet
+54,Other,162,66,25.15,Obesity,150,114,188,227,No,Nut Allergy,13813,3,10,No,Yes,Vegetarian,3108,76,183,119,Western,Spicy,High-Protein Diet
+62,Female,164,87,32.35,Heart Disease,142,108,197,163,No,Nut Allergy,2608,1,5.5,Yes,No,Keto,3085,159,355,101,Asian,Spicy,Balanced Diet
+24,Female,159,93,36.79,Hypertension,126,62,184,121,No,Gluten Intolerance,8953,2,9,No,No,Regular,2125,78,262,26,Western,Sweet,High-Protein Diet
+68,Other,167,91,32.63,Hypertension,157,71,264,134,No,Nut Allergy,14346,4,6.9,No,Yes,Vegetarian,1293,114,351,50,Asian,Spicy,Low-Fat Diet
+47,Other,198,76,19.39,Hypertension,116,67,177,83,No,Nut Allergy,4283,1,8.6,Yes,No,Vegan,2971,101,299,82,Asian,Sweet,High-Protein Diet
+79,Other,163,117,44.04,Heart Disease,165,104,223,189,No,Lactose Intolerance,3268,2,7.5,No,No,Vegetarian,1843,77,189,48,Indian,Sweet,Low-Carb Diet
+79,Other,188,74,20.94,Diabetes,173,77,211,70,No,Lactose Intolerance,4373,0,4.4,Yes,No,Vegetarian,2375,84,271,94,Western,Salty,Low-Carb Diet
+30,Male,172,73,24.68,Obesity,107,103,210,219,No,Nut Allergy,2995,3,9,No,Yes,Vegetarian,2760,85,290,69,Asian,Spicy,Low-Carb Diet
+41,Female,159,82,32.44,Diabetes,91,72,226,183,No,Nut Allergy,10419,0,6.2,No,Yes,Vegetarian,2165,192,118,127,Asian,Salty,Low-Fat Diet
+66,Other,160,106,41.41,Heart Disease,158,72,184,72,Yes,Gluten Intolerance,9177,6,9.1,Yes,No,Regular,2087,152,358,117,Asian,Salty,High-Protein Diet
+29,Male,198,119,30.35,Diabetes,143,79,286,89,No,Lactose Intolerance,6640,3,7.2,Yes,No,Keto,3176,102,308,76,Asian,Spicy,Balanced Diet
+19,Female,165,105,38.57,Heart Disease,162,118,207,144,No,Gluten Intolerance,8371,4,5,No,No,Regular,1361,137,284,84,Western,Salty,Low-Fat Diet
+71,Female,166,50,18.14,Diabetes,115,87,239,159,No,Gluten Intolerance,10713,3,9.3,No,No,Regular,2659,115,219,55,Mediterranean,Salty,High-Protein Diet
+54,Male,190,102,28.25,Diabetes,106,81,186,245,No,Gluten Intolerance,3876,5,7,Yes,No,Regular,1606,116,109,56,Indian,Spicy,High-Protein Diet
+18,Male,176,108,34.87,Heart Disease,92,102,252,202,Yes,Lactose Intolerance,10017,4,9.2,Yes,No,Regular,2660,50,210,127,Western,Sweet,Low-Fat Diet
+76,Male,194,102,27.1,Diabetes,145,101,276,202,Yes,Nut Allergy,10519,5,5.4,No,No,Vegetarian,2783,142,316,99,Asian,Salty,Low-Carb Diet
+22,Other,194,89,23.65,Heart Disease,102,81,281,204,No,Nut Allergy,7592,5,8,Yes,No,Regular,2561,162,229,39,Western,Salty,Low-Carb Diet
+39,Female,195,61,16.04,Heart Disease,150,109,278,182,Yes,Lactose Intolerance,12574,1,4.7,Yes,No,Keto,1286,133,222,30,Indian,Sweet,Low-Carb Diet
+77,Female,181,58,17.7,Obesity,109,72,167,170,No,Gluten Intolerance,11548,4,5.2,No,No,Regular,2884,149,325,103,Indian,Salty,Low-Fat Diet
+43,Other,167,72,25.82,Hypertension,121,100,243,130,No,Gluten Intolerance,5915,4,6.6,No,No,Regular,1729,174,238,48,Western,Sweet,Low-Carb Diet
+77,Other,161,54,20.83,Heart Disease,159,82,176,164,Yes,Gluten Intolerance,8560,3,5.1,No,No,Vegan,2233,78,389,82,Western,Spicy,Low-Fat Diet
+18,Other,192,77,20.89,Diabetes,107,62,212,122,No,Nut Allergy,3139,1,4.5,Yes,No,Regular,1496,113,359,82,Indian,Sweet,Low-Carb Diet
+65,Other,175,107,34.94,Heart Disease,127,87,236,154,No,Gluten Intolerance,6233,5,9.3,Yes,No,Keto,2712,59,196,114,Asian,Spicy,High-Protein Diet
+29,Other,151,83,36.4,Hypertension,121,108,289,155,Yes,Lactose Intolerance,5232,5,9.2,No,No,Keto,1853,170,251,60,Mediterranean,Salty,High-Protein Diet
+63,Female,164,82,30.49,Diabetes,178,61,197,180,Yes,Nut Allergy,9955,6,10,No,No,Vegan,2134,161,145,60,Mediterranean,Spicy,Low-Fat Diet
+19,Male,197,70,18.04,Diabetes,124,66,187,150,No,Gluten Intolerance,3143,1,6.2,No,Yes,Vegan,3299,69,202,97,Western,Spicy,Balanced Diet
+34,Other,182,56,16.91,Hypertension,97,86,236,165,No,Gluten Intolerance,7330,1,8.7,No,Yes,Regular,1653,155,259,134,Mediterranean,Sweet,Low-Fat Diet
+29,Male,166,58,21.05,Obesity,179,87,282,135,No,Gluten Intolerance,2853,4,9.1,No,No,Regular,2214,149,111,41,Mediterranean,Sweet,Balanced Diet
+68,Other,180,96,29.63,Heart Disease,135,67,214,115,No,Lactose Intolerance,10784,6,4.7,No,No,Keto,3209,75,216,148,Indian,Salty,Low-Fat Diet
+39,Female,183,116,34.64,Heart Disease,127,80,249,212,No,Nut Allergy,5406,6,8.2,No,No,Regular,2147,184,157,90,Mediterranean,Spicy,Low-Carb Diet
+71,Female,151,69,30.26,Heart Disease,126,81,274,105,Yes,Nut Allergy,2626,3,5.8,No,No,Regular,1214,174,145,28,Indian,Spicy,Low-Fat Diet
+44,Other,164,94,34.95,Hypertension,169,94,162,220,No,Nut Allergy,6766,3,9.1,Yes,No,Vegan,2542,129,121,28,Asian,Spicy,Low-Fat Diet
+38,Other,166,98,35.56,Diabetes,139,69,193,239,No,Lactose Intolerance,5048,0,6.5,No,No,Vegetarian,2703,123,200,140,Western,Sweet,Balanced Diet
+50,Male,156,51,20.96,Hypertension,168,90,173,113,No,Nut Allergy,13677,1,6.4,No,No,Regular,2591,135,140,149,Western,Salty,Balanced Diet
+50,Other,163,89,33.5,Diabetes,108,99,295,76,Yes,Lactose Intolerance,9667,4,9.4,No,No,Vegan,2662,172,141,130,Mediterranean,Sweet,High-Protein Diet
+36,Female,195,64,16.83,Heart Disease,143,109,220,240,No,Gluten Intolerance,5733,6,4.2,No,No,Regular,2463,194,206,27,Western,Spicy,Balanced Diet
+78,Male,170,101,34.95,Diabetes,126,119,267,186,No,Lactose Intolerance,13686,4,9.7,No,No,Regular,1839,157,223,129,Asian,Salty,Low-Fat Diet
+40,Other,171,97,33.17,Hypertension,164,94,299,187,No,Gluten Intolerance,6174,6,4.7,No,Yes,Vegetarian,2643,185,150,58,Western,Sweet,Low-Fat Diet
+39,Male,176,99,31.96,Diabetes,124,82,281,93,No,Gluten Intolerance,4200,4,5.7,Yes,No,Regular,2065,80,348,116,Asian,Spicy,Low-Fat Diet
+65,Male,156,82,33.69,Diabetes,93,105,223,129,No,Nut Allergy,6387,3,6.5,Yes,Yes,Regular,2732,148,390,127,Asian,Salty,Low-Carb Diet
+74,Female,174,67,22.13,Diabetes,118,63,254,192,Yes,Lactose Intolerance,9241,2,8,No,No,Vegan,3255,80,131,94,Western,Spicy,Low-Carb Diet
+53,Female,156,96,39.45,Diabetes,126,111,283,105,Yes,Nut Allergy,14912,0,7.8,No,No,Vegetarian,1756,98,325,46,Western,Salty,Low-Carb Diet
+32,Female,163,110,41.4,Diabetes,116,105,193,85,No,Gluten Intolerance,5227,0,5.1,No,No,Regular,1774,58,370,27,Indian,Salty,Low-Carb Diet
+70,Female,176,88,28.41,Diabetes,167,103,198,88,No,Lactose Intolerance,11876,1,5.8,Yes,No,Vegetarian,1629,187,124,82,Western,Spicy,Balanced Diet
+62,Other,163,111,41.78,Diabetes,178,77,216,230,No,Lactose Intolerance,7523,6,6.4,No,No,Regular,2458,149,380,124,Asian,Salty,Low-Carb Diet
+64,Female,168,88,31.18,Heart Disease,136,118,195,155,No,Gluten Intolerance,14776,5,8.3,No,No,Vegetarian,3246,107,271,109,Asian,Salty,Low-Fat Diet
+52,Other,179,70,21.85,Heart Disease,164,104,194,180,Yes,Gluten Intolerance,2287,5,4.3,Yes,No,Vegan,3388,81,251,145,Indian,Spicy,Low-Carb Diet
+57,Male,152,97,41.98,Diabetes,148,96,270,108,Yes,Lactose Intolerance,6532,2,5.3,No,No,Vegan,1979,94,251,28,Western,Salty,Low-Carb Diet
+45,Male,178,115,36.3,Obesity,108,85,165,130,Yes,Lactose Intolerance,6257,6,7.4,No,No,Regular,1556,194,333,73,Indian,Salty,Low-Carb Diet
+72,Female,151,94,41.23,Hypertension,121,117,192,237,No,Gluten Intolerance,12640,3,8.6,Yes,No,Regular,1307,164,379,109,Western,Spicy,Low-Carb Diet
+43,Male,158,116,46.47,Hypertension,133,76,177,194,No,Nut Allergy,5543,5,7.2,No,No,Keto,3387,164,166,28,Western,Sweet,Low-Fat Diet
+26,Male,183,99,29.56,Diabetes,134,67,278,204,Yes,Gluten Intolerance,12770,1,5.1,No,No,Vegetarian,2396,103,312,114,Mediterranean,Spicy,Low-Fat Diet
+29,Other,193,84,22.55,Diabetes,110,89,205,151,Yes,Nut Allergy,3144,5,4.7,No,No,Vegetarian,1915,122,245,57,Indian,Spicy,Low-Carb Diet
+18,Male,186,66,19.08,Obesity,111,83,181,211,No,Lactose Intolerance,2634,4,4.7,Yes,Yes,Regular,3114,58,212,27,Mediterranean,Spicy,Low-Fat Diet
+18,Other,155,93,38.71,Diabetes,94,87,184,136,No,Nut Allergy,14853,4,6.1,No,No,Regular,2071,182,369,42,Asian,Sweet,Low-Carb Diet
+51,Other,189,55,15.4,Heart Disease,148,98,249,158,Yes,Nut Allergy,12073,2,8,No,No,Keto,2321,64,169,32,Mediterranean,Salty,Low-Carb Diet
+70,Male,189,72,20.16,Diabetes,160,78,199,165,No,Gluten Intolerance,14715,1,6.4,No,No,Keto,2368,136,239,60,Indian,Spicy,High-Protein Diet
+43,Male,156,70,28.76,Heart Disease,95,86,271,87,No,Gluten Intolerance,13069,0,5.6,No,No,Regular,2913,186,158,92,Mediterranean,Sweet,Balanced Diet
+22,Male,184,99,29.24,Diabetes,101,102,190,180,No,Nut Allergy,7513,4,7.3,No,No,Vegetarian,1715,106,242,48,Asian,Sweet,Balanced Diet
+19,Female,158,67,26.84,Hypertension,164,96,279,249,No,Lactose Intolerance,5720,2,5,No,No,Keto,1259,124,299,80,Mediterranean,Sweet,High-Protein Diet
+44,Male,160,62,24.22,Diabetes,127,88,219,188,No,Gluten Intolerance,4584,1,9.6,Yes,No,Regular,1620,116,345,92,Mediterranean,Sweet,Low-Fat Diet
+37,Female,161,99,38.19,Diabetes,101,94,256,248,No,Lactose Intolerance,3765,6,7.4,No,No,Vegan,1992,169,162,142,Western,Salty,Low-Fat Diet
+29,Male,174,100,33.03,Hypertension,117,96,218,189,Yes,Nut Allergy,14808,5,8.1,Yes,Yes,Regular,3380,163,389,65,Asian,Sweet,Balanced Diet
+52,Other,198,74,18.88,Heart Disease,166,80,284,144,No,Lactose Intolerance,12358,4,6.3,No,No,Keto,2553,99,235,124,Western,Salty,High-Protein Diet
+19,Other,156,92,37.8,Diabetes,157,88,242,133,Yes,Lactose Intolerance,6855,4,9.4,Yes,Yes,Regular,2172,63,381,61,Indian,Salty,Balanced Diet
+40,Other,178,112,35.35,Hypertension,92,106,258,245,No,Lactose Intolerance,2574,3,9.2,Yes,No,Vegetarian,3357,148,252,145,Western,Spicy,Low-Fat Diet
+25,Male,156,103,42.32,Diabetes,98,104,246,235,Yes,Lactose Intolerance,5703,1,5,No,No,Regular,1253,164,355,111,Indian,Salty,Balanced Diet
+51,Other,158,117,46.87,Hypertension,134,92,228,76,Yes,Gluten Intolerance,12094,4,8.9,No,No,Vegetarian,3346,199,233,93,Western,Spicy,Low-Fat Diet
+58,Male,183,50,14.93,Heart Disease,139,115,215,99,No,Nut Allergy,14271,1,9,Yes,No,Vegetarian,1773,176,240,90,Asian,Sweet,Low-Carb Diet
+28,Male,166,61,22.14,Hypertension,107,112,217,226,No,Lactose Intolerance,7405,1,5.1,Yes,No,Vegetarian,3437,153,206,21,Asian,Sweet,Low-Fat Diet
+38,Female,199,57,14.39,Diabetes,100,109,297,120,Yes,Lactose Intolerance,12168,5,8.2,No,No,Regular,2472,192,337,33,Mediterranean,Salty,Low-Fat Diet
+37,Other,188,54,15.28,Hypertension,171,84,252,241,Yes,Lactose Intolerance,10726,1,8.6,No,No,Vegetarian,1288,161,131,102,Western,Spicy,Low-Fat Diet
+58,Female,166,92,33.39,Hypertension,125,62,285,171,No,Gluten Intolerance,14415,0,5.3,No,No,Regular,1385,104,157,128,Indian,Spicy,Low-Carb Diet
+36,Other,176,106,34.22,Diabetes,149,108,179,123,No,Lactose Intolerance,3286,3,4.2,No,No,Regular,3163,60,339,79,Western,Salty,High-Protein Diet
+69,Male,195,53,13.94,Diabetes,175,87,154,138,No,Lactose Intolerance,14898,5,5.6,No,No,Keto,2820,127,224,112,Mediterranean,Spicy,Balanced Diet
+42,Male,169,114,39.91,Heart Disease,106,89,274,182,No,Gluten Intolerance,7418,2,7,No,Yes,Vegetarian,1471,54,198,34,Asian,Salty,Low-Carb Diet
+70,Other,157,54,21.91,Heart Disease,172,71,242,125,Yes,Gluten Intolerance,10376,2,6.2,No,No,Regular,2138,88,247,66,Mediterranean,Salty,High-Protein Diet
+31,Other,166,101,36.65,Heart Disease,132,67,178,227,No,Nut Allergy,11553,0,4.9,No,No,Regular,1516,162,251,51,Indian,Spicy,Low-Fat Diet
+26,Female,181,63,19.23,Obesity,158,101,158,167,No,Gluten Intolerance,14242,0,9.6,No,No,Regular,2368,66,147,53,Indian,Sweet,Low-Fat Diet
+27,Male,155,51,21.23,Hypertension,128,119,296,188,Yes,Lactose Intolerance,13911,4,8,Yes,No,Regular,2215,90,171,55,Indian,Spicy,Low-Carb Diet
+30,Male,165,62,22.77,Diabetes,95,82,295,149,Yes,Lactose Intolerance,14036,3,9.5,No,No,Keto,2394,114,237,81,Indian,Sweet,Balanced Diet
+57,Male,157,89,36.11,Diabetes,179,110,212,175,No,Nut Allergy,5184,4,8.5,No,Yes,Regular,1499,58,342,108,Western,Sweet,Low-Carb Diet
+36,Other,169,79,27.66,Heart Disease,178,60,299,154,Yes,Lactose Intolerance,12026,1,4.7,Yes,No,Vegetarian,1980,96,316,132,Western,Spicy,Balanced Diet
+62,Male,158,97,38.86,Hypertension,99,86,183,113,No,Lactose Intolerance,7277,2,5.5,No,No,Vegetarian,2408,85,399,149,Mediterranean,Salty,High-Protein Diet
+78,Other,182,77,23.25,Heart Disease,147,75,275,122,No,Gluten Intolerance,13945,3,6.9,No,No,Vegan,2705,142,191,42,Mediterranean,Spicy,Low-Fat Diet
+20,Male,174,100,33.03,Heart Disease,133,113,238,228,Yes,Gluten Intolerance,10811,0,7.5,No,No,Vegan,2022,98,258,112,Mediterranean,Salty,Low-Carb Diet
+45,Female,183,106,31.65,Heart Disease,147,97,190,137,No,Nut Allergy,14701,6,6.8,No,No,Vegetarian,2543,140,382,147,Asian,Sweet,Balanced Diet
+42,Other,159,107,42.32,Hypertension,98,64,299,129,No,Nut Allergy,2918,3,5.8,No,No,Regular,1575,168,397,98,Mediterranean,Spicy,Low-Fat Diet
+75,Other,183,80,23.89,Heart Disease,162,95,249,86,No,Lactose Intolerance,12061,2,5.2,No,No,Regular,2397,142,230,64,Asian,Sweet,High-Protein Diet
+62,Other,189,72,20.16,Diabetes,125,80,246,196,No,Lactose Intolerance,6974,0,6.1,Yes,No,Vegetarian,1449,141,218,65,Mediterranean,Spicy,Low-Carb Diet
+33,Other,189,88,24.64,Heart Disease,143,116,204,117,No,Gluten Intolerance,14009,0,9.8,No,No,Regular,1719,83,317,108,Asian,Sweet,Low-Fat Diet
+54,Female,196,73,19,Hypertension,92,102,156,70,No,Gluten Intolerance,12111,3,5.6,No,No,Keto,2625,161,243,51,Mediterranean,Salty,High-Protein Diet
+64,Male,192,83,22.52,Heart Disease,159,60,232,243,No,Nut Allergy,8315,0,6.3,Yes,No,Regular,1260,110,120,35,Western,Spicy,High-Protein Diet
+70,Other,156,75,30.82,Hypertension,95,75,263,80,No,Gluten Intolerance,14899,4,8.1,No,No,Regular,2550,190,233,22,Indian,Sweet,Low-Carb Diet
+25,Other,178,77,24.3,Diabetes,136,96,283,108,No,Lactose Intolerance,5098,3,5.4,No,Yes,Vegetarian,1277,132,260,75,Indian,Salty,High-Protein Diet
+53,Other,184,64,18.9,Diabetes,174,71,183,112,No,Gluten Intolerance,3224,6,6.5,Yes,No,Regular,3161,163,351,108,Indian,Sweet,Low-Fat Diet
+45,Female,168,68,24.09,Diabetes,99,75,235,152,No,Lactose Intolerance,12724,5,6.4,No,No,Regular,1485,88,199,144,Indian,Spicy,Low-Fat Diet
+50,Male,156,84,34.52,Obesity,96,74,250,70,No,Nut Allergy,10637,1,5.4,No,No,Regular,3313,78,301,23,Indian,Salty,Balanced Diet
+46,Female,151,84,36.84,Hypertension,132,113,272,115,No,Gluten Intolerance,10521,1,9.3,No,No,Vegetarian,1412,127,218,67,Western,Spicy,Low-Fat Diet
+63,Other,164,91,33.83,Obesity,129,95,152,246,No,Nut Allergy,9782,4,9,No,No,Regular,1540,166,232,107,Asian,Salty,High-Protein Diet
+67,Female,170,86,29.76,Diabetes,95,77,207,122,No,Lactose Intolerance,7851,5,4.5,No,No,Vegetarian,1813,94,384,90,Indian,Spicy,Low-Carb Diet
+70,Female,150,108,48,Heart Disease,153,119,223,221,Yes,Lactose Intolerance,14406,1,9.5,No,Yes,Vegetarian,1209,157,209,90,Western,Salty,High-Protein Diet
+62,Other,195,83,21.83,Diabetes,119,69,295,228,Yes,Lactose Intolerance,12397,0,7.2,No,No,Regular,1489,163,232,113,Indian,Sweet,Low-Carb Diet
+30,Other,178,103,32.51,Diabetes,112,99,216,128,Yes,Gluten Intolerance,5749,0,6.3,No,Yes,Regular,3257,85,244,94,Western,Sweet,Low-Carb Diet
+47,Other,195,56,14.73,Diabetes,144,111,199,109,No,Gluten Intolerance,14794,1,5.8,No,No,Keto,2383,78,301,81,Western,Sweet,Balanced Diet
+51,Female,171,76,25.99,Diabetes,96,80,298,118,Yes,Gluten Intolerance,13114,2,7.8,No,No,Vegan,3417,167,394,125,Western,Salty,Balanced Diet
+50,Female,196,101,26.29,Obesity,150,97,260,184,No,Gluten Intolerance,9456,4,4.8,Yes,No,Vegetarian,1496,178,113,43,Indian,Spicy,Balanced Diet
+22,Other,178,64,20.2,Heart Disease,161,71,164,173,No,Nut Allergy,14711,5,5.4,Yes,No,Keto,2029,59,319,22,Indian,Sweet,High-Protein Diet
+21,Female,166,88,31.93,Heart Disease,99,66,250,225,No,Gluten Intolerance,2415,5,9.6,No,No,Vegan,3003,88,121,97,Western,Spicy,Low-Fat Diet
+68,Other,155,90,37.46,Obesity,101,108,239,239,Yes,Lactose Intolerance,13254,4,6.7,No,No,Regular,2253,116,155,27,Indian,Spicy,Low-Fat Diet
+72,Other,171,95,32.49,Diabetes,149,75,299,99,No,Lactose Intolerance,12325,3,9.9,No,No,Vegetarian,2576,157,297,23,Western,Salty,Low-Carb Diet
+21,Other,187,62,17.73,Diabetes,157,115,294,160,No,Lactose Intolerance,13447,3,4.8,Yes,Yes,Regular,2327,117,156,98,Asian,Spicy,Balanced Diet
+49,Female,150,99,44,Diabetes,102,96,230,77,No,Gluten Intolerance,12845,2,6.2,No,No,Regular,3221,144,272,115,Western,Salty,Balanced Diet
+78,Female,161,67,25.85,Diabetes,117,70,210,74,No,Lactose Intolerance,7485,5,5.5,No,No,Regular,2969,164,132,36,Asian,Sweet,Balanced Diet
+68,Male,199,64,16.16,Diabetes,146,109,185,214,No,Lactose Intolerance,5279,6,7.5,Yes,No,Vegan,1866,180,333,87,Indian,Spicy,Low-Fat Diet
+36,Other,188,102,28.86,Obesity,160,87,251,91,No,Nut Allergy,9410,2,9.4,No,Yes,Regular,1934,159,332,111,Indian,Salty,Balanced Diet
+45,Male,180,77,23.77,Hypertension,179,116,193,217,No,Nut Allergy,5936,3,5.5,No,No,Regular,2754,187,217,34,Mediterranean,Sweet,High-Protein Diet
+38,Female,190,66,18.28,Obesity,175,108,162,74,Yes,Nut Allergy,10507,0,5.1,No,Yes,Keto,2326,196,246,112,Western,Sweet,Balanced Diet
+23,Female,173,101,33.75,Obesity,129,92,174,87,No,Lactose Intolerance,12642,2,6.1,No,No,Vegetarian,2217,121,162,105,Asian,Salty,Low-Carb Diet
+44,Male,152,119,51.51,Diabetes,154,75,242,182,Yes,Lactose Intolerance,4907,4,9,No,Yes,Regular,2062,100,111,119,Indian,Sweet,Low-Fat Diet
+64,Other,177,99,31.6,Obesity,176,81,175,179,No,Gluten Intolerance,7390,3,5,No,No,Regular,3056,139,360,82,Western,Spicy,Low-Carb Diet
+60,Male,156,56,23.01,Hypertension,160,63,283,139,No,Nut Allergy,12356,4,4.8,No,No,Regular,2768,81,292,86,Asian,Salty,Balanced Diet
+64,Other,187,97,27.74,Obesity,134,113,296,160,No,Nut Allergy,14244,4,4.1,Yes,No,Keto,2125,66,235,93,Asian,Spicy,High-Protein Diet
+43,Female,169,90,31.51,Diabetes,178,96,286,121,Yes,Nut Allergy,7545,4,6.7,No,No,Vegetarian,2850,111,273,115,Mediterranean,Spicy,High-Protein Diet
+31,Female,172,60,20.28,Hypertension,97,79,167,215,Yes,Gluten Intolerance,10272,3,9.4,No,Yes,Vegetarian,2178,102,172,31,Asian,Sweet,Balanced Diet
+68,Other,153,98,41.86,Diabetes,147,107,226,198,Yes,Lactose Intolerance,2261,1,4.4,Yes,No,Regular,2520,175,364,85,Asian,Spicy,Low-Fat Diet
+64,Female,182,87,26.26,Heart Disease,123,80,218,171,Yes,Nut Allergy,4662,5,5.2,No,Yes,Keto,1454,98,212,74,Mediterranean,Spicy,High-Protein Diet
+35,Male,185,72,21.04,Heart Disease,116,83,227,77,Yes,Lactose Intolerance,8241,0,5.2,Yes,No,Keto,3449,71,321,82,Asian,Spicy,High-Protein Diet
+54,Female,162,69,26.29,Diabetes,97,70,216,142,Yes,Lactose Intolerance,8722,4,7.7,No,No,Keto,1794,133,264,85,Western,Sweet,Balanced Diet
+27,Female,175,86,28.08,Heart Disease,177,68,201,181,No,Nut Allergy,11031,4,9.6,No,No,Vegetarian,3331,90,321,127,Asian,Salty,Balanced Diet
+79,Female,160,67,26.17,Diabetes,100,86,188,102,No,Gluten Intolerance,14354,3,4.8,No,No,Regular,1815,89,148,120,Indian,Salty,Low-Carb Diet
+27,Male,177,85,27.13,Obesity,107,72,266,208,No,Nut Allergy,11517,1,7,Yes,No,Regular,1761,135,377,96,Asian,Sweet,Low-Carb Diet
+25,Male,181,73,22.28,Diabetes,123,95,295,142,No,Lactose Intolerance,8874,4,8.8,No,No,Regular,2189,76,282,91,Indian,Salty,Low-Carb Diet
+66,Female,191,109,29.88,Heart Disease,178,105,296,178,No,Gluten Intolerance,14822,3,6.4,No,No,Regular,1772,119,236,138,Asian,Sweet,Balanced Diet
+37,Female,166,71,25.77,Diabetes,107,60,165,75,Yes,Gluten Intolerance,8826,3,7.8,No,No,Regular,3425,174,147,64,Asian,Salty,High-Protein Diet
+71,Other,179,79,24.66,Diabetes,92,111,158,73,No,Gluten Intolerance,5234,3,9.4,No,No,Regular,2324,182,153,148,Indian,Spicy,Low-Fat Diet
+73,Other,167,110,39.44,Obesity,150,106,186,122,Yes,Lactose Intolerance,4372,0,7,No,No,Vegan,2120,156,119,118,Asian,Spicy,Low-Fat Diet
+68,Male,159,100,39.56,Obesity,150,71,221,94,No,Lactose Intolerance,2111,3,4.5,No,No,Regular,3092,143,235,149,Mediterranean,Sweet,Low-Fat Diet
+79,Male,173,93,31.07,Hypertension,97,89,248,244,No,Lactose Intolerance,5034,5,9.9,No,No,Regular,2113,97,235,91,Mediterranean,Sweet,Low-Carb Diet
+68,Female,167,105,37.65,Heart Disease,155,101,260,105,No,Gluten Intolerance,11488,2,7.2,No,Yes,Vegetarian,2736,198,332,85,Western,Spicy,Balanced Diet
+67,Female,190,106,29.36,Hypertension,99,85,269,221,No,Gluten Intolerance,14633,4,7.7,Yes,No,Regular,2933,130,342,32,Western,Salty,Low-Fat Diet
+22,Female,158,65,26.04,Hypertension,163,71,231,213,No,Gluten Intolerance,14497,2,9.2,Yes,No,Vegan,3195,160,340,72,Mediterranean,Spicy,High-Protein Diet
+27,Male,182,80,24.15,Hypertension,113,81,249,128,No,Lactose Intolerance,9208,2,6.9,No,No,Regular,2044,83,108,80,Western,Salty,Low-Fat Diet
+37,Other,178,74,23.36,Diabetes,144,77,163,106,No,Gluten Intolerance,8388,3,6,No,No,Vegetarian,1639,66,241,98,Mediterranean,Spicy,Low-Fat Diet
+54,Male,185,52,15.19,Hypertension,120,119,232,144,No,Lactose Intolerance,8734,3,5.6,No,No,Vegan,2210,65,183,135,Mediterranean,Sweet,High-Protein Diet
+26,Male,157,89,36.11,Hypertension,109,61,187,215,No,Lactose Intolerance,14398,4,8.8,No,No,Keto,2829,128,261,28,Western,Spicy,Low-Fat Diet
+55,Other,170,56,19.38,Diabetes,165,83,291,177,No,Lactose Intolerance,10752,5,4,No,No,Vegetarian,3490,177,298,42,Asian,Salty,Balanced Diet
+47,Other,165,84,30.85,Obesity,108,115,198,189,Yes,Lactose Intolerance,12383,3,5.4,No,Yes,Vegetarian,3376,180,183,30,Indian,Salty,High-Protein Diet
+31,Other,178,65,20.52,Obesity,137,107,251,178,No,Nut Allergy,2654,4,5.4,No,No,Regular,1612,164,380,53,Indian,Salty,High-Protein Diet
+73,Female,159,55,21.76,Heart Disease,164,100,255,169,Yes,Lactose Intolerance,8328,4,9.4,No,No,Regular,3403,53,203,96,Mediterranean,Sweet,Balanced Diet
+28,Male,191,90,24.67,Diabetes,176,99,223,90,No,Gluten Intolerance,11967,3,5.1,Yes,No,Keto,1624,73,128,119,Mediterranean,Spicy,High-Protein Diet
+29,Other,150,92,40.89,Obesity,134,60,272,218,No,Lactose Intolerance,8733,4,5.1,No,Yes,Regular,3163,127,268,113,Western,Spicy,High-Protein Diet
+28,Other,190,66,18.28,Heart Disease,157,68,236,221,No,Lactose Intolerance,8774,2,7.1,No,Yes,Vegetarian,2087,151,147,68,Indian,Spicy,High-Protein Diet
+43,Female,165,90,33.06,Diabetes,177,84,195,95,No,Nut Allergy,7738,4,5.4,Yes,No,Regular,1621,120,294,37,Asian,Salty,Low-Fat Diet
+57,Other,183,96,28.67,Heart Disease,161,67,288,123,Yes,Lactose Intolerance,7667,6,4.4,No,No,Vegan,1737,100,142,139,Mediterranean,Sweet,Balanced Diet
+20,Female,158,94,37.65,Heart Disease,102,106,226,89,No,Lactose Intolerance,14144,1,7.2,No,No,Regular,3002,53,162,26,Western,Salty,Balanced Diet
+46,Other,159,108,42.72,Hypertension,168,73,214,84,No,Gluten Intolerance,7866,6,9.6,No,Yes,Keto,2458,59,370,141,Western,Salty,Low-Fat Diet
+55,Female,179,55,17.17,Diabetes,124,94,152,76,No,Gluten Intolerance,2539,0,6.3,No,No,Regular,1604,195,347,79,Asian,Sweet,Low-Carb Diet
+50,Female,181,74,22.59,Heart Disease,99,119,297,175,Yes,Lactose Intolerance,2285,2,5.9,No,No,Regular,1870,197,176,71,Asian,Sweet,Low-Fat Diet
+19,Female,150,88,39.11,Diabetes,165,107,230,224,No,Nut Allergy,2112,6,5.8,No,No,Regular,2851,83,299,110,Mediterranean,Sweet,Low-Fat Diet
+50,Other,164,58,21.56,Hypertension,141,72,242,128,Yes,Lactose Intolerance,11691,3,4.9,No,No,Keto,1772,153,345,112,Western,Salty,High-Protein Diet
+68,Male,191,100,27.41,Diabetes,119,81,231,125,No,Lactose Intolerance,14700,5,5.5,No,No,Vegetarian,1492,152,358,99,Asian,Sweet,Balanced Diet
+43,Female,163,92,34.63,Heart Disease,105,88,282,137,Yes,Lactose Intolerance,9125,3,6.1,No,Yes,Regular,2030,164,247,121,Indian,Sweet,Balanced Diet
+60,Other,153,118,50.41,Obesity,106,72,264,90,Yes,Gluten Intolerance,5467,5,5.8,Yes,No,Keto,1703,196,306,98,Western,Spicy,Low-Fat Diet
+37,Female,197,91,23.45,Heart Disease,175,116,267,156,No,Nut Allergy,5703,5,9.4,No,No,Regular,1908,108,347,76,Mediterranean,Sweet,High-Protein Diet
+25,Other,160,65,25.39,Diabetes,114,86,267,182,No,Nut Allergy,11736,2,6.9,No,No,Vegan,2741,107,257,83,Western,Sweet,Balanced Diet
+43,Female,174,71,23.45,Hypertension,136,74,294,86,No,Nut Allergy,2072,3,9.5,No,No,Regular,3048,109,367,124,Western,Salty,Low-Fat Diet
+61,Other,174,112,36.99,Diabetes,158,117,279,236,No,Nut Allergy,8934,0,8.9,No,No,Regular,2008,143,103,83,Indian,Salty,Low-Carb Diet
+65,Other,151,88,38.59,Diabetes,107,119,210,183,Yes,Gluten Intolerance,11160,0,6.2,No,No,Regular,2286,69,143,66,Western,Sweet,Low-Fat Diet
+66,Male,162,94,35.82,Diabetes,117,96,264,143,No,Gluten Intolerance,10386,2,7.4,No,No,Regular,2704,57,113,63,Indian,Spicy,Balanced Diet
+45,Female,180,75,23.15,Hypertension,132,63,247,79,No,Nut Allergy,13727,4,7.3,No,No,Vegetarian,1718,112,118,35,Asian,Salty,Low-Fat Diet
+57,Other,187,113,32.31,Hypertension,123,113,244,75,Yes,Lactose Intolerance,3959,0,8.2,No,No,Regular,2017,87,291,104,Indian,Spicy,Low-Fat Diet
+63,Female,150,87,38.67,Diabetes,173,83,183,174,No,Nut Allergy,5519,5,9.9,No,No,Regular,2498,168,104,146,Asian,Salty,Low-Fat Diet
+18,Male,187,66,18.87,Heart Disease,162,60,161,247,Yes,Lactose Intolerance,5343,2,7.1,No,No,Regular,3231,160,233,92,Mediterranean,Sweet,High-Protein Diet
+32,Male,184,87,25.7,Hypertension,144,114,157,231,No,Nut Allergy,9489,0,8.1,No,No,Keto,1767,107,300,63,Asian,Salty,Balanced Diet
+64,Female,160,50,19.53,Hypertension,117,97,175,105,No,Nut Allergy,4999,0,6,No,No,Keto,2057,93,152,131,Mediterranean,Salty,Balanced Diet
+52,Male,180,88,27.16,Heart Disease,117,89,173,91,No,Lactose Intolerance,9484,6,5.3,Yes,No,Regular,1296,184,215,110,Mediterranean,Sweet,High-Protein Diet
+44,Male,157,80,32.46,Hypertension,157,69,238,231,No,Nut Allergy,9453,1,5.8,No,No,Regular,1750,68,279,87,Indian,Spicy,Balanced Diet
+71,Female,163,81,30.49,Diabetes,151,79,162,137,No,Lactose Intolerance,3057,6,5.4,No,No,Keto,1310,72,367,102,Mediterranean,Salty,Low-Carb Diet
+41,Female,160,95,37.11,Diabetes,110,77,172,181,No,Lactose Intolerance,5738,4,9.5,No,No,Vegetarian,1712,164,104,82,Western,Sweet,Low-Fat Diet
+50,Other,169,92,32.21,Diabetes,104,104,218,132,No,Lactose Intolerance,11119,1,5.9,No,No,Vegan,3163,147,236,80,Western,Salty,Low-Carb Diet
+47,Other,162,51,19.43,Obesity,136,97,288,70,Yes,Nut Allergy,6176,5,4.5,Yes,Yes,Regular,1271,120,263,103,Indian,Spicy,Balanced Diet
+73,Other,191,58,15.9,Heart Disease,162,96,244,171,No,Nut Allergy,10429,1,5.7,No,No,Keto,1821,159,252,77,Western,Spicy,Low-Fat Diet
+66,Male,168,96,34.01,Heart Disease,106,115,221,102,No,Lactose Intolerance,13353,2,7,No,No,Vegetarian,2042,109,258,45,Indian,Sweet,High-Protein Diet
+46,Female,162,97,36.96,Diabetes,119,97,282,113,No,Gluten Intolerance,14375,2,6.5,No,No,Keto,2695,133,262,65,Mediterranean,Salty,Balanced Diet
+35,Male,171,68,23.26,Hypertension,153,113,256,71,No,Gluten Intolerance,13241,2,5,No,Yes,Vegetarian,1846,182,368,27,Asian,Salty,High-Protein Diet
+19,Other,169,85,29.76,Heart Disease,101,119,247,125,Yes,Lactose Intolerance,7207,3,7.6,No,No,Keto,3141,125,178,147,Indian,Sweet,Low-Fat Diet
+66,Male,182,84,25.36,Diabetes,137,106,223,245,No,Nut Allergy,4926,5,8.3,No,No,Regular,3264,188,298,50,Asian,Sweet,Balanced Diet
+56,Female,181,95,29,Hypertension,174,96,257,209,No,Nut Allergy,7640,0,9.1,No,No,Regular,3107,145,283,53,Asian,Sweet,High-Protein Diet
+49,Female,157,65,26.37,Heart Disease,114,74,268,191,Yes,Nut Allergy,12819,3,9.3,No,No,Regular,2706,199,161,83,Western,Sweet,High-Protein Diet
+20,Other,160,75,29.3,Obesity,117,80,209,242,Yes,Nut Allergy,8319,0,6.2,Yes,No,Regular,2979,163,279,120,Mediterranean,Sweet,Low-Fat Diet
+51,Other,151,58,25.44,Heart Disease,167,63,286,248,Yes,Gluten Intolerance,6163,0,4,Yes,Yes,Regular,3446,154,245,100,Indian,Sweet,Low-Carb Diet
+72,Other,150,67,29.78,Obesity,148,83,250,211,Yes,Nut Allergy,12329,3,7.8,Yes,Yes,Vegetarian,2935,110,151,122,Western,Sweet,Low-Carb Diet
+40,Other,196,105,27.33,Obesity,134,114,257,127,No,Lactose Intolerance,3107,2,4.6,No,No,Regular,2223,113,188,114,Mediterranean,Salty,High-Protein Diet
+78,Other,159,53,20.96,Diabetes,118,116,212,227,No,Gluten Intolerance,12116,0,4.7,No,No,Vegan,1278,65,110,107,Asian,Spicy,Balanced Diet
+19,Male,164,96,35.69,Hypertension,170,79,200,191,No,Nut Allergy,2854,6,6.4,No,No,Vegan,1836,54,194,72,Indian,Spicy,Balanced Diet
+55,Female,152,114,49.34,Heart Disease,164,105,219,172,Yes,Gluten Intolerance,3044,6,4.6,No,Yes,Keto,3262,148,225,66,Western,Salty,Low-Fat Diet
+40,Female,167,62,22.23,Hypertension,136,113,168,204,Yes,Lactose Intolerance,7886,0,4.5,No,No,Regular,1459,153,252,48,Mediterranean,Sweet,Low-Carb Diet
+34,Male,164,86,31.98,Hypertension,104,79,270,246,No,Nut Allergy,10753,5,4.2,No,No,Regular,2039,111,325,29,Asian,Sweet,High-Protein Diet
+19,Male,153,105,44.85,Hypertension,125,88,258,72,Yes,Gluten Intolerance,11957,2,4.1,No,No,Vegan,3022,128,105,108,Western,Spicy,Balanced Diet
+51,Female,179,102,31.83,Hypertension,102,113,221,168,Yes,Nut Allergy,9303,2,7.6,No,No,Keto,2039,69,145,143,Western,Sweet,Low-Carb Diet
+51,Male,199,75,18.94,Hypertension,101,74,262,240,No,Nut Allergy,6004,2,5.7,No,No,Vegetarian,2590,69,386,139,Indian,Spicy,Balanced Diet
+44,Other,190,69,19.11,Hypertension,98,66,190,229,No,Gluten Intolerance,12834,3,9.7,Yes,No,Keto,1224,167,306,62,Western,Salty,Low-Carb Diet
+44,Female,158,83,33.25,Obesity,163,71,264,126,Yes,Gluten Intolerance,14304,1,8.7,No,No,Regular,2400,157,366,79,Indian,Salty,High-Protein Diet
+24,Female,195,95,24.98,Hypertension,175,80,178,155,Yes,Nut Allergy,14581,5,9.6,Yes,No,Regular,1323,72,161,66,Indian,Salty,Balanced Diet
+45,Female,175,110,35.92,Hypertension,140,76,164,204,No,Nut Allergy,6277,0,8.9,Yes,No,Vegetarian,3425,59,242,95,Mediterranean,Salty,Low-Fat Diet
+60,Male,196,103,26.81,Heart Disease,157,100,183,128,Yes,Nut Allergy,6448,1,5.7,Yes,No,Keto,2577,136,114,21,Indian,Sweet,Balanced Diet
+43,Male,176,119,38.42,Diabetes,176,100,277,89,No,Lactose Intolerance,7328,6,4.5,No,No,Regular,1682,197,230,25,Western,Spicy,Low-Carb Diet
+72,Male,181,84,25.64,Diabetes,95,62,289,86,No,Nut Allergy,13265,1,6,No,No,Keto,1366,122,375,35,Asian,Spicy,Balanced Diet
+71,Other,175,86,28.08,Heart Disease,170,110,159,78,No,Gluten Intolerance,11794,5,8.7,No,No,Vegetarian,2224,98,290,95,Western,Spicy,Low-Fat Diet
+50,Female,181,53,16.18,Diabetes,116,110,263,181,No,Lactose Intolerance,7932,2,4.3,Yes,Yes,Regular,1891,163,214,53,Western,Sweet,High-Protein Diet
+64,Male,151,117,51.31,Heart Disease,124,109,253,238,No,Lactose Intolerance,2430,4,5.6,Yes,No,Regular,2397,163,113,121,Indian,Salty,Low-Fat Diet
+34,Female,171,90,30.78,Hypertension,157,114,211,203,No,Gluten Intolerance,6839,0,5.3,No,Yes,Keto,3442,194,284,98,Mediterranean,Spicy,Balanced Diet
+60,Female,176,87,28.09,Diabetes,155,71,225,147,No,Gluten Intolerance,2452,2,8.7,No,Yes,Vegetarian,2935,102,326,122,Indian,Salty,Low-Carb Diet
+61,Other,164,99,36.81,Hypertension,124,79,278,112,Yes,Lactose Intolerance,9008,6,5.9,No,No,Regular,3112,55,247,129,Western,Spicy,Balanced Diet
+76,Other,152,113,48.91,Heart Disease,125,84,250,118,Yes,Gluten Intolerance,12596,2,9.1,Yes,No,Keto,2608,79,346,84,Asian,Spicy,Low-Carb Diet
+34,Female,164,85,31.6,Heart Disease,134,105,199,104,No,Nut Allergy,7229,1,9.9,No,Yes,Vegetarian,1710,79,344,103,Mediterranean,Sweet,Low-Fat Diet
+74,Female,186,113,32.66,Obesity,133,77,168,234,Yes,Nut Allergy,14214,1,9.8,No,Yes,Regular,1425,86,223,119,Asian,Sweet,Low-Carb Diet
+66,Female,153,83,35.46,Hypertension,165,92,244,125,Yes,Lactose Intolerance,5570,2,4.1,No,No,Vegan,1995,117,269,24,Indian,Salty,Low-Carb Diet
+34,Female,171,67,22.91,Heart Disease,148,94,232,164,Yes,Gluten Intolerance,7315,0,7.3,No,No,Regular,2644,72,305,101,Indian,Sweet,Balanced Diet
+29,Female,167,101,36.21,Obesity,110,119,232,240,No,Gluten Intolerance,5581,4,7.2,No,No,Keto,2744,96,214,136,Asian,Salty,High-Protein Diet
+43,Other,179,117,36.52,Heart Disease,104,68,224,211,No,Nut Allergy,9784,2,9.4,No,Yes,Vegan,2442,94,118,125,Mediterranean,Spicy,Low-Carb Diet
+24,Other,191,79,21.66,Diabetes,134,85,282,106,No,Gluten Intolerance,4899,2,8.4,Yes,Yes,Keto,1692,87,155,45,Indian,Spicy,Low-Fat Diet
+76,Male,170,65,22.49,Heart Disease,178,101,159,86,No,Lactose Intolerance,12321,0,7.6,No,No,Regular,3298,180,157,69,Indian,Salty,Balanced Diet
+48,Other,192,69,18.72,Heart Disease,170,94,275,119,No,Lactose Intolerance,10429,5,4.5,No,Yes,Keto,3194,81,347,130,Indian,Sweet,Low-Carb Diet
+20,Other,187,57,16.3,Diabetes,131,73,250,119,No,Gluten Intolerance,12935,3,9.9,Yes,No,Regular,3439,83,278,122,Western,Spicy,Low-Carb Diet
+59,Male,195,111,29.19,Diabetes,175,76,186,76,No,Gluten Intolerance,3259,4,5.6,Yes,No,Keto,3017,66,387,127,Indian,Spicy,Low-Carb Diet
+52,Female,178,108,34.09,Diabetes,111,75,235,160,Yes,Lactose Intolerance,8800,2,6.9,No,Yes,Regular,1800,147,131,122,Asian,Salty,Balanced Diet
+35,Other,174,115,37.98,Hypertension,160,89,187,93,No,Lactose Intolerance,12981,2,9.2,Yes,No,Regular,1375,162,238,140,Indian,Spicy,Low-Carb Diet
+46,Other,175,71,23.18,Diabetes,162,71,256,77,No,Nut Allergy,4072,1,7.2,Yes,Yes,Regular,1331,108,206,59,Mediterranean,Spicy,High-Protein Diet
+66,Male,184,85,25.11,Diabetes,141,111,245,108,No,Gluten Intolerance,13007,4,9.3,No,No,Regular,1935,52,350,81,Western,Sweet,High-Protein Diet
+61,Female,153,70,29.9,Obesity,145,110,278,187,Yes,Nut Allergy,6917,3,7.2,No,No,Regular,1557,111,277,52,Western,Spicy,Balanced Diet
+74,Female,186,110,31.8,Diabetes,171,117,223,75,No,Nut Allergy,5260,0,9.5,Yes,No,Vegetarian,2010,128,316,82,Indian,Sweet,Low-Fat Diet
+47,Female,157,105,42.6,Diabetes,145,89,208,141,No,Lactose Intolerance,10885,3,7.8,No,Yes,Regular,2657,95,111,82,Western,Spicy,Low-Carb Diet
+31,Female,198,58,14.79,Obesity,121,78,233,90,No,Gluten Intolerance,14401,2,4.5,No,No,Regular,3095,147,391,82,Western,Salty,Balanced Diet
+65,Female,188,112,31.69,Heart Disease,118,92,224,110,Yes,Nut Allergy,5954,5,5.2,Yes,No,Regular,1797,128,180,112,Western,Salty,Low-Fat Diet
+29,Female,176,59,19.05,Diabetes,103,114,242,95,No,Gluten Intolerance,10908,2,8,Yes,No,Regular,1434,174,280,21,Indian,Sweet,High-Protein Diet
+60,Other,196,72,18.74,Obesity,93,70,249,95,No,Lactose Intolerance,5672,3,6.3,No,No,Vegan,2919,122,186,56,Asian,Salty,Low-Carb Diet
+63,Female,194,51,13.55,Diabetes,95,99,192,76,No,Lactose Intolerance,4551,4,7.2,No,Yes,Regular,1994,175,115,81,Mediterranean,Sweet,Low-Fat Diet
+28,Male,171,114,38.99,Heart Disease,124,68,247,155,No,Gluten Intolerance,5650,0,9.8,Yes,No,Regular,2958,60,217,133,Asian,Spicy,Low-Carb Diet
+30,Male,173,119,39.76,Obesity,147,108,174,187,No,Gluten Intolerance,2731,1,9.4,No,No,Keto,2935,57,207,141,Asian,Spicy,Balanced Diet
+21,Other,198,114,29.08,Diabetes,102,118,251,227,Yes,Nut Allergy,13240,5,5,No,Yes,Keto,3384,112,100,53,Mediterranean,Sweet,Low-Carb Diet
+23,Female,156,81,33.28,Heart Disease,119,91,155,144,Yes,Lactose Intolerance,10348,3,5.6,Yes,No,Keto,2939,110,175,63,Indian,Salty,Low-Carb Diet
+75,Male,164,83,30.86,Obesity,130,85,270,203,Yes,Lactose Intolerance,5065,3,6,No,No,Regular,3481,86,315,60,Western,Spicy,High-Protein Diet
+78,Female,150,66,29.33,Obesity,115,77,299,164,Yes,Gluten Intolerance,4233,0,8.7,No,No,Regular,1858,57,131,76,Asian,Sweet,Low-Fat Diet
+59,Male,178,64,20.2,Diabetes,177,88,177,241,No,Gluten Intolerance,4090,2,7.9,No,Yes,Regular,1579,72,263,111,Asian,Spicy,Low-Fat Diet
+30,Male,175,63,20.57,Diabetes,146,75,154,204,No,Gluten Intolerance,4914,4,9.6,No,No,Keto,2491,124,139,110,Mediterranean,Salty,Low-Fat Diet
+78,Female,170,69,23.88,Hypertension,108,87,236,186,No,Nut Allergy,13564,5,5.7,No,No,Vegetarian,3414,93,251,54,Mediterranean,Spicy,High-Protein Diet
+28,Female,162,95,36.2,Obesity,157,88,265,163,No,Gluten Intolerance,9487,2,7.3,Yes,No,Regular,3305,187,337,80,Indian,Sweet,Low-Carb Diet
+58,Male,171,105,35.91,Diabetes,158,93,296,176,No,Gluten Intolerance,14997,3,9.5,No,Yes,Vegan,1508,124,207,132,Asian,Sweet,Balanced Diet
+59,Other,181,116,35.41,Diabetes,163,92,275,236,No,Nut Allergy,4902,1,5.9,Yes,No,Vegan,1619,171,328,105,Western,Sweet,Low-Fat Diet
+41,Female,170,65,22.49,Heart Disease,172,87,237,117,No,Lactose Intolerance,6500,2,5.6,No,No,Regular,2632,173,258,26,Western,Spicy,Balanced Diet
+25,Female,196,80,20.82,Heart Disease,133,114,210,162,Yes,Gluten Intolerance,4948,1,4.5,Yes,No,Regular,1466,64,259,122,Asian,Spicy,Balanced Diet
+30,Male,179,118,36.83,Hypertension,134,65,167,143,Yes,Gluten Intolerance,10242,0,6.5,No,No,Regular,3477,71,381,47,Asian,Sweet,Balanced Diet
+45,Other,198,61,15.56,Heart Disease,122,78,184,192,Yes,Gluten Intolerance,5199,1,8.3,Yes,No,Regular,3462,118,295,117,Asian,Salty,Low-Carb Diet
+75,Female,150,109,48.44,Hypertension,112,101,253,103,Yes,Lactose Intolerance,4015,2,9.6,No,No,Keto,2063,145,130,110,Asian,Salty,Low-Fat Diet
+73,Female,150,70,31.11,Hypertension,118,97,247,135,No,Lactose Intolerance,9418,6,9.6,Yes,No,Vegetarian,2386,53,113,115,Asian,Salty,Low-Carb Diet
+62,Other,168,83,29.41,Heart Disease,136,106,275,104,No,Lactose Intolerance,11279,0,8.7,No,No,Regular,3078,190,195,75,Indian,Salty,Balanced Diet
+50,Other,192,105,28.48,Hypertension,92,80,241,180,No,Nut Allergy,14228,5,6.8,No,No,Regular,1341,149,328,103,Western,Sweet,Low-Fat Diet
+42,Male,199,86,21.72,Diabetes,121,78,236,238,No,Lactose Intolerance,2804,2,5.5,No,No,Vegan,1780,110,243,131,Mediterranean,Salty,Balanced Diet
+44,Male,186,93,26.88,Diabetes,131,99,200,194,No,Lactose Intolerance,8305,6,5,No,Yes,Regular,2548,97,389,58,Western,Sweet,High-Protein Diet
+22,Other,182,70,21.13,Obesity,176,69,236,179,Yes,Gluten Intolerance,6395,3,5.8,No,Yes,Keto,2626,135,291,58,Asian,Spicy,High-Protein Diet
+35,Male,174,93,30.72,Hypertension,92,101,189,160,No,Lactose Intolerance,6780,2,9.7,No,No,Regular,1537,55,384,109,Mediterranean,Salty,Balanced Diet
+48,Male,195,57,14.99,Diabetes,109,92,282,154,No,Gluten Intolerance,9614,5,4.6,Yes,Yes,Keto,1368,165,174,96,Mediterranean,Spicy,Low-Carb Diet
+62,Female,156,79,32.46,Heart Disease,156,117,250,218,No,Lactose Intolerance,8182,5,6.1,No,No,Keto,2574,118,193,136,Asian,Salty,High-Protein Diet
+23,Male,174,111,36.66,Diabetes,159,86,255,112,Yes,Lactose Intolerance,13382,4,8.6,No,No,Vegetarian,3256,106,361,112,Asian,Salty,Low-Carb Diet
+37,Female,176,50,16.14,Diabetes,179,113,225,193,Yes,Lactose Intolerance,6576,5,8,Yes,No,Keto,3053,163,146,54,Asian,Salty,Low-Fat Diet
+67,Male,198,80,20.41,Diabetes,145,66,192,131,No,Gluten Intolerance,10452,4,7.1,No,No,Keto,1541,100,202,92,Indian,Salty,Low-Fat Diet
+27,Other,185,61,17.82,Diabetes,99,85,276,120,No,Nut Allergy,5939,4,9.1,No,No,Vegan,1252,78,197,98,Asian,Spicy,Low-Carb Diet
+52,Other,187,99,28.31,Heart Disease,120,99,262,106,No,Nut Allergy,13559,5,4.3,No,No,Keto,2133,140,251,39,Western,Spicy,High-Protein Diet
+34,Other,158,54,21.63,Heart Disease,166,109,176,215,Yes,Lactose Intolerance,4166,0,8.6,Yes,Yes,Regular,1920,178,188,79,Indian,Salty,Low-Fat Diet
+56,Female,171,92,31.46,Diabetes,104,80,289,85,Yes,Lactose Intolerance,14546,3,6.9,No,No,Keto,3157,130,337,91,Western,Sweet,Low-Carb Diet
+31,Other,165,50,18.37,Obesity,107,100,172,132,Yes,Nut Allergy,4709,0,8.5,Yes,Yes,Vegan,1621,193,144,86,Mediterranean,Salty,Low-Carb Diet
+73,Female,177,79,25.22,Heart Disease,103,101,203,141,No,Lactose Intolerance,8872,0,7.2,Yes,No,Regular,1501,88,295,103,Asian,Salty,Balanced Diet
+45,Female,192,85,23.06,Diabetes,109,74,231,111,Yes,Lactose Intolerance,3153,0,5.1,Yes,No,Regular,2896,183,339,126,Mediterranean,Salty,Low-Carb Diet
+37,Male,198,88,22.45,Diabetes,178,107,212,160,No,Gluten Intolerance,8868,4,7.2,No,Yes,Regular,1730,137,185,76,Mediterranean,Sweet,High-Protein Diet
+23,Other,158,62,24.84,Hypertension,126,106,215,77,Yes,Lactose Intolerance,13260,1,6.6,No,No,Keto,1709,109,267,149,Mediterranean,Salty,Low-Fat Diet
+36,Male,199,65,16.41,Obesity,175,115,261,190,No,Lactose Intolerance,2235,0,6.7,No,No,Regular,1752,190,399,48,Asian,Spicy,High-Protein Diet
+22,Female,180,76,23.46,Heart Disease,104,108,294,93,No,Lactose Intolerance,13835,2,8.3,Yes,No,Regular,2757,86,130,60,Asian,Spicy,Low-Fat Diet
+76,Female,172,84,28.39,Hypertension,153,71,217,237,No,Gluten Intolerance,3796,6,9.6,Yes,No,Regular,3334,195,360,60,Indian,Sweet,High-Protein Diet
+32,Female,170,99,34.26,Heart Disease,156,105,198,117,Yes,Lactose Intolerance,5827,6,7.8,No,Yes,Keto,1977,56,305,100,Mediterranean,Spicy,High-Protein Diet
+44,Other,167,102,36.57,Diabetes,111,64,264,113,Yes,Lactose Intolerance,9335,5,7.4,No,Yes,Regular,1885,89,327,61,Asian,Salty,Low-Fat Diet
+77,Male,152,92,39.82,Hypertension,120,60,190,104,Yes,Nut Allergy,2965,4,9.6,No,No,Vegan,1803,132,377,127,Indian,Salty,Low-Carb Diet
+67,Female,153,81,34.6,Heart Disease,108,76,252,186,Yes,Lactose Intolerance,13696,5,5.5,Yes,No,Regular,3275,72,198,22,Asian,Spicy,High-Protein Diet
+70,Male,196,57,14.84,Diabetes,120,64,206,229,No,Nut Allergy,14008,1,7.3,No,No,Regular,1400,186,115,53,Mediterranean,Spicy,Low-Fat Diet
+77,Other,172,95,32.11,Hypertension,148,119,171,70,No,Gluten Intolerance,11968,5,8.9,No,No,Keto,1431,62,244,145,Indian,Salty,Low-Carb Diet
+75,Other,167,70,25.1,Hypertension,144,74,217,180,No,Lactose Intolerance,10963,2,9.4,No,No,Regular,1997,121,117,116,Indian,Sweet,Low-Fat Diet
+30,Male,190,110,30.47,Obesity,108,87,293,185,No,Gluten Intolerance,11428,0,6.1,No,No,Keto,2558,68,206,84,Mediterranean,Sweet,Low-Fat Diet
+38,Female,170,99,34.26,Heart Disease,95,119,230,205,Yes,Lactose Intolerance,8464,1,8.9,No,No,Regular,1203,132,258,113,Indian,Sweet,High-Protein Diet
+28,Male,195,79,20.78,Hypertension,167,99,218,97,No,Lactose Intolerance,8390,1,9.1,No,No,Regular,1663,143,221,45,Asian,Spicy,High-Protein Diet
+58,Other,198,103,26.27,Diabetes,144,64,205,153,No,Nut Allergy,9325,4,8.1,Yes,Yes,Regular,1713,61,144,95,Western,Salty,Balanced Diet
+63,Male,182,98,29.59,Hypertension,153,77,269,197,No,Lactose Intolerance,5834,5,8.5,Yes,No,Keto,3314,148,320,118,Asian,Spicy,Low-Fat Diet
+49,Other,162,53,20.2,Hypertension,147,102,174,157,Yes,Nut Allergy,4429,3,8.4,Yes,No,Regular,2448,78,310,29,Indian,Sweet,Low-Carb Diet
+71,Other,161,109,42.05,Heart Disease,112,77,202,86,No,Lactose Intolerance,9789,1,5,No,Yes,Regular,1692,193,352,61,Western,Spicy,High-Protein Diet
+50,Female,182,71,21.43,Diabetes,159,90,232,173,Yes,Nut Allergy,14882,6,4.6,No,No,Keto,2161,89,231,102,Mediterranean,Spicy,High-Protein Diet
+30,Female,162,59,22.48,Heart Disease,163,89,261,163,No,Gluten Intolerance,5116,1,7.8,No,No,Vegetarian,2804,179,231,20,Mediterranean,Spicy,Low-Carb Diet
+47,Male,159,91,36,Diabetes,128,85,218,136,No,Gluten Intolerance,13715,5,4.8,No,No,Regular,2583,168,377,72,Asian,Spicy,Low-Carb Diet
+32,Other,181,66,20.15,Heart Disease,153,82,206,143,No,Lactose Intolerance,11861,3,4.7,No,No,Regular,2191,149,172,81,Western,Sweet,Low-Fat Diet
+51,Male,162,59,22.48,Diabetes,165,103,177,194,No,Lactose Intolerance,6076,0,7.9,No,No,Regular,2104,178,232,52,Indian,Salty,High-Protein Diet
+64,Female,183,54,16.12,Obesity,151,113,182,70,No,Gluten Intolerance,4602,1,5.3,No,No,Regular,2382,91,183,68,Asian,Spicy,Low-Carb Diet
+21,Female,182,117,35.32,Hypertension,101,103,222,77,No,Lactose Intolerance,6669,0,6.8,Yes,No,Regular,2224,72,281,98,Western,Sweet,Low-Fat Diet
+23,Other,182,73,22.04,Diabetes,116,75,154,233,No,Nut Allergy,6027,3,9,No,No,Regular,1208,72,346,82,Indian,Sweet,Balanced Diet
+75,Other,157,90,36.51,Heart Disease,95,85,205,79,No,Gluten Intolerance,8734,5,7.4,No,No,Vegan,3152,95,133,148,Western,Salty,Balanced Diet
+35,Female,170,83,28.72,Obesity,164,117,166,221,No,Lactose Intolerance,10100,6,7.3,No,Yes,Regular,1599,148,164,46,Indian,Spicy,Low-Fat Diet
+35,Other,174,116,38.31,Obesity,105,100,194,79,Yes,Gluten Intolerance,6825,6,6.6,No,No,Vegan,2387,52,123,68,Mediterranean,Salty,Low-Fat Diet
+36,Female,196,111,28.89,Hypertension,106,118,198,109,No,Lactose Intolerance,6553,5,7.7,Yes,No,Regular,1369,61,164,36,Asian,Spicy,High-Protein Diet
+32,Female,151,93,40.79,Diabetes,173,84,155,147,No,Lactose Intolerance,12520,2,8.7,No,Yes,Vegetarian,3302,51,272,56,Mediterranean,Sweet,Low-Fat Diet
+78,Other,166,59,21.41,Heart Disease,122,92,183,132,No,Lactose Intolerance,14619,5,7.7,Yes,No,Regular,2060,193,113,42,Western,Sweet,Low-Carb Diet
+61,Other,152,91,39.39,Obesity,93,96,221,152,No,Gluten Intolerance,14838,0,4,No,No,Vegetarian,2042,174,144,100,Mediterranean,Spicy,Low-Carb Diet
+77,Male,175,64,20.9,Obesity,138,117,192,216,No,Lactose Intolerance,3360,5,8.3,No,No,Regular,2194,167,208,40,Asian,Spicy,Low-Fat Diet
+41,Female,185,85,24.84,Hypertension,100,62,159,86,No,Lactose Intolerance,11245,1,4.2,Yes,No,Regular,3442,121,323,42,Asian,Sweet,Low-Fat Diet
+51,Male,153,78,33.32,Hypertension,121,96,203,117,Yes,Gluten Intolerance,12623,1,4.9,Yes,Yes,Regular,2747,52,318,107,Mediterranean,Spicy,High-Protein Diet
+68,Male,156,82,33.69,Hypertension,174,62,227,214,Yes,Gluten Intolerance,3351,0,5.1,No,No,Regular,1996,187,287,144,Asian,Spicy,Balanced Diet
+78,Female,160,70,27.34,Diabetes,112,92,162,156,No,Lactose Intolerance,2184,6,9,Yes,Yes,Vegan,1972,61,123,71,Asian,Salty,High-Protein Diet
+72,Female,170,78,26.99,Obesity,112,60,213,159,No,Nut Allergy,9542,2,9.2,No,No,Keto,3180,57,179,81,Indian,Salty,High-Protein Diet
+22,Other,158,94,37.65,Heart Disease,143,96,267,153,No,Gluten Intolerance,4355,3,5.4,No,No,Keto,3142,58,265,118,Mediterranean,Sweet,Low-Fat Diet
+34,Other,167,94,33.71,Heart Disease,96,71,271,188,Yes,Gluten Intolerance,7334,5,9.4,No,No,Vegetarian,1302,194,311,61,Indian,Salty,Low-Fat Diet
+52,Other,152,104,45.01,Heart Disease,161,103,200,121,No,Nut Allergy,4076,4,7.8,Yes,No,Vegetarian,1859,101,364,106,Western,Sweet,High-Protein Diet
+64,Male,167,117,41.95,Heart Disease,110,114,252,108,No,Nut Allergy,7427,3,9.2,No,Yes,Vegan,2642,57,201,146,Mediterranean,Spicy,Low-Fat Diet
+27,Male,165,104,38.2,Hypertension,168,95,258,186,Yes,Lactose Intolerance,11890,5,4.4,No,No,Vegan,3125,129,389,25,Asian,Spicy,Balanced Diet
+31,Other,190,94,26.04,Diabetes,139,70,261,170,Yes,Gluten Intolerance,8252,3,6.9,No,No,Regular,2348,71,161,47,Western,Spicy,Balanced Diet
+54,Male,190,107,29.64,Heart Disease,110,88,179,150,No,Nut Allergy,11018,3,8.4,No,Yes,Regular,2394,183,306,140,Western,Spicy,Low-Carb Diet
+54,Other,184,52,15.36,Hypertension,101,72,261,146,No,Lactose Intolerance,6695,4,8.4,No,Yes,Keto,2302,170,241,45,Asian,Spicy,Low-Fat Diet
+37,Other,183,118,35.24,Diabetes,133,114,195,83,No,Gluten Intolerance,14121,1,9.8,Yes,Yes,Regular,2489,142,260,69,Western,Spicy,High-Protein Diet
+73,Other,162,88,33.53,Heart Disease,137,75,218,71,Yes,Lactose Intolerance,11875,2,9.4,No,No,Vegan,2193,106,213,59,Western,Spicy,Low-Carb Diet
+72,Female,151,85,37.28,Hypertension,171,72,252,196,No,Nut Allergy,9551,6,7.8,No,No,Vegan,3428,61,123,129,Asian,Sweet,Low-Fat Diet
+18,Other,164,67,24.91,Diabetes,155,119,284,176,No,Gluten Intolerance,3626,2,5.3,No,No,Regular,2849,136,261,135,Mediterranean,Sweet,Balanced Diet
+49,Male,194,111,29.49,Heart Disease,102,77,299,213,Yes,Nut Allergy,13869,6,9.3,Yes,Yes,Vegetarian,2985,75,186,32,Mediterranean,Salty,Low-Carb Diet
+64,Other,167,81,29.04,Hypertension,152,95,286,100,Yes,Gluten Intolerance,3320,0,7.5,No,No,Regular,1808,187,386,82,Asian,Sweet,Balanced Diet
+18,Female,175,89,29.06,Heart Disease,148,99,296,188,No,Gluten Intolerance,4369,4,9.1,No,Yes,Vegetarian,2285,159,320,99,Indian,Sweet,Low-Fat Diet
+66,Male,184,80,23.63,Diabetes,168,79,215,225,No,Gluten Intolerance,12898,0,9,Yes,No,Regular,1646,101,144,109,Asian,Salty,Balanced Diet
+30,Female,165,93,34.16,Diabetes,121,114,297,201,Yes,Nut Allergy,11092,0,9.6,No,Yes,Vegetarian,1297,129,356,115,Asian,Spicy,High-Protein Diet
+30,Other,169,111,38.86,Hypertension,141,70,196,194,No,Nut Allergy,2143,1,9.1,No,Yes,Regular,1946,195,292,124,Mediterranean,Salty,Balanced Diet
+51,Male,163,86,32.37,Heart Disease,126,81,196,175,No,Nut Allergy,4535,6,9.6,No,No,Regular,3359,53,171,65,Asian,Spicy,Balanced Diet
+78,Male,176,73,23.57,Diabetes,167,72,267,70,No,Nut Allergy,11605,5,6.9,No,No,Keto,3277,150,274,101,Mediterranean,Salty,Low-Fat Diet
+30,Female,179,93,29.03,Obesity,127,80,215,130,No,Nut Allergy,10364,6,7,Yes,Yes,Regular,2486,55,185,144,Mediterranean,Spicy,High-Protein Diet
+79,Male,159,83,32.83,Diabetes,111,66,259,126,No,Lactose Intolerance,7320,5,6.5,Yes,Yes,Regular,2324,133,366,74,Asian,Salty,Low-Carb Diet
+42,Male,186,63,18.21,Heart Disease,147,111,192,155,No,Lactose Intolerance,2408,2,4.1,Yes,No,Regular,1678,108,234,26,Mediterranean,Sweet,Low-Fat Diet
+38,Other,199,110,27.78,Diabetes,122,112,233,224,Yes,Gluten Intolerance,13799,4,4.2,No,No,Keto,2356,106,272,93,Indian,Sweet,Balanced Diet
+66,Female,197,102,26.28,Obesity,153,118,163,202,No,Nut Allergy,8320,2,6.2,Yes,No,Vegetarian,2122,136,134,149,Mediterranean,Sweet,Low-Fat Diet
+55,Female,197,60,15.46,Diabetes,147,90,191,194,No,Lactose Intolerance,6234,1,5.9,Yes,No,Regular,3237,128,169,23,Mediterranean,Sweet,High-Protein Diet
+25,Male,157,67,27.18,Diabetes,111,94,290,211,Yes,Lactose Intolerance,11779,4,8.3,No,No,Vegetarian,2802,176,291,41,Asian,Spicy,Low-Carb Diet
+65,Female,170,114,39.45,Obesity,127,86,184,154,No,Gluten Intolerance,2743,2,4.1,No,Yes,Regular,1642,186,263,70,Western,Salty,Low-Fat Diet
+46,Other,163,70,26.35,Hypertension,128,67,158,161,No,Lactose Intolerance,11298,1,5.2,No,No,Vegetarian,3399,155,373,121,Western,Sweet,High-Protein Diet
+42,Female,197,99,25.51,Heart Disease,164,96,265,241,Yes,Lactose Intolerance,10821,1,8.3,No,No,Keto,1787,194,323,66,Western,Salty,Low-Fat Diet
+29,Other,193,97,26.04,Hypertension,91,64,293,100,Yes,Nut Allergy,6910,3,9.8,No,No,Vegetarian,1725,109,236,79,Asian,Salty,Low-Fat Diet
+61,Female,158,117,46.87,Diabetes,161,115,240,87,No,Nut Allergy,5133,2,5.9,Yes,No,Vegan,3104,71,224,140,Western,Sweet,High-Protein Diet
+60,Other,191,66,18.09,Obesity,121,73,299,161,No,Gluten Intolerance,11339,6,5.6,No,No,Regular,2894,100,142,133,Mediterranean,Spicy,High-Protein Diet
+68,Male,157,59,23.94,Diabetes,111,72,166,160,Yes,Nut Allergy,13072,0,4.3,No,Yes,Vegetarian,1307,112,216,23,Western,Salty,High-Protein Diet
+38,Male,156,75,30.82,Obesity,132,96,212,204,Yes,Lactose Intolerance,2265,0,5.1,No,No,Vegan,2145,150,293,51,Indian,Spicy,High-Protein Diet
+59,Other,195,93,24.46,Diabetes,175,79,171,148,No,Gluten Intolerance,5333,5,8.7,No,No,Regular,1919,165,208,35,Asian,Sweet,High-Protein Diet
+19,Female,159,117,46.28,Heart Disease,104,110,154,105,Yes,Nut Allergy,3291,6,7.1,No,No,Keto,1271,95,380,139,Indian,Sweet,Low-Carb Diet
+42,Male,174,87,28.74,Heart Disease,135,113,155,226,No,Gluten Intolerance,10049,4,5.1,Yes,No,Regular,1309,152,103,66,Mediterranean,Sweet,Low-Carb Diet
+37,Female,176,110,35.51,Diabetes,146,90,199,140,No,Lactose Intolerance,5736,0,6.9,No,No,Vegan,2063,105,376,139,Mediterranean,Salty,Low-Carb Diet
+71,Female,196,75,19.52,Hypertension,156,64,171,82,Yes,Lactose Intolerance,2289,1,7.3,Yes,Yes,Vegetarian,1354,162,342,23,Western,Salty,High-Protein Diet
+74,Male,184,97,28.65,Hypertension,104,105,234,205,No,Nut Allergy,14290,4,7.1,No,No,Vegetarian,3279,178,224,86,Western,Spicy,Balanced Diet
+41,Other,167,55,19.72,Diabetes,104,78,278,168,No,Nut Allergy,7479,4,9,No,No,Vegetarian,2007,63,358,63,Asian,Spicy,Balanced Diet
+33,Other,182,112,33.81,Heart Disease,151,71,293,177,Yes,Gluten Intolerance,11040,3,6,Yes,Yes,Keto,2901,118,335,55,Indian,Salty,Balanced Diet
+41,Other,192,89,24.14,Obesity,144,114,218,196,Yes,Lactose Intolerance,11620,0,9.8,No,Yes,Regular,2455,87,150,70,Western,Spicy,Balanced Diet
+42,Female,188,115,32.54,Heart Disease,104,96,218,209,No,Nut Allergy,7225,5,8.4,No,No,Vegetarian,2247,105,139,34,Mediterranean,Sweet,High-Protein Diet
+52,Male,197,79,20.36,Hypertension,148,62,226,180,No,Gluten Intolerance,7987,4,4.3,No,No,Keto,1501,165,262,88,Western,Spicy,Low-Fat Diet
+34,Female,187,93,26.59,Diabetes,154,85,210,116,No,Lactose Intolerance,2909,6,6.9,Yes,No,Regular,2581,112,262,135,Indian,Salty,Balanced Diet
+39,Male,196,74,19.26,Hypertension,125,102,288,187,No,Lactose Intolerance,10641,5,8.1,No,No,Vegetarian,2618,186,377,32,Mediterranean,Sweet,Low-Fat Diet
+32,Female,186,50,14.45,Hypertension,137,103,244,153,No,Gluten Intolerance,7429,3,5.1,No,No,Keto,1940,135,197,138,Western,Spicy,High-Protein Diet
+45,Female,166,101,36.65,Hypertension,95,88,157,166,Yes,Gluten Intolerance,3979,4,8.5,No,No,Regular,3145,104,365,42,Mediterranean,Salty,High-Protein Diet
+49,Other,190,90,24.93,Obesity,157,111,247,144,Yes,Lactose Intolerance,8828,1,5,No,No,Keto,2707,191,301,99,Asian,Salty,Low-Carb Diet
+30,Female,151,95,41.66,Hypertension,143,107,250,198,No,Nut Allergy,9905,6,5.7,No,Yes,Regular,3204,91,302,141,Indian,Spicy,Low-Carb Diet
+79,Other,165,82,30.12,Heart Disease,163,86,253,125,No,Lactose Intolerance,6775,2,8.2,No,No,Regular,2591,194,106,47,Asian,Salty,Low-Carb Diet
+58,Male,168,52,18.42,Diabetes,139,80,176,92,No,Nut Allergy,5504,2,8.8,No,No,Regular,2603,120,361,147,Mediterranean,Spicy,Low-Carb Diet
+53,Other,177,95,30.32,Diabetes,139,90,179,124,No,Nut Allergy,12957,1,4.4,No,Yes,Regular,2683,173,205,29,Mediterranean,Sweet,Low-Carb Diet
+20,Male,167,67,24.02,Heart Disease,95,97,152,172,No,Lactose Intolerance,6918,6,9.8,No,No,Regular,1751,188,188,23,Asian,Sweet,Low-Fat Diet
+76,Male,199,61,15.4,Diabetes,130,82,214,128,Yes,Lactose Intolerance,4575,2,10,Yes,Yes,Vegetarian,2865,50,270,33,Indian,Spicy,High-Protein Diet
+58,Other,192,110,29.84,Diabetes,91,78,215,139,No,Lactose Intolerance,13566,0,4.6,Yes,No,Vegetarian,2513,134,338,73,Mediterranean,Salty,Low-Carb Diet
+23,Female,162,69,26.29,Heart Disease,103,95,254,189,No,Lactose Intolerance,13852,2,7.6,No,No,Regular,1895,74,246,124,Western,Salty,Balanced Diet
+47,Male,198,83,21.17,Diabetes,126,92,287,217,No,Gluten Intolerance,8394,2,4.2,Yes,No,Keto,2042,154,331,122,Western,Salty,High-Protein Diet
+46,Other,158,118,47.27,Heart Disease,126,64,246,127,No,Gluten Intolerance,2374,3,5.7,No,No,Keto,2831,154,317,147,Asian,Spicy,Balanced Diet
+64,Male,164,76,28.26,Obesity,121,99,186,128,Yes,Gluten Intolerance,11586,0,7.3,No,No,Regular,1502,181,129,118,Western,Salty,Low-Carb Diet
+74,Male,170,82,28.37,Obesity,134,103,207,93,Yes,Lactose Intolerance,14065,4,5,No,No,Regular,3499,166,333,55,Asian,Sweet,High-Protein Diet
+33,Female,165,53,19.47,Heart Disease,93,84,286,103,Yes,Lactose Intolerance,4453,4,6.6,Yes,Yes,Regular,3363,114,147,144,Western,Salty,Low-Carb Diet
+33,Male,165,119,43.71,Heart Disease,119,118,211,149,No,Gluten Intolerance,8483,6,8.9,No,No,Regular,2723,174,200,93,Western,Salty,Low-Fat Diet
+45,Male,152,76,32.89,Diabetes,154,85,275,122,No,Lactose Intolerance,2923,5,8.4,No,No,Vegetarian,1293,153,105,113,Western,Spicy,High-Protein Diet
+57,Male,181,118,36.02,Diabetes,121,82,191,218,No,Lactose Intolerance,9221,6,6.5,No,No,Vegan,3015,131,277,41,Western,Spicy,High-Protein Diet
+53,Male,182,116,35.02,Obesity,109,106,287,160,No,Nut Allergy,5713,0,5.4,No,No,Regular,3294,68,348,122,Western,Spicy,Balanced Diet
+74,Other,168,58,20.55,Hypertension,160,103,261,179,Yes,Nut Allergy,9517,1,9.1,No,No,Vegetarian,3276,129,372,24,Asian,Salty,Low-Fat Diet
+43,Male,197,89,22.93,Obesity,139,108,248,195,No,Lactose Intolerance,9576,1,9.4,No,No,Regular,1249,184,369,123,Mediterranean,Salty,Low-Carb Diet
+32,Other,194,80,21.26,Obesity,138,112,216,207,No,Lactose Intolerance,10148,5,7.3,No,No,Regular,1953,191,143,48,Asian,Salty,Low-Fat Diet
+59,Female,168,86,30.47,Diabetes,124,92,208,83,No,Nut Allergy,9706,6,5.4,Yes,No,Regular,2388,150,140,27,Indian,Salty,Low-Carb Diet
+47,Male,165,92,33.79,Heart Disease,135,81,166,116,No,Gluten Intolerance,6730,5,4.8,No,No,Regular,1597,139,282,24,Indian,Sweet,Low-Carb Diet
+69,Other,192,52,14.11,Hypertension,179,88,261,179,No,Nut Allergy,4004,3,5.7,No,Yes,Regular,3030,101,176,149,Mediterranean,Spicy,Low-Fat Diet
+19,Female,153,59,25.2,Heart Disease,154,103,214,105,No,Lactose Intolerance,6245,6,6,No,No,Vegan,1930,116,216,52,Western,Sweet,Low-Carb Diet
+78,Female,179,84,26.22,Hypertension,103,62,199,170,No,Gluten Intolerance,12652,5,5.6,Yes,No,Vegan,1803,59,362,82,Western,Salty,Low-Fat Diet
+18,Female,158,52,20.83,Heart Disease,145,64,232,169,Yes,Lactose Intolerance,10027,0,9.1,No,No,Keto,3414,147,272,31,Indian,Spicy,Low-Carb Diet
+63,Female,190,56,15.51,Heart Disease,165,87,203,115,No,Gluten Intolerance,6261,3,9,No,No,Regular,2714,174,212,144,Asian,Spicy,High-Protein Diet
+78,Female,154,100,42.17,Diabetes,162,101,242,180,Yes,Gluten Intolerance,8525,2,9.2,Yes,No,Vegan,1537,56,243,128,Mediterranean,Salty,Balanced Diet
+58,Other,176,111,35.83,Diabetes,117,77,196,140,No,Gluten Intolerance,9456,5,9.2,No,No,Regular,1497,130,180,116,Western,Sweet,High-Protein Diet
+23,Female,157,89,36.11,Hypertension,129,97,295,82,No,Nut Allergy,10707,0,9,No,No,Vegetarian,2963,198,256,76,Mediterranean,Spicy,Balanced Diet
+51,Other,157,82,33.27,Diabetes,150,82,201,194,No,Nut Allergy,6900,3,9.9,No,No,Regular,1468,166,276,110,Asian,Salty,Low-Carb Diet
+32,Male,190,95,26.32,Hypertension,130,60,238,89,No,Nut Allergy,6208,5,5,No,Yes,Keto,3335,178,267,69,Indian,Sweet,Low-Carb Diet
+21,Other,179,94,29.34,Hypertension,98,84,284,159,No,Gluten Intolerance,12133,2,6.3,Yes,No,Regular,3232,93,224,78,Indian,Salty,Low-Carb Diet
+48,Male,151,74,32.45,Heart Disease,126,81,181,179,No,Gluten Intolerance,7366,5,4.7,No,No,Regular,1283,60,346,133,Western,Salty,Low-Fat Diet
+46,Female,174,50,16.51,Diabetes,164,79,223,214,No,Lactose Intolerance,14526,3,6.7,No,No,Regular,2345,160,210,26,Asian,Sweet,Low-Fat Diet
+19,Male,180,88,27.16,Heart Disease,129,86,150,103,No,Lactose Intolerance,14879,2,5.6,No,No,Regular,2572,161,338,42,Asian,Sweet,Low-Carb Diet
+79,Female,176,79,25.5,Obesity,102,67,153,233,No,Gluten Intolerance,12419,5,6.1,No,No,Regular,1635,189,106,99,Indian,Salty,Low-Carb Diet
+78,Male,153,99,42.29,Hypertension,177,109,164,131,No,Gluten Intolerance,3523,3,5.1,No,No,Regular,3088,146,327,78,Western,Sweet,Balanced Diet
+26,Male,159,102,40.35,Diabetes,153,116,190,146,No,Lactose Intolerance,4937,1,7,No,No,Vegan,3388,189,283,44,Asian,Spicy,Balanced Diet
+54,Other,169,94,32.91,Diabetes,169,96,272,240,Yes,Lactose Intolerance,2591,6,7.7,No,No,Regular,2970,59,132,87,Mediterranean,Spicy,Low-Fat Diet
+55,Other,178,70,22.09,Hypertension,124,64,296,149,No,Gluten Intolerance,7842,4,8.1,Yes,Yes,Regular,1807,138,324,67,Western,Salty,Low-Carb Diet
+31,Other,156,56,23.01,Obesity,164,69,176,185,No,Nut Allergy,14030,6,8.9,Yes,No,Vegan,1432,162,263,105,Indian,Spicy,Low-Fat Diet
+44,Other,184,63,18.61,Diabetes,178,82,181,235,No,Gluten Intolerance,12342,0,6.1,No,No,Regular,1427,84,234,101,Indian,Sweet,Low-Fat Diet
+18,Male,157,112,45.44,Hypertension,133,82,284,76,No,Nut Allergy,13228,4,9,No,Yes,Regular,2447,51,323,36,Indian,Salty,Low-Carb Diet
+35,Female,153,53,22.64,Hypertension,102,83,260,101,No,Lactose Intolerance,5334,2,5.5,No,Yes,Regular,3270,85,204,92,Asian,Sweet,Low-Fat Diet
+49,Male,170,86,29.76,Diabetes,153,63,190,108,Yes,Lactose Intolerance,14704,1,9,No,No,Regular,2933,112,208,54,Asian,Spicy,High-Protein Diet
+52,Male,164,94,34.95,Heart Disease,134,68,227,196,No,Lactose Intolerance,6582,1,7.6,Yes,No,Keto,1871,79,178,49,Mediterranean,Salty,Low-Fat Diet
+72,Other,159,57,22.55,Diabetes,109,97,289,86,Yes,Gluten Intolerance,5750,6,5.7,Yes,No,Vegetarian,3261,161,111,86,Mediterranean,Sweet,Low-Fat Diet
+25,Other,192,89,24.14,Obesity,152,116,299,127,No,Lactose Intolerance,8933,5,6.9,No,No,Vegan,1748,142,397,94,Western,Spicy,Balanced Diet
+39,Other,161,90,34.72,Heart Disease,161,70,173,173,No,Gluten Intolerance,13689,4,8,No,No,Keto,2439,143,375,103,Indian,Spicy,Low-Fat Diet
+40,Male,165,63,23.14,Diabetes,121,79,181,73,No,Nut Allergy,11901,5,4.4,Yes,No,Vegetarian,3475,174,359,23,Indian,Sweet,Low-Carb Diet
+60,Female,168,88,31.18,Heart Disease,142,92,214,171,No,Gluten Intolerance,2887,1,7.6,Yes,Yes,Vegetarian,3098,196,264,110,Mediterranean,Sweet,Low-Fat Diet
+34,Female,197,70,18.04,Diabetes,160,108,219,151,No,Gluten Intolerance,7531,3,9.4,Yes,No,Regular,3170,144,133,32,Asian,Sweet,High-Protein Diet
+48,Male,159,88,34.81,Obesity,140,84,282,219,No,Lactose Intolerance,3735,5,4.8,No,No,Keto,2250,80,309,25,Western,Sweet,Low-Carb Diet
+32,Female,174,116,38.31,Obesity,106,88,223,184,No,Nut Allergy,11715,6,7.1,No,No,Keto,1466,133,273,93,Mediterranean,Sweet,Low-Carb Diet
+67,Female,199,64,16.16,Diabetes,123,100,178,130,No,Nut Allergy,12953,6,8,No,Yes,Vegetarian,1277,149,316,97,Indian,Spicy,Balanced Diet
+75,Male,192,93,25.23,Diabetes,137,99,267,238,No,Lactose Intolerance,14948,3,8.5,Yes,No,Regular,1878,142,100,143,Indian,Salty,Low-Fat Diet
+53,Male,180,102,31.48,Diabetes,108,66,151,199,Yes,Lactose Intolerance,8824,0,7.6,No,No,Regular,1968,199,312,103,Asian,Sweet,Low-Fat Diet
+70,Female,180,65,20.06,Diabetes,90,90,154,141,No,Nut Allergy,9253,1,10,Yes,No,Vegetarian,3427,55,354,39,Western,Sweet,Low-Fat Diet
+49,Female,168,54,19.13,Heart Disease,144,72,242,202,Yes,Lactose Intolerance,7132,3,8.6,No,Yes,Keto,3126,100,307,137,Mediterranean,Sweet,Low-Carb Diet
+49,Female,150,110,48.89,Heart Disease,104,60,215,118,No,Nut Allergy,3147,5,6.1,No,No,Regular,3158,188,252,49,Western,Spicy,High-Protein Diet
+77,Male,177,72,22.98,Diabetes,155,96,224,224,No,Gluten Intolerance,10807,4,8.6,No,No,Regular,1950,95,171,107,Asian,Spicy,Low-Fat Diet
+42,Male,178,112,35.35,Diabetes,141,85,181,134,No,Gluten Intolerance,14154,6,4.2,No,Yes,Keto,2611,159,236,54,Western,Sweet,High-Protein Diet
+69,Male,182,80,24.15,Hypertension,93,101,184,136,No,Gluten Intolerance,14723,2,4.4,No,No,Keto,1344,65,313,50,Indian,Spicy,Balanced Diet
+61,Female,180,82,25.31,Diabetes,120,97,152,210,No,Lactose Intolerance,6793,3,9.6,No,No,Keto,2216,180,335,56,Western,Spicy,Low-Carb Diet
+73,Male,167,90,32.27,Hypertension,100,82,193,231,Yes,Gluten Intolerance,8547,1,9,Yes,No,Regular,1573,74,127,110,Western,Sweet,Balanced Diet
+38,Female,175,61,19.92,Diabetes,97,89,269,110,No,Gluten Intolerance,11244,1,10,No,No,Keto,2819,67,237,23,Mediterranean,Salty,Balanced Diet
+79,Other,182,69,20.83,Hypertension,160,116,231,137,Yes,Gluten Intolerance,12651,0,9.1,Yes,No,Keto,2495,72,260,81,Mediterranean,Salty,Low-Carb Diet
+63,Other,159,70,27.69,Obesity,141,64,163,131,No,Lactose Intolerance,2958,2,9.5,No,No,Vegan,3147,143,110,135,Asian,Spicy,Low-Fat Diet
+57,Female,186,54,15.61,Heart Disease,132,117,285,163,No,Nut Allergy,7452,3,6.7,No,No,Vegetarian,2896,123,101,46,Western,Salty,Low-Carb Diet
+69,Female,168,114,40.39,Diabetes,103,106,189,88,No,Gluten Intolerance,5660,2,4,No,Yes,Regular,1429,104,118,75,Mediterranean,Sweet,High-Protein Diet
+48,Other,170,98,33.91,Diabetes,152,71,279,172,No,Nut Allergy,8489,1,4.3,No,Yes,Keto,1473,189,382,21,Mediterranean,Spicy,Low-Fat Diet
+78,Other,174,110,36.33,Hypertension,165,88,263,168,No,Nut Allergy,3925,2,6.5,No,No,Regular,3342,135,399,136,Western,Sweet,Low-Carb Diet
+50,Male,191,84,23.03,Diabetes,130,116,173,99,No,Gluten Intolerance,7702,4,7.6,Yes,Yes,Keto,3249,56,397,21,Indian,Sweet,Low-Fat Diet
+42,Male,154,61,25.72,Diabetes,176,117,245,179,Yes,Nut Allergy,13958,4,9.4,Yes,No,Vegan,3333,131,164,85,Western,Spicy,Low-Fat Diet
+25,Female,199,98,24.75,Heart Disease,164,71,159,246,Yes,Nut Allergy,2342,5,9.8,No,Yes,Regular,2220,146,138,127,Western,Sweet,Balanced Diet
+51,Male,184,86,25.4,Heart Disease,111,86,294,215,Yes,Gluten Intolerance,14852,1,5.7,No,Yes,Regular,1550,123,183,29,Asian,Spicy,High-Protein Diet
+44,Other,175,96,31.35,Hypertension,125,90,217,78,No,Lactose Intolerance,6944,5,6.7,Yes,No,Regular,2396,131,250,149,Mediterranean,Sweet,Balanced Diet
+31,Male,169,69,24.16,Diabetes,100,62,199,234,No,Nut Allergy,5101,0,6.4,No,No,Regular,3095,75,203,66,Asian,Spicy,Low-Fat Diet
+74,Other,197,85,21.9,Diabetes,124,91,220,150,No,Nut Allergy,5433,3,8.2,Yes,No,Vegetarian,1956,54,245,142,Asian,Salty,High-Protein Diet
+33,Female,178,69,21.78,Heart Disease,108,84,237,89,No,Nut Allergy,10682,5,8.9,Yes,No,Keto,2767,124,315,95,Mediterranean,Salty,Low-Carb Diet
+73,Male,197,54,13.91,Heart Disease,91,107,180,171,Yes,Gluten Intolerance,13857,5,8.6,No,No,Vegan,3489,131,390,146,Indian,Salty,Low-Fat Diet
+36,Female,159,105,41.53,Diabetes,97,91,275,209,No,Gluten Intolerance,12204,2,9.5,Yes,No,Regular,2169,86,285,138,Western,Spicy,Low-Carb Diet
+75,Female,180,84,25.93,Diabetes,166,63,180,142,Yes,Lactose Intolerance,7617,5,5.3,No,No,Keto,2821,50,304,54,Indian,Spicy,Balanced Diet
+71,Female,199,114,28.79,Heart Disease,110,116,193,138,No,Lactose Intolerance,13543,6,7,No,No,Regular,2795,108,241,48,Asian,Spicy,High-Protein Diet
+57,Female,160,90,35.16,Diabetes,177,118,185,96,Yes,Gluten Intolerance,3996,4,6.6,No,No,Vegetarian,2529,129,119,70,Indian,Spicy,Low-Fat Diet
+63,Other,170,99,34.26,Heart Disease,136,63,243,71,No,Nut Allergy,9136,6,5.7,No,Yes,Regular,2288,59,232,84,Asian,Salty,High-Protein Diet
+74,Female,199,51,12.88,Diabetes,102,101,214,107,No,Gluten Intolerance,11264,3,5.7,No,No,Keto,2759,65,190,87,Indian,Sweet,High-Protein Diet
+62,Male,185,85,24.84,Diabetes,148,108,222,70,No,Nut Allergy,14304,5,5.8,Yes,No,Vegetarian,3344,155,370,22,Western,Spicy,Low-Fat Diet
+37,Other,177,69,22.02,Diabetes,162,65,220,211,Yes,Lactose Intolerance,14436,4,8.2,No,No,Regular,2831,172,325,106,Indian,Spicy,Balanced Diet
+31,Female,189,75,21,Heart Disease,146,77,199,183,Yes,Gluten Intolerance,13157,5,5.5,No,No,Vegan,1358,154,198,128,Western,Sweet,High-Protein Diet
+29,Other,152,87,37.66,Hypertension,129,81,297,136,No,Nut Allergy,6065,2,5.1,No,Yes,Regular,3090,129,230,35,Asian,Sweet,Low-Carb Diet
+53,Other,157,72,29.21,Diabetes,142,88,217,77,No,Nut Allergy,2199,2,9.1,No,No,Regular,3493,59,215,114,Asian,Spicy,Low-Carb Diet
+66,Female,186,104,30.06,Diabetes,112,117,235,239,No,Gluten Intolerance,5931,5,5.2,Yes,No,Keto,3289,64,224,35,Asian,Spicy,High-Protein Diet
+72,Female,179,53,16.54,Obesity,174,84,286,229,Yes,Lactose Intolerance,4068,3,9.3,No,Yes,Keto,1856,163,194,95,Mediterranean,Sweet,High-Protein Diet
+66,Female,193,67,17.99,Diabetes,150,106,287,245,No,Gluten Intolerance,4196,0,9.5,No,No,Regular,2957,153,343,69,Indian,Salty,Low-Carb Diet
+64,Male,188,96,27.16,Diabetes,105,117,281,135,No,Gluten Intolerance,8206,2,4.3,No,No,Regular,2310,119,297,88,Western,Spicy,Balanced Diet
+74,Female,155,104,43.29,Diabetes,118,81,273,72,No,Nut Allergy,4597,3,7.4,Yes,No,Keto,2680,150,225,66,Mediterranean,Sweet,High-Protein Diet
+31,Other,197,86,22.16,Diabetes,142,87,203,199,No,Lactose Intolerance,7127,6,8.3,No,No,Regular,1360,176,139,35,Asian,Spicy,Low-Carb Diet
+28,Male,194,118,31.35,Heart Disease,119,63,244,185,No,Lactose Intolerance,5272,1,6.6,No,Yes,Regular,2720,178,128,138,Western,Sweet,Low-Carb Diet
+43,Male,175,69,22.53,Diabetes,112,77,285,130,No,Gluten Intolerance,5597,6,5.3,No,No,Regular,1209,116,321,66,Mediterranean,Sweet,High-Protein Diet
+74,Male,197,110,28.34,Obesity,96,63,154,192,No,Gluten Intolerance,12612,4,9.4,No,No,Regular,1726,65,322,101,Indian,Salty,Low-Fat Diet
+66,Female,163,83,31.24,Hypertension,176,110,170,141,No,Gluten Intolerance,11118,0,5.4,No,No,Regular,2034,93,327,68,Asian,Salty,Balanced Diet
+62,Other,159,114,45.09,Hypertension,150,68,222,142,No,Nut Allergy,13274,1,10,Yes,No,Keto,3356,89,227,91,Mediterranean,Salty,Low-Fat Diet
+46,Female,155,108,44.95,Heart Disease,131,77,186,241,No,Nut Allergy,3496,0,6.2,No,No,Keto,2332,163,340,30,Western,Sweet,High-Protein Diet
+23,Male,199,63,15.91,Heart Disease,128,94,156,164,No,Nut Allergy,5911,3,8.8,No,No,Regular,3194,65,382,25,Asian,Spicy,High-Protein Diet
+63,Other,191,62,17,Diabetes,92,60,161,217,No,Gluten Intolerance,2717,3,8.9,No,Yes,Regular,2556,122,281,51,Western,Spicy,Balanced Diet
+74,Other,184,91,26.88,Diabetes,134,103,280,88,No,Nut Allergy,14013,0,9.7,Yes,No,Keto,2265,113,249,104,Western,Sweet,Low-Fat Diet
+39,Male,177,53,16.92,Diabetes,119,98,268,83,No,Nut Allergy,8069,5,5,No,No,Vegan,1889,149,280,32,Indian,Spicy,Low-Carb Diet
+45,Other,171,91,31.12,Hypertension,176,104,196,150,Yes,Lactose Intolerance,13450,2,6.3,No,No,Regular,2085,151,236,131,Indian,Sweet,Balanced Diet
+52,Male,177,100,31.92,Hypertension,118,118,176,121,Yes,Lactose Intolerance,12204,1,4.2,No,Yes,Regular,2364,147,153,137,Indian,Spicy,Low-Carb Diet
+72,Female,162,66,25.15,Hypertension,161,88,189,73,No,Lactose Intolerance,13867,1,7.8,No,Yes,Vegetarian,3410,124,197,90,Mediterranean,Salty,Balanced Diet
+31,Female,193,69,18.52,Diabetes,122,93,288,175,Yes,Lactose Intolerance,7093,0,4.6,No,Yes,Keto,1230,81,109,94,Indian,Sweet,High-Protein Diet
+27,Male,156,71,29.17,Diabetes,109,98,240,166,No,Gluten Intolerance,2082,1,6.9,Yes,Yes,Vegetarian,1760,137,363,53,Indian,Salty,Balanced Diet
+33,Male,194,101,26.84,Diabetes,118,76,196,133,No,Lactose Intolerance,9966,3,4.6,No,No,Vegan,1882,51,297,90,Western,Sweet,Low-Fat Diet
+38,Male,188,50,14.15,Heart Disease,162,73,221,130,No,Gluten Intolerance,3249,2,5.8,No,Yes,Regular,2428,54,176,23,Western,Sweet,Low-Fat Diet
+32,Male,193,70,18.79,Heart Disease,147,104,208,93,No,Lactose Intolerance,6806,0,5.9,Yes,No,Keto,3389,173,111,89,Indian,Sweet,Low-Fat Diet
+73,Other,153,91,38.87,Heart Disease,95,73,294,170,Yes,Nut Allergy,4336,4,6.2,No,No,Keto,1280,82,288,123,Mediterranean,Sweet,Balanced Diet
+43,Female,189,100,27.99,Hypertension,166,82,217,215,No,Gluten Intolerance,8892,4,7.6,Yes,No,Regular,2493,182,365,142,Mediterranean,Salty,High-Protein Diet
+41,Male,162,101,38.48,Diabetes,119,88,226,114,No,Gluten Intolerance,11986,5,5.3,Yes,No,Vegetarian,1905,56,303,148,Western,Spicy,Low-Fat Diet
+66,Other,181,83,25.34,Heart Disease,154,72,164,141,Yes,Nut Allergy,11494,1,6.1,No,Yes,Regular,1872,197,178,109,Asian,Sweet,Low-Carb Diet
+36,Female,165,116,42.61,Hypertension,158,91,206,164,No,Gluten Intolerance,8291,4,4.5,Yes,No,Regular,2916,147,351,42,Indian,Salty,Low-Carb Diet
+78,Male,189,110,30.79,Hypertension,171,108,297,136,Yes,Lactose Intolerance,2637,1,6.8,No,Yes,Regular,2221,140,228,34,Western,Sweet,Low-Carb Diet
+24,Other,176,106,34.22,Diabetes,142,117,296,236,No,Nut Allergy,6374,3,5.5,No,Yes,Regular,2360,141,123,103,Asian,Sweet,Balanced Diet
+75,Female,193,64,17.18,Hypertension,150,69,294,76,No,Nut Allergy,7989,0,8.9,No,No,Keto,1390,93,355,32,Mediterranean,Salty,High-Protein Diet
+51,Other,163,76,28.6,Diabetes,162,109,239,101,No,Gluten Intolerance,8235,3,7.1,No,No,Vegetarian,2375,166,314,64,Mediterranean,Sweet,Balanced Diet
+23,Male,150,64,28.44,Diabetes,153,68,209,238,Yes,Nut Allergy,6114,2,8.8,No,No,Regular,2039,177,397,106,Indian,Sweet,Low-Fat Diet
+32,Other,194,115,30.56,Hypertension,120,97,196,77,No,Lactose Intolerance,13864,2,7.5,No,Yes,Regular,1895,127,285,145,Indian,Spicy,Low-Carb Diet
+19,Other,190,91,25.21,Heart Disease,131,116,156,244,No,Nut Allergy,8060,1,6.4,No,No,Keto,1362,164,193,144,Indian,Sweet,High-Protein Diet
+20,Female,189,117,32.75,Obesity,130,101,151,249,No,Lactose Intolerance,2961,0,6.6,No,No,Keto,3348,58,389,78,Mediterranean,Salty,Low-Fat Diet
+36,Other,193,100,26.85,Diabetes,177,86,254,180,No,Nut Allergy,7559,0,9.1,Yes,No,Keto,1803,189,278,127,Western,Spicy,High-Protein Diet
+27,Male,155,101,42.04,Hypertension,99,72,207,216,No,Lactose Intolerance,14718,4,9.3,No,Yes,Vegan,2231,160,265,54,Mediterranean,Salty,High-Protein Diet
+41,Male,166,56,20.32,Diabetes,159,118,160,204,No,Gluten Intolerance,14061,4,9.9,No,No,Regular,1491,152,280,120,Mediterranean,Sweet,Low-Carb Diet
+26,Male,188,103,29.14,Diabetes,148,60,271,138,Yes,Gluten Intolerance,3808,2,5.7,No,No,Keto,1534,165,392,51,Asian,Salty,Low-Fat Diet
+57,Female,167,96,34.42,Hypertension,122,112,221,131,No,Nut Allergy,6394,1,4.9,Yes,No,Keto,1924,96,294,100,Indian,Sweet,Low-Carb Diet
+23,Female,162,70,26.67,Heart Disease,90,72,211,112,No,Nut Allergy,13230,2,7,Yes,Yes,Regular,3497,144,198,132,Asian,Spicy,Balanced Diet
+29,Male,161,70,27.01,Diabetes,117,88,172,160,Yes,Gluten Intolerance,5278,4,7.2,No,Yes,Regular,2840,137,288,31,Asian,Spicy,High-Protein Diet
+71,Male,163,78,29.36,Diabetes,92,101,163,176,Yes,Lactose Intolerance,11993,4,8,No,No,Vegetarian,3161,136,121,70,Mediterranean,Sweet,Low-Fat Diet
+38,Male,189,98,27.43,Hypertension,171,118,251,136,No,Lactose Intolerance,14470,4,8.2,No,No,Regular,1702,156,318,45,Asian,Spicy,Low-Fat Diet
+48,Other,161,93,35.88,Heart Disease,149,83,217,105,No,Nut Allergy,9073,4,9.3,No,No,Keto,1551,54,246,68,Western,Spicy,Low-Fat Diet
+22,Other,164,119,44.24,Obesity,122,100,166,183,No,Gluten Intolerance,4002,1,8.1,Yes,No,Regular,1484,64,366,117,Mediterranean,Spicy,Balanced Diet
+28,Male,154,67,28.25,Hypertension,103,62,205,75,No,Nut Allergy,10767,2,4,No,No,Vegetarian,2467,104,299,104,Mediterranean,Spicy,Balanced Diet
+61,Male,165,56,20.57,Diabetes,148,114,276,174,No,Lactose Intolerance,7481,2,9.4,No,Yes,Regular,2055,108,320,41,Mediterranean,Spicy,Low-Fat Diet
+39,Male,195,92,24.19,Hypertension,115,95,269,244,Yes,Gluten Intolerance,4741,2,6,No,No,Keto,3082,111,157,54,Indian,Spicy,High-Protein Diet
+45,Female,154,57,24.03,Obesity,112,66,274,163,No,Lactose Intolerance,6336,6,6.7,No,Yes,Regular,2526,55,156,65,Indian,Spicy,Low-Carb Diet
+69,Other,152,76,32.89,Diabetes,138,60,221,203,No,Lactose Intolerance,10856,0,10,No,No,Regular,1290,184,337,46,Western,Salty,Low-Carb Diet
+65,Other,154,53,22.35,Hypertension,151,110,287,102,No,Gluten Intolerance,9096,1,5.4,No,No,Regular,2290,141,302,58,Mediterranean,Salty,Balanced Diet
+22,Male,152,66,28.57,Obesity,132,102,251,96,Yes,Gluten Intolerance,10094,0,7,No,Yes,Vegan,3428,177,243,137,Mediterranean,Sweet,Balanced Diet
+32,Male,187,115,32.89,Diabetes,165,95,153,97,No,Gluten Intolerance,12589,4,5.8,Yes,No,Vegetarian,1902,110,253,87,Asian,Spicy,Balanced Diet
+37,Other,194,77,20.46,Diabetes,114,97,252,118,No,Nut Allergy,5048,1,7.3,No,No,Regular,1988,105,393,136,Asian,Salty,Balanced Diet
+78,Female,194,99,26.3,Heart Disease,124,70,191,217,No,Gluten Intolerance,10761,4,4.9,Yes,No,Vegan,2626,176,252,134,Western,Sweet,High-Protein Diet
+38,Other,172,96,32.45,Heart Disease,104,119,289,85,No,Nut Allergy,12279,3,6,No,No,Regular,1501,101,176,149,Indian,Spicy,High-Protein Diet
+74,Other,151,54,23.68,Hypertension,145,92,220,228,No,Lactose Intolerance,4471,6,8.5,No,No,Vegetarian,3385,101,106,42,Mediterranean,Salty,Balanced Diet
+70,Female,168,102,36.14,Heart Disease,126,108,163,230,Yes,Lactose Intolerance,9031,6,7.5,Yes,No,Regular,1565,134,107,111,Asian,Salty,Low-Carb Diet
+29,Female,176,95,30.67,Diabetes,100,75,214,148,No,Gluten Intolerance,12689,6,9.3,Yes,Yes,Regular,1632,166,109,135,Mediterranean,Sweet,High-Protein Diet
+40,Other,188,54,15.28,Heart Disease,90,65,222,249,No,Lactose Intolerance,4667,4,6.7,No,Yes,Vegetarian,2777,162,266,79,Indian,Salty,Low-Fat Diet
+25,Other,195,102,26.82,Hypertension,138,64,265,107,Yes,Nut Allergy,7079,3,10,No,No,Regular,2543,154,384,47,Indian,Sweet,Balanced Diet
+39,Female,162,95,36.2,Obesity,157,113,230,77,No,Lactose Intolerance,4525,1,9.4,No,No,Regular,2689,193,176,43,Mediterranean,Salty,Balanced Diet
+68,Female,197,98,25.25,Heart Disease,129,118,187,242,No,Nut Allergy,10495,2,6.7,No,No,Vegetarian,2259,117,103,135,Asian,Salty,Balanced Diet
+21,Female,180,97,29.94,Hypertension,114,67,204,70,No,Gluten Intolerance,13036,2,8.9,No,No,Keto,1218,50,128,98,Indian,Sweet,High-Protein Diet
+58,Male,172,62,20.96,Heart Disease,126,110,274,242,No,Nut Allergy,13140,5,7.8,Yes,No,Regular,1466,149,259,35,Indian,Salty,Low-Fat Diet
+78,Female,151,112,49.12,Heart Disease,122,88,292,169,Yes,Nut Allergy,3952,5,8.6,Yes,Yes,Keto,2146,65,158,142,Indian,Salty,Balanced Diet
+26,Male,177,82,26.17,Hypertension,111,106,179,94,No,Lactose Intolerance,5569,6,4.9,Yes,No,Keto,2276,149,370,73,Indian,Spicy,Balanced Diet
+71,Other,171,110,37.62,Heart Disease,109,85,299,180,No,Lactose Intolerance,13474,3,4.1,No,No,Vegetarian,1557,136,332,120,Indian,Spicy,Low-Fat Diet
+43,Male,176,85,27.44,Diabetes,173,95,274,100,No,Lactose Intolerance,9627,0,6.4,Yes,No,Regular,2299,117,174,88,Asian,Sweet,High-Protein Diet
+46,Male,171,90,30.78,Diabetes,130,74,192,180,Yes,Nut Allergy,13767,4,9.8,Yes,No,Regular,2780,57,358,52,Indian,Salty,Balanced Diet
+39,Female,179,97,30.27,Obesity,143,108,270,119,No,Nut Allergy,3672,4,4.4,No,No,Keto,1945,74,225,119,Western,Spicy,Low-Fat Diet
+21,Male,191,92,25.22,Diabetes,135,71,205,218,Yes,Lactose Intolerance,12954,5,9.8,No,No,Keto,2791,53,104,134,Asian,Salty,Balanced Diet
+45,Female,182,78,23.55,Obesity,110,73,175,85,No,Lactose Intolerance,4662,6,8.1,No,No,Keto,1639,129,364,38,Western,Spicy,Balanced Diet
+51,Male,151,101,44.3,Hypertension,165,111,237,202,No,Nut Allergy,2415,0,8.5,Yes,No,Vegetarian,1641,102,269,62,Mediterranean,Sweet,Balanced Diet
+72,Female,193,68,18.26,Heart Disease,139,95,292,150,No,Nut Allergy,11575,5,7.3,Yes,No,Vegetarian,1325,169,286,147,Mediterranean,Sweet,Low-Fat Diet
+58,Other,182,64,19.32,Heart Disease,90,94,208,157,Yes,Lactose Intolerance,12625,6,8,No,No,Vegetarian,2483,162,328,144,Indian,Sweet,Low-Carb Diet
+55,Female,161,99,38.19,Diabetes,179,74,203,114,No,Lactose Intolerance,9657,0,5.1,Yes,No,Vegetarian,3231,138,311,113,Western,Salty,Low-Fat Diet
+35,Female,160,72,28.12,Diabetes,90,103,223,120,No,Lactose Intolerance,14331,6,6.1,No,No,Vegetarian,3161,133,371,61,Asian,Sweet,High-Protein Diet
+34,Other,162,69,26.29,Diabetes,92,110,278,188,No,Lactose Intolerance,6170,2,6.5,No,No,Keto,1441,64,101,71,Mediterranean,Sweet,Low-Carb Diet
+18,Female,177,116,37.03,Hypertension,112,69,259,219,No,Gluten Intolerance,6843,4,5.4,No,No,Vegetarian,2826,63,171,72,Asian,Sweet,Low-Fat Diet
+46,Female,192,115,31.2,Diabetes,115,74,252,208,Yes,Lactose Intolerance,2115,2,6.4,Yes,No,Regular,1595,54,173,87,Indian,Sweet,Low-Fat Diet
+63,Other,196,114,29.68,Hypertension,90,110,162,220,No,Gluten Intolerance,6353,3,7.4,No,No,Regular,3425,86,124,109,Mediterranean,Spicy,High-Protein Diet
+79,Other,151,59,25.88,Hypertension,108,99,232,224,No,Nut Allergy,12171,6,9.1,No,No,Regular,3391,108,188,141,Western,Spicy,Low-Carb Diet
+66,Other,187,96,27.45,Diabetes,126,117,230,111,Yes,Lactose Intolerance,8782,1,8.2,No,No,Regular,2948,152,394,75,Indian,Salty,Low-Carb Diet
+26,Male,170,72,24.91,Obesity,178,86,164,215,No,Nut Allergy,9341,5,4,No,No,Keto,3322,93,220,114,Indian,Sweet,Low-Carb Diet
+34,Other,192,118,32.01,Obesity,112,117,179,96,No,Gluten Intolerance,5386,1,4.7,Yes,No,Vegetarian,1724,198,194,125,Mediterranean,Sweet,Low-Fat Diet
+63,Other,170,117,40.48,Heart Disease,164,81,254,107,No,Lactose Intolerance,3459,4,9.4,No,No,Vegetarian,2548,190,377,95,Mediterranean,Sweet,Balanced Diet
+36,Female,180,93,28.7,Diabetes,151,98,189,107,No,Nut Allergy,8784,5,7.6,No,No,Regular,1202,99,274,86,Western,Salty,Balanced Diet
+25,Other,189,106,29.67,Hypertension,153,75,207,237,No,Lactose Intolerance,11203,4,8,No,No,Regular,3105,74,337,28,Asian,Salty,High-Protein Diet
+25,Other,163,105,39.52,Obesity,118,105,299,152,No,Gluten Intolerance,11576,5,7.1,No,No,Regular,1462,56,373,55,Asian,Salty,Balanced Diet
+29,Male,175,113,36.9,Hypertension,172,100,296,208,No,Nut Allergy,7464,3,6.4,Yes,No,Keto,1597,70,360,66,Western,Salty,Balanced Diet
+62,Other,196,115,29.94,Heart Disease,170,94,265,225,No,Nut Allergy,2566,2,4.9,No,Yes,Regular,2636,128,183,62,Western,Spicy,Low-Carb Diet
+42,Male,181,105,32.05,Hypertension,155,76,203,160,Yes,Lactose Intolerance,13762,0,6.8,No,No,Keto,2654,75,272,102,Asian,Spicy,High-Protein Diet
+63,Female,165,54,19.83,Hypertension,176,97,156,229,No,Gluten Intolerance,6144,1,4.2,Yes,No,Regular,2085,121,172,75,Asian,Sweet,Low-Fat Diet
+19,Other,194,87,23.12,Heart Disease,113,75,268,246,No,Lactose Intolerance,10038,4,7.8,No,No,Regular,1854,195,352,139,Indian,Spicy,High-Protein Diet
+30,Female,193,63,16.91,Diabetes,139,91,185,120,Yes,Lactose Intolerance,8519,6,4,No,No,Vegetarian,2255,197,162,36,Mediterranean,Salty,High-Protein Diet
+47,Male,187,59,16.87,Diabetes,106,94,155,171,No,Gluten Intolerance,7671,5,6.9,No,No,Regular,1990,112,328,102,Indian,Salty,Low-Carb Diet
+19,Female,165,73,26.81,Diabetes,101,108,263,238,No,Lactose Intolerance,10567,5,7.3,Yes,Yes,Vegan,1558,63,333,138,Mediterranean,Spicy,Low-Carb Diet
+60,Other,182,61,18.42,Diabetes,162,116,200,172,No,Gluten Intolerance,13720,5,4.5,No,Yes,Regular,1605,132,180,83,Western,Sweet,Low-Carb Diet
+72,Female,176,72,23.24,Obesity,92,76,280,96,Yes,Nut Allergy,6816,3,7.9,No,No,Regular,1477,184,381,115,Mediterranean,Salty,High-Protein Diet
+54,Male,188,115,32.54,Heart Disease,137,77,180,145,Yes,Lactose Intolerance,12144,2,6.7,No,No,Regular,3259,65,383,142,Indian,Salty,High-Protein Diet
+20,Other,163,106,39.9,Obesity,121,113,227,83,No,Gluten Intolerance,8847,6,5.4,No,Yes,Regular,1219,53,225,42,Mediterranean,Sweet,Balanced Diet
+61,Male,157,80,32.46,Heart Disease,100,89,153,184,No,Lactose Intolerance,7348,1,8.7,Yes,Yes,Regular,3039,50,307,84,Indian,Salty,Low-Fat Diet
+76,Male,189,96,26.87,Hypertension,128,72,181,195,No,Nut Allergy,5739,6,6.6,Yes,No,Regular,1986,73,169,119,Asian,Salty,Low-Fat Diet
+52,Male,162,106,40.39,Hypertension,177,117,170,244,No,Gluten Intolerance,5424,0,9.9,No,No,Keto,1702,75,241,120,Mediterranean,Sweet,High-Protein Diet
+22,Female,193,115,30.87,Heart Disease,169,97,265,110,No,Nut Allergy,11062,5,5.1,Yes,Yes,Vegetarian,2224,65,101,23,Asian,Sweet,Low-Carb Diet
+25,Male,187,92,26.31,Obesity,106,100,157,99,No,Lactose Intolerance,2509,3,4.2,Yes,No,Vegetarian,1539,165,164,136,Asian,Sweet,Low-Fat Diet
+65,Male,193,53,14.23,Diabetes,167,84,195,79,Yes,Lactose Intolerance,14225,0,6.9,No,No,Regular,3001,168,211,128,Western,Salty,Low-Carb Diet
+62,Other,181,91,27.78,Diabetes,138,62,219,95,No,Gluten Intolerance,2795,2,10,No,No,Regular,3475,175,248,64,Mediterranean,Spicy,Low-Carb Diet
+47,Female,158,91,36.45,Diabetes,154,113,172,180,Yes,Lactose Intolerance,3391,2,8.8,No,Yes,Regular,3200,52,358,103,Asian,Spicy,Balanced Diet
+73,Other,190,84,23.27,Obesity,171,91,291,83,No,Nut Allergy,9593,6,5.4,No,No,Regular,1979,191,351,125,Asian,Salty,High-Protein Diet
+76,Other,163,116,43.66,Heart Disease,179,90,275,84,No,Gluten Intolerance,4993,5,4.2,No,No,Regular,2285,121,249,88,Western,Salty,High-Protein Diet
+21,Male,161,68,26.23,Hypertension,138,67,255,141,No,Gluten Intolerance,14591,1,8.9,Yes,No,Keto,3080,60,108,146,Western,Salty,Low-Carb Diet
+43,Other,151,66,28.95,Diabetes,167,118,278,164,Yes,Nut Allergy,12424,2,9.2,Yes,No,Regular,2891,156,357,89,Indian,Sweet,High-Protein Diet
+59,Other,163,118,44.41,Diabetes,155,117,272,237,Yes,Lactose Intolerance,5154,0,4.1,No,No,Regular,2890,123,175,86,Mediterranean,Salty,Low-Carb Diet
+54,Male,189,98,27.43,Hypertension,148,111,218,168,No,Lactose Intolerance,11557,0,7.3,Yes,No,Regular,1758,102,121,96,Mediterranean,Spicy,Low-Fat Diet
+77,Male,168,105,37.2,Heart Disease,128,72,281,157,No,Gluten Intolerance,7167,2,6.1,No,No,Regular,3071,56,259,30,Asian,Sweet,Low-Fat Diet
+66,Female,197,77,19.84,Diabetes,103,113,257,221,Yes,Gluten Intolerance,3477,3,7.8,Yes,No,Regular,1727,75,187,23,Mediterranean,Salty,Low-Carb Diet
+65,Female,163,67,25.22,Hypertension,121,67,221,194,No,Nut Allergy,4946,5,8,Yes,Yes,Keto,2489,182,362,141,Western,Salty,Balanced Diet
+30,Female,185,115,33.6,Heart Disease,175,79,190,99,No,Nut Allergy,14504,4,7.5,No,No,Regular,2820,139,285,93,Mediterranean,Salty,Balanced Diet
+76,Male,199,113,28.53,Diabetes,172,94,284,98,No,Nut Allergy,6593,6,9.4,No,Yes,Regular,2170,195,277,97,Asian,Salty,High-Protein Diet
+68,Other,157,67,27.18,Heart Disease,120,112,172,131,Yes,Nut Allergy,2749,6,7.4,No,No,Regular,1399,110,164,98,Asian,Salty,Low-Fat Diet
+18,Male,177,99,31.6,Diabetes,114,77,223,223,No,Nut Allergy,10914,5,5.2,No,No,Regular,3417,78,340,35,Indian,Spicy,Balanced Diet
+53,Male,187,114,32.6,Heart Disease,96,64,283,99,No,Lactose Intolerance,14482,2,4.8,No,No,Vegan,2028,75,315,39,Asian,Salty,Low-Carb Diet
+52,Female,191,93,25.49,Hypertension,167,69,155,209,No,Nut Allergy,3909,3,7.3,No,Yes,Regular,2311,59,352,123,Asian,Spicy,High-Protein Diet
+41,Male,164,102,37.92,Heart Disease,121,61,212,127,No,Nut Allergy,13454,2,5,Yes,No,Regular,1596,98,332,98,Mediterranean,Salty,Balanced Diet
+22,Male,158,62,24.84,Heart Disease,106,85,238,125,No,Gluten Intolerance,7586,6,9.9,No,No,Regular,2911,116,121,119,Asian,Sweet,High-Protein Diet
+53,Male,171,108,36.93,Hypertension,152,98,196,135,Yes,Gluten Intolerance,13259,0,4.1,Yes,Yes,Vegan,2974,141,169,44,Indian,Salty,Low-Fat Diet
+64,Female,178,59,18.62,Hypertension,108,100,153,150,No,Gluten Intolerance,12939,5,6.5,No,Yes,Keto,2512,96,367,34,Western,Sweet,High-Protein Diet
+34,Female,157,111,45.03,Heart Disease,155,62,150,75,Yes,Gluten Intolerance,8728,4,6.5,No,No,Vegetarian,1571,149,122,99,Indian,Spicy,Low-Carb Diet
+41,Male,170,57,19.72,Diabetes,116,118,263,158,Yes,Lactose Intolerance,5100,6,6.2,No,No,Regular,1509,92,109,63,Asian,Spicy,Low-Fat Diet
+68,Male,186,67,19.37,Hypertension,137,115,242,73,No,Lactose Intolerance,8832,2,7.1,No,No,Regular,2899,192,283,88,Mediterranean,Spicy,Low-Carb Diet
+31,Other,164,95,35.32,Obesity,91,77,268,141,No,Gluten Intolerance,11934,3,4.6,Yes,No,Regular,1393,172,195,71,Mediterranean,Sweet,Low-Fat Diet
+24,Female,154,55,23.19,Obesity,140,73,275,152,No,Nut Allergy,7749,3,6.5,No,Yes,Regular,2436,157,347,25,Western,Sweet,Low-Fat Diet
+26,Female,163,119,44.79,Hypertension,140,90,235,150,Yes,Lactose Intolerance,2724,0,5.7,No,No,Vegetarian,2956,63,259,148,Indian,Sweet,Low-Fat Diet
+66,Other,195,95,24.98,Obesity,102,102,294,158,No,Lactose Intolerance,6612,6,5,No,No,Keto,1896,71,257,50,Indian,Salty,Low-Carb Diet
+33,Male,168,105,37.2,Obesity,147,65,205,127,No,Gluten Intolerance,2641,3,9.2,No,No,Keto,1852,58,397,66,Mediterranean,Sweet,Low-Carb Diet
+46,Other,153,78,33.32,Diabetes,175,117,153,84,No,Gluten Intolerance,2898,6,4.9,Yes,Yes,Regular,2414,199,399,135,Indian,Spicy,Low-Fat Diet
+38,Female,168,68,24.09,Heart Disease,146,72,229,225,No,Nut Allergy,9057,2,9.6,No,Yes,Regular,1955,158,147,41,Asian,Spicy,High-Protein Diet
+36,Male,181,59,18.01,Obesity,139,69,166,152,No,Gluten Intolerance,8199,2,9.4,Yes,No,Regular,3428,173,331,20,Asian,Sweet,Low-Carb Diet
+66,Other,171,68,23.26,Heart Disease,143,102,227,198,No,Gluten Intolerance,7434,3,5.5,No,No,Regular,1489,162,308,55,Indian,Salty,Low-Carb Diet
+22,Female,197,79,20.36,Hypertension,168,118,258,245,Yes,Nut Allergy,7484,5,6.9,No,Yes,Keto,3492,65,340,59,Asian,Spicy,Balanced Diet
+40,Other,181,116,35.41,Heart Disease,137,85,271,112,No,Gluten Intolerance,13396,3,6.1,No,No,Vegan,1773,154,301,58,Asian,Sweet,High-Protein Diet
+36,Other,166,100,36.29,Hypertension,177,108,265,181,Yes,Gluten Intolerance,3850,5,7.2,Yes,No,Keto,1402,76,184,44,Western,Spicy,Balanced Diet
+19,Male,192,109,29.57,Hypertension,109,69,293,142,No,Lactose Intolerance,8017,5,7.8,Yes,No,Regular,1422,66,168,122,Western,Salty,Balanced Diet
+57,Male,171,89,30.44,Diabetes,94,92,299,77,No,Nut Allergy,10716,6,5.2,No,No,Regular,2700,185,254,62,Western,Salty,Low-Carb Diet
+33,Male,172,51,17.24,Diabetes,96,68,286,112,No,Lactose Intolerance,7562,3,8.8,No,No,Keto,2926,195,390,43,Western,Spicy,Low-Carb Diet
+43,Other,187,90,25.74,Hypertension,165,65,237,155,Yes,Nut Allergy,2770,3,6.7,Yes,No,Keto,2074,194,192,142,Western,Salty,Balanced Diet
+46,Female,173,57,19.05,Hypertension,99,68,209,228,No,Nut Allergy,7446,0,9.7,No,No,Keto,2665,100,135,61,Indian,Sweet,Balanced Diet
+34,Male,172,70,23.66,Heart Disease,174,90,267,72,No,Gluten Intolerance,12952,2,9.8,No,No,Regular,3404,196,121,124,Mediterranean,Spicy,Balanced Diet
+70,Other,183,84,25.08,Diabetes,141,61,169,111,No,Gluten Intolerance,13251,0,6.7,No,Yes,Vegetarian,1821,79,354,77,Indian,Sweet,High-Protein Diet
+48,Female,165,61,22.41,Diabetes,113,82,183,151,No,Nut Allergy,5390,4,8.8,No,No,Regular,3292,50,351,41,Mediterranean,Spicy,Low-Carb Diet
+28,Other,164,93,34.58,Diabetes,104,100,187,232,No,Nut Allergy,7328,2,9.5,No,No,Keto,1769,111,102,50,Asian,Salty,Low-Fat Diet
+41,Other,183,96,28.67,Diabetes,119,75,203,113,No,Lactose Intolerance,6811,0,7.2,Yes,No,Regular,1274,131,140,35,Indian,Salty,Low-Fat Diet
+75,Female,154,54,22.77,Obesity,135,117,165,129,No,Nut Allergy,12521,3,6.6,Yes,Yes,Regular,3221,95,310,145,Western,Salty,High-Protein Diet
+66,Female,154,59,24.88,Diabetes,139,104,287,222,Yes,Lactose Intolerance,6938,2,4.2,Yes,Yes,Regular,1979,110,114,28,Indian,Salty,Balanced Diet
+77,Female,167,104,37.29,Hypertension,96,95,207,247,Yes,Lactose Intolerance,11285,2,8.9,No,Yes,Keto,2381,105,369,70,Indian,Salty,High-Protein Diet
+26,Male,197,117,30.15,Heart Disease,128,96,218,138,Yes,Nut Allergy,10050,6,6,Yes,Yes,Vegetarian,1539,180,376,38,Indian,Spicy,Balanced Diet
+31,Other,165,86,31.59,Diabetes,100,87,277,168,No,Gluten Intolerance,2672,1,8.4,No,No,Keto,3146,169,224,52,Western,Spicy,Low-Fat Diet
+37,Female,151,109,47.8,Hypertension,124,97,272,146,No,Lactose Intolerance,4933,4,5.8,Yes,No,Vegan,3140,65,315,88,Western,Salty,Balanced Diet
+71,Female,170,52,17.99,Diabetes,135,92,266,115,Yes,Nut Allergy,11725,0,8.8,No,No,Keto,2378,148,157,76,Asian,Salty,Low-Fat Diet
+27,Female,189,118,33.03,Obesity,160,82,194,199,Yes,Gluten Intolerance,12458,4,6,No,No,Vegetarian,1424,162,192,26,Asian,Spicy,High-Protein Diet
+74,Male,158,61,24.44,Heart Disease,124,90,185,213,Yes,Gluten Intolerance,7877,5,7,Yes,No,Keto,2218,64,108,101,Asian,Salty,Balanced Diet
+57,Female,160,101,39.45,Obesity,164,102,271,168,No,Nut Allergy,7974,0,6.9,Yes,No,Regular,2446,177,137,96,Indian,Salty,Low-Carb Diet
+41,Male,180,52,16.05,Diabetes,156,64,254,96,No,Gluten Intolerance,8006,0,6.4,No,No,Vegetarian,1504,147,187,98,Indian,Spicy,Low-Fat Diet
+58,Female,180,62,19.14,Heart Disease,126,82,236,86,No,Gluten Intolerance,8113,2,7.3,No,No,Regular,2447,127,303,128,Asian,Salty,Low-Fat Diet
+34,Other,178,68,21.46,Hypertension,95,76,187,196,No,Lactose Intolerance,12386,4,6.7,No,No,Regular,2974,109,390,83,Mediterranean,Salty,Low-Fat Diet
+40,Other,184,70,20.68,Obesity,123,105,232,110,No,Nut Allergy,5545,5,7.8,No,No,Regular,2876,92,366,43,Indian,Sweet,Low-Fat Diet
+32,Male,194,60,15.94,Diabetes,171,89,211,105,Yes,Nut Allergy,7384,2,8.9,No,No,Regular,1821,93,146,66,Mediterranean,Sweet,Balanced Diet
+43,Female,188,54,15.28,Hypertension,136,91,177,181,No,Lactose Intolerance,5634,6,7.5,No,Yes,Regular,2438,101,100,66,Indian,Sweet,Balanced Diet
+49,Male,197,75,19.33,Obesity,153,116,163,119,Yes,Gluten Intolerance,14451,3,7.4,Yes,Yes,Regular,1654,163,189,28,Indian,Salty,Low-Carb Diet
+66,Other,193,56,15.03,Diabetes,137,85,275,142,No,Lactose Intolerance,3292,0,9,No,No,Vegan,1358,125,366,54,Mediterranean,Salty,Low-Fat Diet
+54,Other,162,66,25.15,Obesity,150,114,188,227,No,Nut Allergy,13813,3,10,No,Yes,Vegetarian,3108,76,183,119,Western,Spicy,High-Protein Diet
+62,Female,164,87,32.35,Heart Disease,142,108,197,163,No,Nut Allergy,2608,1,5.5,Yes,No,Keto,3085,159,355,101,Asian,Spicy,Balanced Diet
+24,Female,159,93,36.79,Hypertension,126,62,184,121,No,Gluten Intolerance,8953,2,9,No,No,Regular,2125,78,262,26,Western,Sweet,High-Protein Diet
+68,Other,167,91,32.63,Hypertension,157,71,264,134,No,Nut Allergy,14346,4,6.9,No,Yes,Vegetarian,1293,114,351,50,Asian,Spicy,Low-Fat Diet
+47,Other,198,76,19.39,Hypertension,116,67,177,83,No,Nut Allergy,4283,1,8.6,Yes,No,Vegan,2971,101,299,82,Asian,Sweet,High-Protein Diet
+79,Other,163,117,44.04,Heart Disease,165,104,223,189,No,Lactose Intolerance,3268,2,7.5,No,No,Vegetarian,1843,77,189,48,Indian,Sweet,Low-Carb Diet
+79,Other,188,74,20.94,Diabetes,173,77,211,70,No,Lactose Intolerance,4373,0,4.4,Yes,No,Vegetarian,2375,84,271,94,Western,Salty,Low-Carb Diet
+30,Male,172,73,24.68,Obesity,107,103,210,219,No,Nut Allergy,2995,3,9,No,Yes,Vegetarian,2760,85,290,69,Asian,Spicy,Low-Carb Diet
+41,Female,159,82,32.44,Diabetes,91,72,226,183,No,Nut Allergy,10419,0,6.2,No,Yes,Vegetarian,2165,192,118,127,Asian,Salty,Low-Fat Diet
+66,Other,160,106,41.41,Heart Disease,158,72,184,72,Yes,Gluten Intolerance,9177,6,9.1,Yes,No,Regular,2087,152,358,117,Asian,Salty,High-Protein Diet
+29,Male,198,119,30.35,Diabetes,143,79,286,89,No,Lactose Intolerance,6640,3,7.2,Yes,No,Keto,3176,102,308,76,Asian,Spicy,Balanced Diet
+19,Female,165,105,38.57,Heart Disease,162,118,207,144,No,Gluten Intolerance,8371,4,5,No,No,Regular,1361,137,284,84,Western,Salty,Low-Fat Diet
+71,Female,166,50,18.14,Diabetes,115,87,239,159,No,Gluten Intolerance,10713,3,9.3,No,No,Regular,2659,115,219,55,Mediterranean,Salty,High-Protein Diet
+54,Male,190,102,28.25,Diabetes,106,81,186,245,No,Gluten Intolerance,3876,5,7,Yes,No,Regular,1606,116,109,56,Indian,Spicy,High-Protein Diet
+18,Male,176,108,34.87,Heart Disease,92,102,252,202,Yes,Lactose Intolerance,10017,4,9.2,Yes,No,Regular,2660,50,210,127,Western,Sweet,Low-Fat Diet
+76,Male,194,102,27.1,Diabetes,145,101,276,202,Yes,Nut Allergy,10519,5,5.4,No,No,Vegetarian,2783,142,316,99,Asian,Salty,Low-Carb Diet
+22,Other,194,89,23.65,Heart Disease,102,81,281,204,No,Nut Allergy,7592,5,8,Yes,No,Regular,2561,162,229,39,Western,Salty,Low-Carb Diet
+39,Female,195,61,16.04,Heart Disease,150,109,278,182,Yes,Lactose Intolerance,12574,1,4.7,Yes,No,Keto,1286,133,222,30,Indian,Sweet,Low-Carb Diet
+77,Female,181,58,17.7,Obesity,109,72,167,170,No,Gluten Intolerance,11548,4,5.2,No,No,Regular,2884,149,325,103,Indian,Salty,Low-Fat Diet
+43,Other,167,72,25.82,Hypertension,121,100,243,130,No,Gluten Intolerance,5915,4,6.6,No,No,Regular,1729,174,238,48,Western,Sweet,Low-Carb Diet
+77,Other,161,54,20.83,Heart Disease,159,82,176,164,Yes,Gluten Intolerance,8560,3,5.1,No,No,Vegan,2233,78,389,82,Western,Spicy,Low-Fat Diet
+18,Other,192,77,20.89,Diabetes,107,62,212,122,No,Nut Allergy,3139,1,4.5,Yes,No,Regular,1496,113,359,82,Indian,Sweet,Low-Carb Diet
+65,Other,175,107,34.94,Heart Disease,127,87,236,154,No,Gluten Intolerance,6233,5,9.3,Yes,No,Keto,2712,59,196,114,Asian,Spicy,High-Protein Diet
+29,Other,151,83,36.4,Hypertension,121,108,289,155,Yes,Lactose Intolerance,5232,5,9.2,No,No,Keto,1853,170,251,60,Mediterranean,Salty,High-Protein Diet
+63,Female,164,82,30.49,Diabetes,178,61,197,180,Yes,Nut Allergy,9955,6,10,No,No,Vegan,2134,161,145,60,Mediterranean,Spicy,Low-Fat Diet
+19,Male,197,70,18.04,Diabetes,124,66,187,150,No,Gluten Intolerance,3143,1,6.2,No,Yes,Vegan,3299,69,202,97,Western,Spicy,Balanced Diet
+34,Other,182,56,16.91,Hypertension,97,86,236,165,No,Gluten Intolerance,7330,1,8.7,No,Yes,Regular,1653,155,259,134,Mediterranean,Sweet,Low-Fat Diet
+29,Male,166,58,21.05,Obesity,179,87,282,135,No,Gluten Intolerance,2853,4,9.1,No,No,Regular,2214,149,111,41,Mediterranean,Sweet,Balanced Diet
+68,Other,180,96,29.63,Heart Disease,135,67,214,115,No,Lactose Intolerance,10784,6,4.7,No,No,Keto,3209,75,216,148,Indian,Salty,Low-Fat Diet
+39,Female,183,116,34.64,Heart Disease,127,80,249,212,No,Nut Allergy,5406,6,8.2,No,No,Regular,2147,184,157,90,Mediterranean,Spicy,Low-Carb Diet
+71,Female,151,69,30.26,Heart Disease,126,81,274,105,Yes,Nut Allergy,2626,3,5.8,No,No,Regular,1214,174,145,28,Indian,Spicy,Low-Fat Diet
+44,Other,164,94,34.95,Hypertension,169,94,162,220,No,Nut Allergy,6766,3,9.1,Yes,No,Vegan,2542,129,121,28,Asian,Spicy,Low-Fat Diet
+38,Other,166,98,35.56,Diabetes,139,69,193,239,No,Lactose Intolerance,5048,0,6.5,No,No,Vegetarian,2703,123,200,140,Western,Sweet,Balanced Diet
+50,Male,156,51,20.96,Hypertension,168,90,173,113,No,Nut Allergy,13677,1,6.4,No,No,Regular,2591,135,140,149,Western,Salty,Balanced Diet
+50,Other,163,89,33.5,Diabetes,108,99,295,76,Yes,Lactose Intolerance,9667,4,9.4,No,No,Vegan,2662,172,141,130,Mediterranean,Sweet,High-Protein Diet
+36,Female,195,64,16.83,Heart Disease,143,109,220,240,No,Gluten Intolerance,5733,6,4.2,No,No,Regular,2463,194,206,27,Western,Spicy,Balanced Diet
+78,Male,170,101,34.95,Diabetes,126,119,267,186,No,Lactose Intolerance,13686,4,9.7,No,No,Regular,1839,157,223,129,Asian,Salty,Low-Fat Diet
+40,Other,171,97,33.17,Hypertension,164,94,299,187,No,Gluten Intolerance,6174,6,4.7,No,Yes,Vegetarian,2643,185,150,58,Western,Sweet,Low-Fat Diet
+39,Male,176,99,31.96,Diabetes,124,82,281,93,No,Gluten Intolerance,4200,4,5.7,Yes,No,Regular,2065,80,348,116,Asian,Spicy,Low-Fat Diet
+65,Male,156,82,33.69,Diabetes,93,105,223,129,No,Nut Allergy,6387,3,6.5,Yes,Yes,Regular,2732,148,390,127,Asian,Salty,Low-Carb Diet
+74,Female,174,67,22.13,Diabetes,118,63,254,192,Yes,Lactose Intolerance,9241,2,8,No,No,Vegan,3255,80,131,94,Western,Spicy,Low-Carb Diet
+53,Female,156,96,39.45,Diabetes,126,111,283,105,Yes,Nut Allergy,14912,0,7.8,No,No,Vegetarian,1756,98,325,46,Western,Salty,Low-Carb Diet
+32,Female,163,110,41.4,Diabetes,116,105,193,85,No,Gluten Intolerance,5227,0,5.1,No,No,Regular,1774,58,370,27,Indian,Salty,Low-Carb Diet
+70,Female,176,88,28.41,Diabetes,167,103,198,88,No,Lactose Intolerance,11876,1,5.8,Yes,No,Vegetarian,1629,187,124,82,Western,Spicy,Balanced Diet
+62,Other,163,111,41.78,Diabetes,178,77,216,230,No,Lactose Intolerance,7523,6,6.4,No,No,Regular,2458,149,380,124,Asian,Salty,Low-Carb Diet
+64,Female,168,88,31.18,Heart Disease,136,118,195,155,No,Gluten Intolerance,14776,5,8.3,No,No,Vegetarian,3246,107,271,109,Asian,Salty,Low-Fat Diet
+52,Other,179,70,21.85,Heart Disease,164,104,194,180,Yes,Gluten Intolerance,2287,5,4.3,Yes,No,Vegan,3388,81,251,145,Indian,Spicy,Low-Carb Diet
+57,Male,152,97,41.98,Diabetes,148,96,270,108,Yes,Lactose Intolerance,6532,2,5.3,No,No,Vegan,1979,94,251,28,Western,Salty,Low-Carb Diet
+45,Male,178,115,36.3,Obesity,108,85,165,130,Yes,Lactose Intolerance,6257,6,7.4,No,No,Regular,1556,194,333,73,Indian,Salty,Low-Carb Diet
+72,Female,151,94,41.23,Hypertension,121,117,192,237,No,Gluten Intolerance,12640,3,8.6,Yes,No,Regular,1307,164,379,109,Western,Spicy,Low-Carb Diet
+43,Male,158,116,46.47,Hypertension,133,76,177,194,No,Nut Allergy,5543,5,7.2,No,No,Keto,3387,164,166,28,Western,Sweet,Low-Fat Diet
+26,Male,183,99,29.56,Diabetes,134,67,278,204,Yes,Gluten Intolerance,12770,1,5.1,No,No,Vegetarian,2396,103,312,114,Mediterranean,Spicy,Low-Fat Diet
+29,Other,193,84,22.55,Diabetes,110,89,205,151,Yes,Nut Allergy,3144,5,4.7,No,No,Vegetarian,1915,122,245,57,Indian,Spicy,Low-Carb Diet
+18,Male,186,66,19.08,Obesity,111,83,181,211,No,Lactose Intolerance,2634,4,4.7,Yes,Yes,Regular,3114,58,212,27,Mediterranean,Spicy,Low-Fat Diet
+18,Other,155,93,38.71,Diabetes,94,87,184,136,No,Nut Allergy,14853,4,6.1,No,No,Regular,2071,182,369,42,Asian,Sweet,Low-Carb Diet
+51,Other,189,55,15.4,Heart Disease,148,98,249,158,Yes,Nut Allergy,12073,2,8,No,No,Keto,2321,64,169,32,Mediterranean,Salty,Low-Carb Diet
+70,Male,189,72,20.16,Diabetes,160,78,199,165,No,Gluten Intolerance,14715,1,6.4,No,No,Keto,2368,136,239,60,Indian,Spicy,High-Protein Diet
+43,Male,156,70,28.76,Heart Disease,95,86,271,87,No,Gluten Intolerance,13069,0,5.6,No,No,Regular,2913,186,158,92,Mediterranean,Sweet,Balanced Diet
+22,Male,184,99,29.24,Diabetes,101,102,190,180,No,Nut Allergy,7513,4,7.3,No,No,Vegetarian,1715,106,242,48,Asian,Sweet,Balanced Diet
+19,Female,158,67,26.84,Hypertension,164,96,279,249,No,Lactose Intolerance,5720,2,5,No,No,Keto,1259,124,299,80,Mediterranean,Sweet,High-Protein Diet
+44,Male,160,62,24.22,Diabetes,127,88,219,188,No,Gluten Intolerance,4584,1,9.6,Yes,No,Regular,1620,116,345,92,Mediterranean,Sweet,Low-Fat Diet
+37,Female,161,99,38.19,Diabetes,101,94,256,248,No,Lactose Intolerance,3765,6,7.4,No,No,Vegan,1992,169,162,142,Western,Salty,Low-Fat Diet
+29,Male,174,100,33.03,Hypertension,117,96,218,189,Yes,Nut Allergy,14808,5,8.1,Yes,Yes,Regular,3380,163,389,65,Asian,Sweet,Balanced Diet
+52,Other,198,74,18.88,Heart Disease,166,80,284,144,No,Lactose Intolerance,12358,4,6.3,No,No,Keto,2553,99,235,124,Western,Salty,High-Protein Diet
+19,Other,156,92,37.8,Diabetes,157,88,242,133,Yes,Lactose Intolerance,6855,4,9.4,Yes,Yes,Regular,2172,63,381,61,Indian,Salty,Balanced Diet
+40,Other,178,112,35.35,Hypertension,92,106,258,245,No,Lactose Intolerance,2574,3,9.2,Yes,No,Vegetarian,3357,148,252,145,Western,Spicy,Low-Fat Diet
+25,Male,156,103,42.32,Diabetes,98,104,246,235,Yes,Lactose Intolerance,5703,1,5,No,No,Regular,1253,164,355,111,Indian,Salty,Balanced Diet
+51,Other,158,117,46.87,Hypertension,134,92,228,76,Yes,Gluten Intolerance,12094,4,8.9,No,No,Vegetarian,3346,199,233,93,Western,Spicy,Low-Fat Diet
+58,Male,183,50,14.93,Heart Disease,139,115,215,99,No,Nut Allergy,14271,1,9,Yes,No,Vegetarian,1773,176,240,90,Asian,Sweet,Low-Carb Diet
+28,Male,166,61,22.14,Hypertension,107,112,217,226,No,Lactose Intolerance,7405,1,5.1,Yes,No,Vegetarian,3437,153,206,21,Asian,Sweet,Low-Fat Diet
+38,Female,199,57,14.39,Diabetes,100,109,297,120,Yes,Lactose Intolerance,12168,5,8.2,No,No,Regular,2472,192,337,33,Mediterranean,Salty,Low-Fat Diet
+37,Other,188,54,15.28,Hypertension,171,84,252,241,Yes,Lactose Intolerance,10726,1,8.6,No,No,Vegetarian,1288,161,131,102,Western,Spicy,Low-Fat Diet
+58,Female,166,92,33.39,Hypertension,125,62,285,171,No,Gluten Intolerance,14415,0,5.3,No,No,Regular,1385,104,157,128,Indian,Spicy,Low-Carb Diet
+36,Other,176,106,34.22,Diabetes,149,108,179,123,No,Lactose Intolerance,3286,3,4.2,No,No,Regular,3163,60,339,79,Western,Salty,High-Protein Diet
+69,Male,195,53,13.94,Diabetes,175,87,154,138,No,Lactose Intolerance,14898,5,5.6,No,No,Keto,2820,127,224,112,Mediterranean,Spicy,Balanced Diet
+42,Male,169,114,39.91,Heart Disease,106,89,274,182,No,Gluten Intolerance,7418,2,7,No,Yes,Vegetarian,1471,54,198,34,Asian,Salty,Low-Carb Diet
+70,Other,157,54,21.91,Heart Disease,172,71,242,125,Yes,Gluten Intolerance,10376,2,6.2,No,No,Regular,2138,88,247,66,Mediterranean,Salty,High-Protein Diet
+31,Other,166,101,36.65,Heart Disease,132,67,178,227,No,Nut Allergy,11553,0,4.9,No,No,Regular,1516,162,251,51,Indian,Spicy,Low-Fat Diet
+26,Female,181,63,19.23,Obesity,158,101,158,167,No,Gluten Intolerance,14242,0,9.6,No,No,Regular,2368,66,147,53,Indian,Sweet,Low-Fat Diet
+27,Male,155,51,21.23,Hypertension,128,119,296,188,Yes,Lactose Intolerance,13911,4,8,Yes,No,Regular,2215,90,171,55,Indian,Spicy,Low-Carb Diet
+30,Male,165,62,22.77,Diabetes,95,82,295,149,Yes,Lactose Intolerance,14036,3,9.5,No,No,Keto,2394,114,237,81,Indian,Sweet,Balanced Diet
+57,Male,157,89,36.11,Diabetes,179,110,212,175,No,Nut Allergy,5184,4,8.5,No,Yes,Regular,1499,58,342,108,Western,Sweet,Low-Carb Diet
+36,Other,169,79,27.66,Heart Disease,178,60,299,154,Yes,Lactose Intolerance,12026,1,4.7,Yes,No,Vegetarian,1980,96,316,132,Western,Spicy,Balanced Diet
+62,Male,158,97,38.86,Hypertension,99,86,183,113,No,Lactose Intolerance,7277,2,5.5,No,No,Vegetarian,2408,85,399,149,Mediterranean,Salty,High-Protein Diet
+78,Other,182,77,23.25,Heart Disease,147,75,275,122,No,Gluten Intolerance,13945,3,6.9,No,No,Vegan,2705,142,191,42,Mediterranean,Spicy,Low-Fat Diet
+20,Male,174,100,33.03,Heart Disease,133,113,238,228,Yes,Gluten Intolerance,10811,0,7.5,No,No,Vegan,2022,98,258,112,Mediterranean,Salty,Low-Carb Diet
+45,Female,183,106,31.65,Heart Disease,147,97,190,137,No,Nut Allergy,14701,6,6.8,No,No,Vegetarian,2543,140,382,147,Asian,Sweet,Balanced Diet
+42,Other,159,107,42.32,Hypertension,98,64,299,129,No,Nut Allergy,2918,3,5.8,No,No,Regular,1575,168,397,98,Mediterranean,Spicy,Low-Fat Diet
+75,Other,183,80,23.89,Heart Disease,162,95,249,86,No,Lactose Intolerance,12061,2,5.2,No,No,Regular,2397,142,230,64,Asian,Sweet,High-Protein Diet
+62,Other,189,72,20.16,Diabetes,125,80,246,196,No,Lactose Intolerance,6974,0,6.1,Yes,No,Vegetarian,1449,141,218,65,Mediterranean,Spicy,Low-Carb Diet
+33,Other,189,88,24.64,Heart Disease,143,116,204,117,No,Gluten Intolerance,14009,0,9.8,No,No,Regular,1719,83,317,108,Asian,Sweet,Low-Fat Diet
+54,Female,196,73,19,Hypertension,92,102,156,70,No,Gluten Intolerance,12111,3,5.6,No,No,Keto,2625,161,243,51,Mediterranean,Salty,High-Protein Diet
+64,Male,192,83,22.52,Heart Disease,159,60,232,243,No,Nut Allergy,8315,0,6.3,Yes,No,Regular,1260,110,120,35,Western,Spicy,High-Protein Diet
+70,Other,156,75,30.82,Hypertension,95,75,263,80,No,Gluten Intolerance,14899,4,8.1,No,No,Regular,2550,190,233,22,Indian,Sweet,Low-Carb Diet
+25,Other,178,77,24.3,Diabetes,136,96,283,108,No,Lactose Intolerance,5098,3,5.4,No,Yes,Vegetarian,1277,132,260,75,Indian,Salty,High-Protein Diet
+53,Other,184,64,18.9,Diabetes,174,71,183,112,No,Gluten Intolerance,3224,6,6.5,Yes,No,Regular,3161,163,351,108,Indian,Sweet,Low-Fat Diet
+45,Female,168,68,24.09,Diabetes,99,75,235,152,No,Lactose Intolerance,12724,5,6.4,No,No,Regular,1485,88,199,144,Indian,Spicy,Low-Fat Diet
+50,Male,156,84,34.52,Obesity,96,74,250,70,No,Nut Allergy,10637,1,5.4,No,No,Regular,3313,78,301,23,Indian,Salty,Balanced Diet
+46,Female,151,84,36.84,Hypertension,132,113,272,115,No,Gluten Intolerance,10521,1,9.3,No,No,Vegetarian,1412,127,218,67,Western,Spicy,Low-Fat Diet
+63,Other,164,91,33.83,Obesity,129,95,152,246,No,Nut Allergy,9782,4,9,No,No,Regular,1540,166,232,107,Asian,Salty,High-Protein Diet
+67,Female,170,86,29.76,Diabetes,95,77,207,122,No,Lactose Intolerance,7851,5,4.5,No,No,Vegetarian,1813,94,384,90,Indian,Spicy,Low-Carb Diet
+70,Female,150,108,48,Heart Disease,153,119,223,221,Yes,Lactose Intolerance,14406,1,9.5,No,Yes,Vegetarian,1209,157,209,90,Western,Salty,High-Protein Diet
+62,Other,195,83,21.83,Diabetes,119,69,295,228,Yes,Lactose Intolerance,12397,0,7.2,No,No,Regular,1489,163,232,113,Indian,Sweet,Low-Carb Diet
+30,Other,178,103,32.51,Diabetes,112,99,216,128,Yes,Gluten Intolerance,5749,0,6.3,No,Yes,Regular,3257,85,244,94,Western,Sweet,Low-Carb Diet
+47,Other,195,56,14.73,Diabetes,144,111,199,109,No,Gluten Intolerance,14794,1,5.8,No,No,Keto,2383,78,301,81,Western,Sweet,Balanced Diet
+51,Female,171,76,25.99,Diabetes,96,80,298,118,Yes,Gluten Intolerance,13114,2,7.8,No,No,Vegan,3417,167,394,125,Western,Salty,Balanced Diet
+50,Female,196,101,26.29,Obesity,150,97,260,184,No,Gluten Intolerance,9456,4,4.8,Yes,No,Vegetarian,1496,178,113,43,Indian,Spicy,Balanced Diet
+22,Other,178,64,20.2,Heart Disease,161,71,164,173,No,Nut Allergy,14711,5,5.4,Yes,No,Keto,2029,59,319,22,Indian,Sweet,High-Protein Diet
+21,Female,166,88,31.93,Heart Disease,99,66,250,225,No,Gluten Intolerance,2415,5,9.6,No,No,Vegan,3003,88,121,97,Western,Spicy,Low-Fat Diet
+68,Other,155,90,37.46,Obesity,101,108,239,239,Yes,Lactose Intolerance,13254,4,6.7,No,No,Regular,2253,116,155,27,Indian,Spicy,Low-Fat Diet
+72,Other,171,95,32.49,Diabetes,149,75,299,99,No,Lactose Intolerance,12325,3,9.9,No,No,Vegetarian,2576,157,297,23,Western,Salty,Low-Carb Diet
+21,Other,187,62,17.73,Diabetes,157,115,294,160,No,Lactose Intolerance,13447,3,4.8,Yes,Yes,Regular,2327,117,156,98,Asian,Spicy,Balanced Diet
+49,Female,150,99,44,Diabetes,102,96,230,77,No,Gluten Intolerance,12845,2,6.2,No,No,Regular,3221,144,272,115,Western,Salty,Balanced Diet
+78,Female,161,67,25.85,Diabetes,117,70,210,74,No,Lactose Intolerance,7485,5,5.5,No,No,Regular,2969,164,132,36,Asian,Sweet,Balanced Diet
+68,Male,199,64,16.16,Diabetes,146,109,185,214,No,Lactose Intolerance,5279,6,7.5,Yes,No,Vegan,1866,180,333,87,Indian,Spicy,Low-Fat Diet
+36,Other,188,102,28.86,Obesity,160,87,251,91,No,Nut Allergy,9410,2,9.4,No,Yes,Regular,1934,159,332,111,Indian,Salty,Balanced Diet
+45,Male,180,77,23.77,Hypertension,179,116,193,217,No,Nut Allergy,5936,3,5.5,No,No,Regular,2754,187,217,34,Mediterranean,Sweet,High-Protein Diet
+38,Female,190,66,18.28,Obesity,175,108,162,74,Yes,Nut Allergy,10507,0,5.1,No,Yes,Keto,2326,196,246,112,Western,Sweet,Balanced Diet
+23,Female,173,101,33.75,Obesity,129,92,174,87,No,Lactose Intolerance,12642,2,6.1,No,No,Vegetarian,2217,121,162,105,Asian,Salty,Low-Carb Diet
+44,Male,152,119,51.51,Diabetes,154,75,242,182,Yes,Lactose Intolerance,4907,4,9,No,Yes,Regular,2062,100,111,119,Indian,Sweet,Low-Fat Diet
+64,Other,177,99,31.6,Obesity,176,81,175,179,No,Gluten Intolerance,7390,3,5,No,No,Regular,3056,139,360,82,Western,Spicy,Low-Carb Diet
+60,Male,156,56,23.01,Hypertension,160,63,283,139,No,Nut Allergy,12356,4,4.8,No,No,Regular,2768,81,292,86,Asian,Salty,Balanced Diet
+64,Other,187,97,27.74,Obesity,134,113,296,160,No,Nut Allergy,14244,4,4.1,Yes,No,Keto,2125,66,235,93,Asian,Spicy,High-Protein Diet
+43,Female,169,90,31.51,Diabetes,178,96,286,121,Yes,Nut Allergy,7545,4,6.7,No,No,Vegetarian,2850,111,273,115,Mediterranean,Spicy,High-Protein Diet
+31,Female,172,60,20.28,Hypertension,97,79,167,215,Yes,Gluten Intolerance,10272,3,9.4,No,Yes,Vegetarian,2178,102,172,31,Asian,Sweet,Balanced Diet
+68,Other,153,98,41.86,Diabetes,147,107,226,198,Yes,Lactose Intolerance,2261,1,4.4,Yes,No,Regular,2520,175,364,85,Asian,Spicy,Low-Fat Diet
+64,Female,182,87,26.26,Heart Disease,123,80,218,171,Yes,Nut Allergy,4662,5,5.2,No,Yes,Keto,1454,98,212,74,Mediterranean,Spicy,High-Protein Diet
+35,Male,185,72,21.04,Heart Disease,116,83,227,77,Yes,Lactose Intolerance,8241,0,5.2,Yes,No,Keto,3449,71,321,82,Asian,Spicy,High-Protein Diet
+54,Female,162,69,26.29,Diabetes,97,70,216,142,Yes,Lactose Intolerance,8722,4,7.7,No,No,Keto,1794,133,264,85,Western,Sweet,Balanced Diet
+27,Female,175,86,28.08,Heart Disease,177,68,201,181,No,Nut Allergy,11031,4,9.6,No,No,Vegetarian,3331,90,321,127,Asian,Salty,Balanced Diet
+79,Female,160,67,26.17,Diabetes,100,86,188,102,No,Gluten Intolerance,14354,3,4.8,No,No,Regular,1815,89,148,120,Indian,Salty,Low-Carb Diet
+27,Male,177,85,27.13,Obesity,107,72,266,208,No,Nut Allergy,11517,1,7,Yes,No,Regular,1761,135,377,96,Asian,Sweet,Low-Carb Diet
+25,Male,181,73,22.28,Diabetes,123,95,295,142,No,Lactose Intolerance,8874,4,8.8,No,No,Regular,2189,76,282,91,Indian,Salty,Low-Carb Diet
+66,Female,191,109,29.88,Heart Disease,178,105,296,178,No,Gluten Intolerance,14822,3,6.4,No,No,Regular,1772,119,236,138,Asian,Sweet,Balanced Diet
+37,Female,166,71,25.77,Diabetes,107,60,165,75,Yes,Gluten Intolerance,8826,3,7.8,No,No,Regular,3425,174,147,64,Asian,Salty,High-Protein Diet
+71,Other,179,79,24.66,Diabetes,92,111,158,73,No,Gluten Intolerance,5234,3,9.4,No,No,Regular,2324,182,153,148,Indian,Spicy,Low-Fat Diet
+73,Other,167,110,39.44,Obesity,150,106,186,122,Yes,Lactose Intolerance,4372,0,7,No,No,Vegan,2120,156,119,118,Asian,Spicy,Low-Fat Diet
+68,Male,159,100,39.56,Obesity,150,71,221,94,No,Lactose Intolerance,2111,3,4.5,No,No,Regular,3092,143,235,149,Mediterranean,Sweet,Low-Fat Diet
+79,Male,173,93,31.07,Hypertension,97,89,248,244,No,Lactose Intolerance,5034,5,9.9,No,No,Regular,2113,97,235,91,Mediterranean,Sweet,Low-Carb Diet
+68,Female,167,105,37.65,Heart Disease,155,101,260,105,No,Gluten Intolerance,11488,2,7.2,No,Yes,Vegetarian,2736,198,332,85,Western,Spicy,Balanced Diet
+67,Female,190,106,29.36,Hypertension,99,85,269,221,No,Gluten Intolerance,14633,4,7.7,Yes,No,Regular,2933,130,342,32,Western,Salty,Low-Fat Diet
+22,Female,158,65,26.04,Hypertension,163,71,231,213,No,Gluten Intolerance,14497,2,9.2,Yes,No,Vegan,3195,160,340,72,Mediterranean,Spicy,High-Protein Diet
+27,Male,182,80,24.15,Hypertension,113,81,249,128,No,Lactose Intolerance,9208,2,6.9,No,No,Regular,2044,83,108,80,Western,Salty,Low-Fat Diet
+37,Other,178,74,23.36,Diabetes,144,77,163,106,No,Gluten Intolerance,8388,3,6,No,No,Vegetarian,1639,66,241,98,Mediterranean,Spicy,Low-Fat Diet
+54,Male,185,52,15.19,Hypertension,120,119,232,144,No,Lactose Intolerance,8734,3,5.6,No,No,Vegan,2210,65,183,135,Mediterranean,Sweet,High-Protein Diet
+26,Male,157,89,36.11,Hypertension,109,61,187,215,No,Lactose Intolerance,14398,4,8.8,No,No,Keto,2829,128,261,28,Western,Spicy,Low-Fat Diet
+55,Other,170,56,19.38,Diabetes,165,83,291,177,No,Lactose Intolerance,10752,5,4,No,No,Vegetarian,3490,177,298,42,Asian,Salty,Balanced Diet
+47,Other,165,84,30.85,Obesity,108,115,198,189,Yes,Lactose Intolerance,12383,3,5.4,No,Yes,Vegetarian,3376,180,183,30,Indian,Salty,High-Protein Diet
+31,Other,178,65,20.52,Obesity,137,107,251,178,No,Nut Allergy,2654,4,5.4,No,No,Regular,1612,164,380,53,Indian,Salty,High-Protein Diet
+73,Female,159,55,21.76,Heart Disease,164,100,255,169,Yes,Lactose Intolerance,8328,4,9.4,No,No,Regular,3403,53,203,96,Mediterranean,Sweet,Balanced Diet
+28,Male,191,90,24.67,Diabetes,176,99,223,90,No,Gluten Intolerance,11967,3,5.1,Yes,No,Keto,1624,73,128,119,Mediterranean,Spicy,High-Protein Diet
+29,Other,150,92,40.89,Obesity,134,60,272,218,No,Lactose Intolerance,8733,4,5.1,No,Yes,Regular,3163,127,268,113,Western,Spicy,High-Protein Diet
+28,Other,190,66,18.28,Heart Disease,157,68,236,221,No,Lactose Intolerance,8774,2,7.1,No,Yes,Vegetarian,2087,151,147,68,Indian,Spicy,High-Protein Diet
+43,Female,165,90,33.06,Diabetes,177,84,195,95,No,Nut Allergy,7738,4,5.4,Yes,No,Regular,1621,120,294,37,Asian,Salty,Low-Fat Diet
+57,Other,183,96,28.67,Heart Disease,161,67,288,123,Yes,Lactose Intolerance,7667,6,4.4,No,No,Vegan,1737,100,142,139,Mediterranean,Sweet,Balanced Diet
+20,Female,158,94,37.65,Heart Disease,102,106,226,89,No,Lactose Intolerance,14144,1,7.2,No,No,Regular,3002,53,162,26,Western,Salty,Balanced Diet
+46,Other,159,108,42.72,Hypertension,168,73,214,84,No,Gluten Intolerance,7866,6,9.6,No,Yes,Keto,2458,59,370,141,Western,Salty,Low-Fat Diet
+55,Female,179,55,17.17,Diabetes,124,94,152,76,No,Gluten Intolerance,2539,0,6.3,No,No,Regular,1604,195,347,79,Asian,Sweet,Low-Carb Diet
+50,Female,181,74,22.59,Heart Disease,99,119,297,175,Yes,Lactose Intolerance,2285,2,5.9,No,No,Regular,1870,197,176,71,Asian,Sweet,Low-Fat Diet
+19,Female,150,88,39.11,Diabetes,165,107,230,224,No,Nut Allergy,2112,6,5.8,No,No,Regular,2851,83,299,110,Mediterranean,Sweet,Low-Fat Diet
+50,Other,164,58,21.56,Hypertension,141,72,242,128,Yes,Lactose Intolerance,11691,3,4.9,No,No,Keto,1772,153,345,112,Western,Salty,High-Protein Diet
+68,Male,191,100,27.41,Diabetes,119,81,231,125,No,Lactose Intolerance,14700,5,5.5,No,No,Vegetarian,1492,152,358,99,Asian,Sweet,Balanced Diet
+43,Female,163,92,34.63,Heart Disease,105,88,282,137,Yes,Lactose Intolerance,9125,3,6.1,No,Yes,Regular,2030,164,247,121,Indian,Sweet,Balanced Diet
+60,Other,153,118,50.41,Obesity,106,72,264,90,Yes,Gluten Intolerance,5467,5,5.8,Yes,No,Keto,1703,196,306,98,Western,Spicy,Low-Fat Diet
+37,Female,197,91,23.45,Heart Disease,175,116,267,156,No,Nut Allergy,5703,5,9.4,No,No,Regular,1908,108,347,76,Mediterranean,Sweet,High-Protein Diet
+25,Other,160,65,25.39,Diabetes,114,86,267,182,No,Nut Allergy,11736,2,6.9,No,No,Vegan,2741,107,257,83,Western,Sweet,Balanced Diet
+43,Female,174,71,23.45,Hypertension,136,74,294,86,No,Nut Allergy,2072,3,9.5,No,No,Regular,3048,109,367,124,Western,Salty,Low-Fat Diet
+61,Other,174,112,36.99,Diabetes,158,117,279,236,No,Nut Allergy,8934,0,8.9,No,No,Regular,2008,143,103,83,Indian,Salty,Low-Carb Diet
+65,Other,151,88,38.59,Diabetes,107,119,210,183,Yes,Gluten Intolerance,11160,0,6.2,No,No,Regular,2286,69,143,66,Western,Sweet,Low-Fat Diet
+66,Male,162,94,35.82,Diabetes,117,96,264,143,No,Gluten Intolerance,10386,2,7.4,No,No,Regular,2704,57,113,63,Indian,Spicy,Balanced Diet
+45,Female,180,75,23.15,Hypertension,132,63,247,79,No,Nut Allergy,13727,4,7.3,No,No,Vegetarian,1718,112,118,35,Asian,Salty,Low-Fat Diet
+57,Other,187,113,32.31,Hypertension,123,113,244,75,Yes,Lactose Intolerance,3959,0,8.2,No,No,Regular,2017,87,291,104,Indian,Spicy,Low-Fat Diet
+63,Female,150,87,38.67,Diabetes,173,83,183,174,No,Nut Allergy,5519,5,9.9,No,No,Regular,2498,168,104,146,Asian,Salty,Low-Fat Diet
+18,Male,187,66,18.87,Heart Disease,162,60,161,247,Yes,Lactose Intolerance,5343,2,7.1,No,No,Regular,3231,160,233,92,Mediterranean,Sweet,High-Protein Diet
+32,Male,184,87,25.7,Hypertension,144,114,157,231,No,Nut Allergy,9489,0,8.1,No,No,Keto,1767,107,300,63,Asian,Salty,Balanced Diet
+64,Female,160,50,19.53,Hypertension,117,97,175,105,No,Nut Allergy,4999,0,6,No,No,Keto,2057,93,152,131,Mediterranean,Salty,Balanced Diet
+52,Male,180,88,27.16,Heart Disease,117,89,173,91,No,Lactose Intolerance,9484,6,5.3,Yes,No,Regular,1296,184,215,110,Mediterranean,Sweet,High-Protein Diet
+44,Male,157,80,32.46,Hypertension,157,69,238,231,No,Nut Allergy,9453,1,5.8,No,No,Regular,1750,68,279,87,Indian,Spicy,Balanced Diet
+71,Female,163,81,30.49,Diabetes,151,79,162,137,No,Lactose Intolerance,3057,6,5.4,No,No,Keto,1310,72,367,102,Mediterranean,Salty,Low-Carb Diet
+41,Female,160,95,37.11,Diabetes,110,77,172,181,No,Lactose Intolerance,5738,4,9.5,No,No,Vegetarian,1712,164,104,82,Western,Sweet,Low-Fat Diet
+50,Other,169,92,32.21,Diabetes,104,104,218,132,No,Lactose Intolerance,11119,1,5.9,No,No,Vegan,3163,147,236,80,Western,Salty,Low-Carb Diet
+47,Other,162,51,19.43,Obesity,136,97,288,70,Yes,Nut Allergy,6176,5,4.5,Yes,Yes,Regular,1271,120,263,103,Indian,Spicy,Balanced Diet
+73,Other,191,58,15.9,Heart Disease,162,96,244,171,No,Nut Allergy,10429,1,5.7,No,No,Keto,1821,159,252,77,Western,Spicy,Low-Fat Diet
+66,Male,168,96,34.01,Heart Disease,106,115,221,102,No,Lactose Intolerance,13353,2,7,No,No,Vegetarian,2042,109,258,45,Indian,Sweet,High-Protein Diet
+46,Female,162,97,36.96,Diabetes,119,97,282,113,No,Gluten Intolerance,14375,2,6.5,No,No,Keto,2695,133,262,65,Mediterranean,Salty,Balanced Diet
+35,Male,171,68,23.26,Hypertension,153,113,256,71,No,Gluten Intolerance,13241,2,5,No,Yes,Vegetarian,1846,182,368,27,Asian,Salty,High-Protein Diet
+19,Other,169,85,29.76,Heart Disease,101,119,247,125,Yes,Lactose Intolerance,7207,3,7.6,No,No,Keto,3141,125,178,147,Indian,Sweet,Low-Fat Diet
+66,Male,182,84,25.36,Diabetes,137,106,223,245,No,Nut Allergy,4926,5,8.3,No,No,Regular,3264,188,298,50,Asian,Sweet,Balanced Diet
+56,Female,181,95,29,Hypertension,174,96,257,209,No,Nut Allergy,7640,0,9.1,No,No,Regular,3107,145,283,53,Asian,Sweet,High-Protein Diet
+49,Female,157,65,26.37,Heart Disease,114,74,268,191,Yes,Nut Allergy,12819,3,9.3,No,No,Regular,2706,199,161,83,Western,Sweet,High-Protein Diet
+20,Other,160,75,29.3,Obesity,117,80,209,242,Yes,Nut Allergy,8319,0,6.2,Yes,No,Regular,2979,163,279,120,Mediterranean,Sweet,Low-Fat Diet
+51,Other,151,58,25.44,Heart Disease,167,63,286,248,Yes,Gluten Intolerance,6163,0,4,Yes,Yes,Regular,3446,154,245,100,Indian,Sweet,Low-Carb Diet
+72,Other,150,67,29.78,Obesity,148,83,250,211,Yes,Nut Allergy,12329,3,7.8,Yes,Yes,Vegetarian,2935,110,151,122,Western,Sweet,Low-Carb Diet
+40,Other,196,105,27.33,Obesity,134,114,257,127,No,Lactose Intolerance,3107,2,4.6,No,No,Regular,2223,113,188,114,Mediterranean,Salty,High-Protein Diet
+78,Other,159,53,20.96,Diabetes,118,116,212,227,No,Gluten Intolerance,12116,0,4.7,No,No,Vegan,1278,65,110,107,Asian,Spicy,Balanced Diet
+19,Male,164,96,35.69,Hypertension,170,79,200,191,No,Nut Allergy,2854,6,6.4,No,No,Vegan,1836,54,194,72,Indian,Spicy,Balanced Diet
+55,Female,152,114,49.34,Heart Disease,164,105,219,172,Yes,Gluten Intolerance,3044,6,4.6,No,Yes,Keto,3262,148,225,66,Western,Salty,Low-Fat Diet
+40,Female,167,62,22.23,Hypertension,136,113,168,204,Yes,Lactose Intolerance,7886,0,4.5,No,No,Regular,1459,153,252,48,Mediterranean,Sweet,Low-Carb Diet
+34,Male,164,86,31.98,Hypertension,104,79,270,246,No,Nut Allergy,10753,5,4.2,No,No,Regular,2039,111,325,29,Asian,Sweet,High-Protein Diet
+19,Male,153,105,44.85,Hypertension,125,88,258,72,Yes,Gluten Intolerance,11957,2,4.1,No,No,Vegan,3022,128,105,108,Western,Spicy,Balanced Diet
+51,Female,179,102,31.83,Hypertension,102,113,221,168,Yes,Nut Allergy,9303,2,7.6,No,No,Keto,2039,69,145,143,Western,Sweet,Low-Carb Diet
+51,Male,199,75,18.94,Hypertension,101,74,262,240,No,Nut Allergy,6004,2,5.7,No,No,Vegetarian,2590,69,386,139,Indian,Spicy,Balanced Diet
+44,Other,190,69,19.11,Hypertension,98,66,190,229,No,Gluten Intolerance,12834,3,9.7,Yes,No,Keto,1224,167,306,62,Western,Salty,Low-Carb Diet
+44,Female,158,83,33.25,Obesity,163,71,264,126,Yes,Gluten Intolerance,14304,1,8.7,No,No,Regular,2400,157,366,79,Indian,Salty,High-Protein Diet
+24,Female,195,95,24.98,Hypertension,175,80,178,155,Yes,Nut Allergy,14581,5,9.6,Yes,No,Regular,1323,72,161,66,Indian,Salty,Balanced Diet
+45,Female,175,110,35.92,Hypertension,140,76,164,204,No,Nut Allergy,6277,0,8.9,Yes,No,Vegetarian,3425,59,242,95,Mediterranean,Salty,Low-Fat Diet
+60,Male,196,103,26.81,Heart Disease,157,100,183,128,Yes,Nut Allergy,6448,1,5.7,Yes,No,Keto,2577,136,114,21,Indian,Sweet,Balanced Diet
+43,Male,176,119,38.42,Diabetes,176,100,277,89,No,Lactose Intolerance,7328,6,4.5,No,No,Regular,1682,197,230,25,Western,Spicy,Low-Carb Diet
+72,Male,181,84,25.64,Diabetes,95,62,289,86,No,Nut Allergy,13265,1,6,No,No,Keto,1366,122,375,35,Asian,Spicy,Balanced Diet
+71,Other,175,86,28.08,Heart Disease,170,110,159,78,No,Gluten Intolerance,11794,5,8.7,No,No,Vegetarian,2224,98,290,95,Western,Spicy,Low-Fat Diet
+50,Female,181,53,16.18,Diabetes,116,110,263,181,No,Lactose Intolerance,7932,2,4.3,Yes,Yes,Regular,1891,163,214,53,Western,Sweet,High-Protein Diet
+64,Male,151,117,51.31,Heart Disease,124,109,253,238,No,Lactose Intolerance,2430,4,5.6,Yes,No,Regular,2397,163,113,121,Indian,Salty,Low-Fat Diet
+34,Female,171,90,30.78,Hypertension,157,114,211,203,No,Gluten Intolerance,6839,0,5.3,No,Yes,Keto,3442,194,284,98,Mediterranean,Spicy,Balanced Diet
+60,Female,176,87,28.09,Diabetes,155,71,225,147,No,Gluten Intolerance,2452,2,8.7,No,Yes,Vegetarian,2935,102,326,122,Indian,Salty,Low-Carb Diet
+61,Other,164,99,36.81,Hypertension,124,79,278,112,Yes,Lactose Intolerance,9008,6,5.9,No,No,Regular,3112,55,247,129,Western,Spicy,Balanced Diet
+76,Other,152,113,48.91,Heart Disease,125,84,250,118,Yes,Gluten Intolerance,12596,2,9.1,Yes,No,Keto,2608,79,346,84,Asian,Spicy,Low-Carb Diet
+34,Female,164,85,31.6,Heart Disease,134,105,199,104,No,Nut Allergy,7229,1,9.9,No,Yes,Vegetarian,1710,79,344,103,Mediterranean,Sweet,Low-Fat Diet
+74,Female,186,113,32.66,Obesity,133,77,168,234,Yes,Nut Allergy,14214,1,9.8,No,Yes,Regular,1425,86,223,119,Asian,Sweet,Low-Carb Diet
+66,Female,153,83,35.46,Hypertension,165,92,244,125,Yes,Lactose Intolerance,5570,2,4.1,No,No,Vegan,1995,117,269,24,Indian,Salty,Low-Carb Diet
+34,Female,171,67,22.91,Heart Disease,148,94,232,164,Yes,Gluten Intolerance,7315,0,7.3,No,No,Regular,2644,72,305,101,Indian,Sweet,Balanced Diet
+29,Female,167,101,36.21,Obesity,110,119,232,240,No,Gluten Intolerance,5581,4,7.2,No,No,Keto,2744,96,214,136,Asian,Salty,High-Protein Diet
+43,Other,179,117,36.52,Heart Disease,104,68,224,211,No,Nut Allergy,9784,2,9.4,No,Yes,Vegan,2442,94,118,125,Mediterranean,Spicy,Low-Carb Diet
+24,Other,191,79,21.66,Diabetes,134,85,282,106,No,Gluten Intolerance,4899,2,8.4,Yes,Yes,Keto,1692,87,155,45,Indian,Spicy,Low-Fat Diet
+76,Male,170,65,22.49,Heart Disease,178,101,159,86,No,Lactose Intolerance,12321,0,7.6,No,No,Regular,3298,180,157,69,Indian,Salty,Balanced Diet
+48,Other,192,69,18.72,Heart Disease,170,94,275,119,No,Lactose Intolerance,10429,5,4.5,No,Yes,Keto,3194,81,347,130,Indian,Sweet,Low-Carb Diet
+20,Other,187,57,16.3,Diabetes,131,73,250,119,No,Gluten Intolerance,12935,3,9.9,Yes,No,Regular,3439,83,278,122,Western,Spicy,Low-Carb Diet
+59,Male,195,111,29.19,Diabetes,175,76,186,76,No,Gluten Intolerance,3259,4,5.6,Yes,No,Keto,3017,66,387,127,Indian,Spicy,Low-Carb Diet
+52,Female,178,108,34.09,Diabetes,111,75,235,160,Yes,Lactose Intolerance,8800,2,6.9,No,Yes,Regular,1800,147,131,122,Asian,Salty,Balanced Diet
+35,Other,174,115,37.98,Hypertension,160,89,187,93,No,Lactose Intolerance,12981,2,9.2,Yes,No,Regular,1375,162,238,140,Indian,Spicy,Low-Carb Diet
+46,Other,175,71,23.18,Diabetes,162,71,256,77,No,Nut Allergy,4072,1,7.2,Yes,Yes,Regular,1331,108,206,59,Mediterranean,Spicy,High-Protein Diet
+66,Male,184,85,25.11,Diabetes,141,111,245,108,No,Gluten Intolerance,13007,4,9.3,No,No,Regular,1935,52,350,81,Western,Sweet,High-Protein Diet
+61,Female,153,70,29.9,Obesity,145,110,278,187,Yes,Nut Allergy,6917,3,7.2,No,No,Regular,1557,111,277,52,Western,Spicy,Balanced Diet
+74,Female,186,110,31.8,Diabetes,171,117,223,75,No,Nut Allergy,5260,0,9.5,Yes,No,Vegetarian,2010,128,316,82,Indian,Sweet,Low-Fat Diet
+47,Female,157,105,42.6,Diabetes,145,89,208,141,No,Lactose Intolerance,10885,3,7.8,No,Yes,Regular,2657,95,111,82,Western,Spicy,Low-Carb Diet
+31,Female,198,58,14.79,Obesity,121,78,233,90,No,Gluten Intolerance,14401,2,4.5,No,No,Regular,3095,147,391,82,Western,Salty,Balanced Diet
+65,Female,188,112,31.69,Heart Disease,118,92,224,110,Yes,Nut Allergy,5954,5,5.2,Yes,No,Regular,1797,128,180,112,Western,Salty,Low-Fat Diet
+29,Female,176,59,19.05,Diabetes,103,114,242,95,No,Gluten Intolerance,10908,2,8,Yes,No,Regular,1434,174,280,21,Indian,Sweet,High-Protein Diet
+60,Other,196,72,18.74,Obesity,93,70,249,95,No,Lactose Intolerance,5672,3,6.3,No,No,Vegan,2919,122,186,56,Asian,Salty,Low-Carb Diet
+63,Female,194,51,13.55,Diabetes,95,99,192,76,No,Lactose Intolerance,4551,4,7.2,No,Yes,Regular,1994,175,115,81,Mediterranean,Sweet,Low-Fat Diet
+28,Male,171,114,38.99,Heart Disease,124,68,247,155,No,Gluten Intolerance,5650,0,9.8,Yes,No,Regular,2958,60,217,133,Asian,Spicy,Low-Carb Diet
+30,Male,173,119,39.76,Obesity,147,108,174,187,No,Gluten Intolerance,2731,1,9.4,No,No,Keto,2935,57,207,141,Asian,Spicy,Balanced Diet
+21,Other,198,114,29.08,Diabetes,102,118,251,227,Yes,Nut Allergy,13240,5,5,No,Yes,Keto,3384,112,100,53,Mediterranean,Sweet,Low-Carb Diet
+23,Female,156,81,33.28,Heart Disease,119,91,155,144,Yes,Lactose Intolerance,10348,3,5.6,Yes,No,Keto,2939,110,175,63,Indian,Salty,Low-Carb Diet
+75,Male,164,83,30.86,Obesity,130,85,270,203,Yes,Lactose Intolerance,5065,3,6,No,No,Regular,3481,86,315,60,Western,Spicy,High-Protein Diet
+78,Female,150,66,29.33,Obesity,115,77,299,164,Yes,Gluten Intolerance,4233,0,8.7,No,No,Regular,1858,57,131,76,Asian,Sweet,Low-Fat Diet
+59,Male,178,64,20.2,Diabetes,177,88,177,241,No,Gluten Intolerance,4090,2,7.9,No,Yes,Regular,1579,72,263,111,Asian,Spicy,Low-Fat Diet
+30,Male,175,63,20.57,Diabetes,146,75,154,204,No,Gluten Intolerance,4914,4,9.6,No,No,Keto,2491,124,139,110,Mediterranean,Salty,Low-Fat Diet
+78,Female,170,69,23.88,Hypertension,108,87,236,186,No,Nut Allergy,13564,5,5.7,No,No,Vegetarian,3414,93,251,54,Mediterranean,Spicy,High-Protein Diet
+28,Female,162,95,36.2,Obesity,157,88,265,163,No,Gluten Intolerance,9487,2,7.3,Yes,No,Regular,3305,187,337,80,Indian,Sweet,Low-Carb Diet
+58,Male,171,105,35.91,Diabetes,158,93,296,176,No,Gluten Intolerance,14997,3,9.5,No,Yes,Vegan,1508,124,207,132,Asian,Sweet,Balanced Diet
+59,Other,181,116,35.41,Diabetes,163,92,275,236,No,Nut Allergy,4902,1,5.9,Yes,No,Vegan,1619,171,328,105,Western,Sweet,Low-Fat Diet
+41,Female,170,65,22.49,Heart Disease,172,87,237,117,No,Lactose Intolerance,6500,2,5.6,No,No,Regular,2632,173,258,26,Western,Spicy,Balanced Diet
+25,Female,196,80,20.82,Heart Disease,133,114,210,162,Yes,Gluten Intolerance,4948,1,4.5,Yes,No,Regular,1466,64,259,122,Asian,Spicy,Balanced Diet
+30,Male,179,118,36.83,Hypertension,134,65,167,143,Yes,Gluten Intolerance,10242,0,6.5,No,No,Regular,3477,71,381,47,Asian,Sweet,Balanced Diet
+45,Other,198,61,15.56,Heart Disease,122,78,184,192,Yes,Gluten Intolerance,5199,1,8.3,Yes,No,Regular,3462,118,295,117,Asian,Salty,Low-Carb Diet
+75,Female,150,109,48.44,Hypertension,112,101,253,103,Yes,Lactose Intolerance,4015,2,9.6,No,No,Keto,2063,145,130,110,Asian,Salty,Low-Fat Diet
+73,Female,150,70,31.11,Hypertension,118,97,247,135,No,Lactose Intolerance,9418,6,9.6,Yes,No,Vegetarian,2386,53,113,115,Asian,Salty,Low-Carb Diet
+62,Other,168,83,29.41,Heart Disease,136,106,275,104,No,Lactose Intolerance,11279,0,8.7,No,No,Regular,3078,190,195,75,Indian,Salty,Balanced Diet
+50,Other,192,105,28.48,Hypertension,92,80,241,180,No,Nut Allergy,14228,5,6.8,No,No,Regular,1341,149,328,103,Western,Sweet,Low-Fat Diet
+42,Male,199,86,21.72,Diabetes,121,78,236,238,No,Lactose Intolerance,2804,2,5.5,No,No,Vegan,1780,110,243,131,Mediterranean,Salty,Balanced Diet
+44,Male,186,93,26.88,Diabetes,131,99,200,194,No,Lactose Intolerance,8305,6,5,No,Yes,Regular,2548,97,389,58,Western,Sweet,High-Protein Diet
+22,Other,182,70,21.13,Obesity,176,69,236,179,Yes,Gluten Intolerance,6395,3,5.8,No,Yes,Keto,2626,135,291,58,Asian,Spicy,High-Protein Diet
+35,Male,174,93,30.72,Hypertension,92,101,189,160,No,Lactose Intolerance,6780,2,9.7,No,No,Regular,1537,55,384,109,Mediterranean,Salty,Balanced Diet
+48,Male,195,57,14.99,Diabetes,109,92,282,154,No,Gluten Intolerance,9614,5,4.6,Yes,Yes,Keto,1368,165,174,96,Mediterranean,Spicy,Low-Carb Diet
+62,Female,156,79,32.46,Heart Disease,156,117,250,218,No,Lactose Intolerance,8182,5,6.1,No,No,Keto,2574,118,193,136,Asian,Salty,High-Protein Diet
+23,Male,174,111,36.66,Diabetes,159,86,255,112,Yes,Lactose Intolerance,13382,4,8.6,No,No,Vegetarian,3256,106,361,112,Asian,Salty,Low-Carb Diet
+37,Female,176,50,16.14,Diabetes,179,113,225,193,Yes,Lactose Intolerance,6576,5,8,Yes,No,Keto,3053,163,146,54,Asian,Salty,Low-Fat Diet
+67,Male,198,80,20.41,Diabetes,145,66,192,131,No,Gluten Intolerance,10452,4,7.1,No,No,Keto,1541,100,202,92,Indian,Salty,Low-Fat Diet
+27,Other,185,61,17.82,Diabetes,99,85,276,120,No,Nut Allergy,5939,4,9.1,No,No,Vegan,1252,78,197,98,Asian,Spicy,Low-Carb Diet
+52,Other,187,99,28.31,Heart Disease,120,99,262,106,No,Nut Allergy,13559,5,4.3,No,No,Keto,2133,140,251,39,Western,Spicy,High-Protein Diet
+34,Other,158,54,21.63,Heart Disease,166,109,176,215,Yes,Lactose Intolerance,4166,0,8.6,Yes,Yes,Regular,1920,178,188,79,Indian,Salty,Low-Fat Diet
+56,Female,171,92,31.46,Diabetes,104,80,289,85,Yes,Lactose Intolerance,14546,3,6.9,No,No,Keto,3157,130,337,91,Western,Sweet,Low-Carb Diet
+31,Other,165,50,18.37,Obesity,107,100,172,132,Yes,Nut Allergy,4709,0,8.5,Yes,Yes,Vegan,1621,193,144,86,Mediterranean,Salty,Low-Carb Diet
+73,Female,177,79,25.22,Heart Disease,103,101,203,141,No,Lactose Intolerance,8872,0,7.2,Yes,No,Regular,1501,88,295,103,Asian,Salty,Balanced Diet
+45,Female,192,85,23.06,Diabetes,109,74,231,111,Yes,Lactose Intolerance,3153,0,5.1,Yes,No,Regular,2896,183,339,126,Mediterranean,Salty,Low-Carb Diet
+37,Male,198,88,22.45,Diabetes,178,107,212,160,No,Gluten Intolerance,8868,4,7.2,No,Yes,Regular,1730,137,185,76,Mediterranean,Sweet,High-Protein Diet
+23,Other,158,62,24.84,Hypertension,126,106,215,77,Yes,Lactose Intolerance,13260,1,6.6,No,No,Keto,1709,109,267,149,Mediterranean,Salty,Low-Fat Diet
+36,Male,199,65,16.41,Obesity,175,115,261,190,No,Lactose Intolerance,2235,0,6.7,No,No,Regular,1752,190,399,48,Asian,Spicy,High-Protein Diet
+22,Female,180,76,23.46,Heart Disease,104,108,294,93,No,Lactose Intolerance,13835,2,8.3,Yes,No,Regular,2757,86,130,60,Asian,Spicy,Low-Fat Diet
+76,Female,172,84,28.39,Hypertension,153,71,217,237,No,Gluten Intolerance,3796,6,9.6,Yes,No,Regular,3334,195,360,60,Indian,Sweet,High-Protein Diet
+32,Female,170,99,34.26,Heart Disease,156,105,198,117,Yes,Lactose Intolerance,5827,6,7.8,No,Yes,Keto,1977,56,305,100,Mediterranean,Spicy,High-Protein Diet
+44,Other,167,102,36.57,Diabetes,111,64,264,113,Yes,Lactose Intolerance,9335,5,7.4,No,Yes,Regular,1885,89,327,61,Asian,Salty,Low-Fat Diet
+77,Male,152,92,39.82,Hypertension,120,60,190,104,Yes,Nut Allergy,2965,4,9.6,No,No,Vegan,1803,132,377,127,Indian,Salty,Low-Carb Diet
+67,Female,153,81,34.6,Heart Disease,108,76,252,186,Yes,Lactose Intolerance,13696,5,5.5,Yes,No,Regular,3275,72,198,22,Asian,Spicy,High-Protein Diet
+70,Male,196,57,14.84,Diabetes,120,64,206,229,No,Nut Allergy,14008,1,7.3,No,No,Regular,1400,186,115,53,Mediterranean,Spicy,Low-Fat Diet
+77,Other,172,95,32.11,Hypertension,148,119,171,70,No,Gluten Intolerance,11968,5,8.9,No,No,Keto,1431,62,244,145,Indian,Salty,Low-Carb Diet
+75,Other,167,70,25.1,Hypertension,144,74,217,180,No,Lactose Intolerance,10963,2,9.4,No,No,Regular,1997,121,117,116,Indian,Sweet,Low-Fat Diet
+30,Male,190,110,30.47,Obesity,108,87,293,185,No,Gluten Intolerance,11428,0,6.1,No,No,Keto,2558,68,206,84,Mediterranean,Sweet,Low-Fat Diet
+38,Female,170,99,34.26,Heart Disease,95,119,230,205,Yes,Lactose Intolerance,8464,1,8.9,No,No,Regular,1203,132,258,113,Indian,Sweet,High-Protein Diet
+28,Male,195,79,20.78,Hypertension,167,99,218,97,No,Lactose Intolerance,8390,1,9.1,No,No,Regular,1663,143,221,45,Asian,Spicy,High-Protein Diet
+58,Other,198,103,26.27,Diabetes,144,64,205,153,No,Nut Allergy,9325,4,8.1,Yes,Yes,Regular,1713,61,144,95,Western,Salty,Balanced Diet
+63,Male,182,98,29.59,Hypertension,153,77,269,197,No,Lactose Intolerance,5834,5,8.5,Yes,No,Keto,3314,148,320,118,Asian,Spicy,Low-Fat Diet
+49,Other,162,53,20.2,Hypertension,147,102,174,157,Yes,Nut Allergy,4429,3,8.4,Yes,No,Regular,2448,78,310,29,Indian,Sweet,Low-Carb Diet
+71,Other,161,109,42.05,Heart Disease,112,77,202,86,No,Lactose Intolerance,9789,1,5,No,Yes,Regular,1692,193,352,61,Western,Spicy,High-Protein Diet
+50,Female,182,71,21.43,Diabetes,159,90,232,173,Yes,Nut Allergy,14882,6,4.6,No,No,Keto,2161,89,231,102,Mediterranean,Spicy,High-Protein Diet
+30,Female,162,59,22.48,Heart Disease,163,89,261,163,No,Gluten Intolerance,5116,1,7.8,No,No,Vegetarian,2804,179,231,20,Mediterranean,Spicy,Low-Carb Diet
+47,Male,159,91,36,Diabetes,128,85,218,136,No,Gluten Intolerance,13715,5,4.8,No,No,Regular,2583,168,377,72,Asian,Spicy,Low-Carb Diet
+32,Other,181,66,20.15,Heart Disease,153,82,206,143,No,Lactose Intolerance,11861,3,4.7,No,No,Regular,2191,149,172,81,Western,Sweet,Low-Fat Diet
+51,Male,162,59,22.48,Diabetes,165,103,177,194,No,Lactose Intolerance,6076,0,7.9,No,No,Regular,2104,178,232,52,Indian,Salty,High-Protein Diet
+64,Female,183,54,16.12,Obesity,151,113,182,70,No,Gluten Intolerance,4602,1,5.3,No,No,Regular,2382,91,183,68,Asian,Spicy,Low-Carb Diet
+21,Female,182,117,35.32,Hypertension,101,103,222,77,No,Lactose Intolerance,6669,0,6.8,Yes,No,Regular,2224,72,281,98,Western,Sweet,Low-Fat Diet
+23,Other,182,73,22.04,Diabetes,116,75,154,233,No,Nut Allergy,6027,3,9,No,No,Regular,1208,72,346,82,Indian,Sweet,Balanced Diet
+75,Other,157,90,36.51,Heart Disease,95,85,205,79,No,Gluten Intolerance,8734,5,7.4,No,No,Vegan,3152,95,133,148,Western,Salty,Balanced Diet
+35,Female,170,83,28.72,Obesity,164,117,166,221,No,Lactose Intolerance,10100,6,7.3,No,Yes,Regular,1599,148,164,46,Indian,Spicy,Low-Fat Diet
+35,Other,174,116,38.31,Obesity,105,100,194,79,Yes,Gluten Intolerance,6825,6,6.6,No,No,Vegan,2387,52,123,68,Mediterranean,Salty,Low-Fat Diet
+36,Female,196,111,28.89,Hypertension,106,118,198,109,No,Lactose Intolerance,6553,5,7.7,Yes,No,Regular,1369,61,164,36,Asian,Spicy,High-Protein Diet
+32,Female,151,93,40.79,Diabetes,173,84,155,147,No,Lactose Intolerance,12520,2,8.7,No,Yes,Vegetarian,3302,51,272,56,Mediterranean,Sweet,Low-Fat Diet
+78,Other,166,59,21.41,Heart Disease,122,92,183,132,No,Lactose Intolerance,14619,5,7.7,Yes,No,Regular,2060,193,113,42,Western,Sweet,Low-Carb Diet
+61,Other,152,91,39.39,Obesity,93,96,221,152,No,Gluten Intolerance,14838,0,4,No,No,Vegetarian,2042,174,144,100,Mediterranean,Spicy,Low-Carb Diet
+77,Male,175,64,20.9,Obesity,138,117,192,216,No,Lactose Intolerance,3360,5,8.3,No,No,Regular,2194,167,208,40,Asian,Spicy,Low-Fat Diet
+41,Female,185,85,24.84,Hypertension,100,62,159,86,No,Lactose Intolerance,11245,1,4.2,Yes,No,Regular,3442,121,323,42,Asian,Sweet,Low-Fat Diet
+51,Male,153,78,33.32,Hypertension,121,96,203,117,Yes,Gluten Intolerance,12623,1,4.9,Yes,Yes,Regular,2747,52,318,107,Mediterranean,Spicy,High-Protein Diet
+68,Male,156,82,33.69,Hypertension,174,62,227,214,Yes,Gluten Intolerance,3351,0,5.1,No,No,Regular,1996,187,287,144,Asian,Spicy,Balanced Diet
+78,Female,160,70,27.34,Diabetes,112,92,162,156,No,Lactose Intolerance,2184,6,9,Yes,Yes,Vegan,1972,61,123,71,Asian,Salty,High-Protein Diet
+72,Female,170,78,26.99,Obesity,112,60,213,159,No,Nut Allergy,9542,2,9.2,No,No,Keto,3180,57,179,81,Indian,Salty,High-Protein Diet
+22,Other,158,94,37.65,Heart Disease,143,96,267,153,No,Gluten Intolerance,4355,3,5.4,No,No,Keto,3142,58,265,118,Mediterranean,Sweet,Low-Fat Diet
+34,Other,167,94,33.71,Heart Disease,96,71,271,188,Yes,Gluten Intolerance,7334,5,9.4,No,No,Vegetarian,1302,194,311,61,Indian,Salty,Low-Fat Diet
+52,Other,152,104,45.01,Heart Disease,161,103,200,121,No,Nut Allergy,4076,4,7.8,Yes,No,Vegetarian,1859,101,364,106,Western,Sweet,High-Protein Diet
+64,Male,167,117,41.95,Heart Disease,110,114,252,108,No,Nut Allergy,7427,3,9.2,No,Yes,Vegan,2642,57,201,146,Mediterranean,Spicy,Low-Fat Diet
+27,Male,165,104,38.2,Hypertension,168,95,258,186,Yes,Lactose Intolerance,11890,5,4.4,No,No,Vegan,3125,129,389,25,Asian,Spicy,Balanced Diet
+31,Other,190,94,26.04,Diabetes,139,70,261,170,Yes,Gluten Intolerance,8252,3,6.9,No,No,Regular,2348,71,161,47,Western,Spicy,Balanced Diet
+54,Male,190,107,29.64,Heart Disease,110,88,179,150,No,Nut Allergy,11018,3,8.4,No,Yes,Regular,2394,183,306,140,Western,Spicy,Low-Carb Diet
+54,Other,184,52,15.36,Hypertension,101,72,261,146,No,Lactose Intolerance,6695,4,8.4,No,Yes,Keto,2302,170,241,45,Asian,Spicy,Low-Fat Diet
+37,Other,183,118,35.24,Diabetes,133,114,195,83,No,Gluten Intolerance,14121,1,9.8,Yes,Yes,Regular,2489,142,260,69,Western,Spicy,High-Protein Diet
+73,Other,162,88,33.53,Heart Disease,137,75,218,71,Yes,Lactose Intolerance,11875,2,9.4,No,No,Vegan,2193,106,213,59,Western,Spicy,Low-Carb Diet
+72,Female,151,85,37.28,Hypertension,171,72,252,196,No,Nut Allergy,9551,6,7.8,No,No,Vegan,3428,61,123,129,Asian,Sweet,Low-Fat Diet
+18,Other,164,67,24.91,Diabetes,155,119,284,176,No,Gluten Intolerance,3626,2,5.3,No,No,Regular,2849,136,261,135,Mediterranean,Sweet,Balanced Diet
+49,Male,194,111,29.49,Heart Disease,102,77,299,213,Yes,Nut Allergy,13869,6,9.3,Yes,Yes,Vegetarian,2985,75,186,32,Mediterranean,Salty,Low-Carb Diet
+64,Other,167,81,29.04,Hypertension,152,95,286,100,Yes,Gluten Intolerance,3320,0,7.5,No,No,Regular,1808,187,386,82,Asian,Sweet,Balanced Diet
+18,Female,175,89,29.06,Heart Disease,148,99,296,188,No,Gluten Intolerance,4369,4,9.1,No,Yes,Vegetarian,2285,159,320,99,Indian,Sweet,Low-Fat Diet
+66,Male,184,80,23.63,Diabetes,168,79,215,225,No,Gluten Intolerance,12898,0,9,Yes,No,Regular,1646,101,144,109,Asian,Salty,Balanced Diet
+30,Female,165,93,34.16,Diabetes,121,114,297,201,Yes,Nut Allergy,11092,0,9.6,No,Yes,Vegetarian,1297,129,356,115,Asian,Spicy,High-Protein Diet
+30,Other,169,111,38.86,Hypertension,141,70,196,194,No,Nut Allergy,2143,1,9.1,No,Yes,Regular,1946,195,292,124,Mediterranean,Salty,Balanced Diet
+51,Male,163,86,32.37,Heart Disease,126,81,196,175,No,Nut Allergy,4535,6,9.6,No,No,Regular,3359,53,171,65,Asian,Spicy,Balanced Diet
+78,Male,176,73,23.57,Diabetes,167,72,267,70,No,Nut Allergy,11605,5,6.9,No,No,Keto,3277,150,274,101,Mediterranean,Salty,Low-Fat Diet
+30,Female,179,93,29.03,Obesity,127,80,215,130,No,Nut Allergy,10364,6,7,Yes,Yes,Regular,2486,55,185,144,Mediterranean,Spicy,High-Protein Diet
+79,Male,159,83,32.83,Diabetes,111,66,259,126,No,Lactose Intolerance,7320,5,6.5,Yes,Yes,Regular,2324,133,366,74,Asian,Salty,Low-Carb Diet
+42,Male,186,63,18.21,Heart Disease,147,111,192,155,No,Lactose Intolerance,2408,2,4.1,Yes,No,Regular,1678,108,234,26,Mediterranean,Sweet,Low-Fat Diet
+38,Other,199,110,27.78,Diabetes,122,112,233,224,Yes,Gluten Intolerance,13799,4,4.2,No,No,Keto,2356,106,272,93,Indian,Sweet,Balanced Diet
+66,Female,197,102,26.28,Obesity,153,118,163,202,No,Nut Allergy,8320,2,6.2,Yes,No,Vegetarian,2122,136,134,149,Mediterranean,Sweet,Low-Fat Diet
+55,Female,197,60,15.46,Diabetes,147,90,191,194,No,Lactose Intolerance,6234,1,5.9,Yes,No,Regular,3237,128,169,23,Mediterranean,Sweet,High-Protein Diet
+25,Male,157,67,27.18,Diabetes,111,94,290,211,Yes,Lactose Intolerance,11779,4,8.3,No,No,Vegetarian,2802,176,291,41,Asian,Spicy,Low-Carb Diet
+65,Female,170,114,39.45,Obesity,127,86,184,154,No,Gluten Intolerance,2743,2,4.1,No,Yes,Regular,1642,186,263,70,Western,Salty,Low-Fat Diet
+46,Other,163,70,26.35,Hypertension,128,67,158,161,No,Lactose Intolerance,11298,1,5.2,No,No,Vegetarian,3399,155,373,121,Western,Sweet,High-Protein Diet
+42,Female,197,99,25.51,Heart Disease,164,96,265,241,Yes,Lactose Intolerance,10821,1,8.3,No,No,Keto,1787,194,323,66,Western,Salty,Low-Fat Diet
+29,Other,193,97,26.04,Hypertension,91,64,293,100,Yes,Nut Allergy,6910,3,9.8,No,No,Vegetarian,1725,109,236,79,Asian,Salty,Low-Fat Diet
+61,Female,158,117,46.87,Diabetes,161,115,240,87,No,Nut Allergy,5133,2,5.9,Yes,No,Vegan,3104,71,224,140,Western,Sweet,High-Protein Diet
+60,Other,191,66,18.09,Obesity,121,73,299,161,No,Gluten Intolerance,11339,6,5.6,No,No,Regular,2894,100,142,133,Mediterranean,Spicy,High-Protein Diet
+68,Male,157,59,23.94,Diabetes,111,72,166,160,Yes,Nut Allergy,13072,0,4.3,No,Yes,Vegetarian,1307,112,216,23,Western,Salty,High-Protein Diet
+38,Male,156,75,30.82,Obesity,132,96,212,204,Yes,Lactose Intolerance,2265,0,5.1,No,No,Vegan,2145,150,293,51,Indian,Spicy,High-Protein Diet
+59,Other,195,93,24.46,Diabetes,175,79,171,148,No,Gluten Intolerance,5333,5,8.7,No,No,Regular,1919,165,208,35,Asian,Sweet,High-Protein Diet
+19,Female,159,117,46.28,Heart Disease,104,110,154,105,Yes,Nut Allergy,3291,6,7.1,No,No,Keto,1271,95,380,139,Indian,Sweet,Low-Carb Diet
+42,Male,174,87,28.74,Heart Disease,135,113,155,226,No,Gluten Intolerance,10049,4,5.1,Yes,No,Regular,1309,152,103,66,Mediterranean,Sweet,Low-Carb Diet
+37,Female,176,110,35.51,Diabetes,146,90,199,140,No,Lactose Intolerance,5736,0,6.9,No,No,Vegan,2063,105,376,139,Mediterranean,Salty,Low-Carb Diet
+71,Female,196,75,19.52,Hypertension,156,64,171,82,Yes,Lactose Intolerance,2289,1,7.3,Yes,Yes,Vegetarian,1354,162,342,23,Western,Salty,High-Protein Diet
+74,Male,184,97,28.65,Hypertension,104,105,234,205,No,Nut Allergy,14290,4,7.1,No,No,Vegetarian,3279,178,224,86,Western,Spicy,Balanced Diet
+41,Other,167,55,19.72,Diabetes,104,78,278,168,No,Nut Allergy,7479,4,9,No,No,Vegetarian,2007,63,358,63,Asian,Spicy,Balanced Diet
+33,Other,182,112,33.81,Heart Disease,151,71,293,177,Yes,Gluten Intolerance,11040,3,6,Yes,Yes,Keto,2901,118,335,55,Indian,Salty,Balanced Diet
+41,Other,192,89,24.14,Obesity,144,114,218,196,Yes,Lactose Intolerance,11620,0,9.8,No,Yes,Regular,2455,87,150,70,Western,Spicy,Balanced Diet
+42,Female,188,115,32.54,Heart Disease,104,96,218,209,No,Nut Allergy,7225,5,8.4,No,No,Vegetarian,2247,105,139,34,Mediterranean,Sweet,High-Protein Diet
+52,Male,197,79,20.36,Hypertension,148,62,226,180,No,Gluten Intolerance,7987,4,4.3,No,No,Keto,1501,165,262,88,Western,Spicy,Low-Fat Diet
+34,Female,187,93,26.59,Diabetes,154,85,210,116,No,Lactose Intolerance,2909,6,6.9,Yes,No,Regular,2581,112,262,135,Indian,Salty,Balanced Diet
+39,Male,196,74,19.26,Hypertension,125,102,288,187,No,Lactose Intolerance,10641,5,8.1,No,No,Vegetarian,2618,186,377,32,Mediterranean,Sweet,Low-Fat Diet
+32,Female,186,50,14.45,Hypertension,137,103,244,153,No,Gluten Intolerance,7429,3,5.1,No,No,Keto,1940,135,197,138,Western,Spicy,High-Protein Diet
+45,Female,166,101,36.65,Hypertension,95,88,157,166,Yes,Gluten Intolerance,3979,4,8.5,No,No,Regular,3145,104,365,42,Mediterranean,Salty,High-Protein Diet
+49,Other,190,90,24.93,Obesity,157,111,247,144,Yes,Lactose Intolerance,8828,1,5,No,No,Keto,2707,191,301,99,Asian,Salty,Low-Carb Diet
+30,Female,151,95,41.66,Hypertension,143,107,250,198,No,Nut Allergy,9905,6,5.7,No,Yes,Regular,3204,91,302,141,Indian,Spicy,Low-Carb Diet
+79,Other,165,82,30.12,Heart Disease,163,86,253,125,No,Lactose Intolerance,6775,2,8.2,No,No,Regular,2591,194,106,47,Asian,Salty,Low-Carb Diet
+58,Male,168,52,18.42,Diabetes,139,80,176,92,No,Nut Allergy,5504,2,8.8,No,No,Regular,2603,120,361,147,Mediterranean,Spicy,Low-Carb Diet
+53,Other,177,95,30.32,Diabetes,139,90,179,124,No,Nut Allergy,12957,1,4.4,No,Yes,Regular,2683,173,205,29,Mediterranean,Sweet,Low-Carb Diet
+20,Male,167,67,24.02,Heart Disease,95,97,152,172,No,Lactose Intolerance,6918,6,9.8,No,No,Regular,1751,188,188,23,Asian,Sweet,Low-Fat Diet
+76,Male,199,61,15.4,Diabetes,130,82,214,128,Yes,Lactose Intolerance,4575,2,10,Yes,Yes,Vegetarian,2865,50,270,33,Indian,Spicy,High-Protein Diet
+58,Other,192,110,29.84,Diabetes,91,78,215,139,No,Lactose Intolerance,13566,0,4.6,Yes,No,Vegetarian,2513,134,338,73,Mediterranean,Salty,Low-Carb Diet
+23,Female,162,69,26.29,Heart Disease,103,95,254,189,No,Lactose Intolerance,13852,2,7.6,No,No,Regular,1895,74,246,124,Western,Salty,Balanced Diet
+47,Male,198,83,21.17,Diabetes,126,92,287,217,No,Gluten Intolerance,8394,2,4.2,Yes,No,Keto,2042,154,331,122,Western,Salty,High-Protein Diet
+46,Other,158,118,47.27,Heart Disease,126,64,246,127,No,Gluten Intolerance,2374,3,5.7,No,No,Keto,2831,154,317,147,Asian,Spicy,Balanced Diet
+64,Male,164,76,28.26,Obesity,121,99,186,128,Yes,Gluten Intolerance,11586,0,7.3,No,No,Regular,1502,181,129,118,Western,Salty,Low-Carb Diet
+74,Male,170,82,28.37,Obesity,134,103,207,93,Yes,Lactose Intolerance,14065,4,5,No,No,Regular,3499,166,333,55,Asian,Sweet,High-Protein Diet
+33,Female,165,53,19.47,Heart Disease,93,84,286,103,Yes,Lactose Intolerance,4453,4,6.6,Yes,Yes,Regular,3363,114,147,144,Western,Salty,Low-Carb Diet
+33,Male,165,119,43.71,Heart Disease,119,118,211,149,No,Gluten Intolerance,8483,6,8.9,No,No,Regular,2723,174,200,93,Western,Salty,Low-Fat Diet
+45,Male,152,76,32.89,Diabetes,154,85,275,122,No,Lactose Intolerance,2923,5,8.4,No,No,Vegetarian,1293,153,105,113,Western,Spicy,High-Protein Diet
+57,Male,181,118,36.02,Diabetes,121,82,191,218,No,Lactose Intolerance,9221,6,6.5,No,No,Vegan,3015,131,277,41,Western,Spicy,High-Protein Diet
+53,Male,182,116,35.02,Obesity,109,106,287,160,No,Nut Allergy,5713,0,5.4,No,No,Regular,3294,68,348,122,Western,Spicy,Balanced Diet
+74,Other,168,58,20.55,Hypertension,160,103,261,179,Yes,Nut Allergy,9517,1,9.1,No,No,Vegetarian,3276,129,372,24,Asian,Salty,Low-Fat Diet
+43,Male,197,89,22.93,Obesity,139,108,248,195,No,Lactose Intolerance,9576,1,9.4,No,No,Regular,1249,184,369,123,Mediterranean,Salty,Low-Carb Diet
+32,Other,194,80,21.26,Obesity,138,112,216,207,No,Lactose Intolerance,10148,5,7.3,No,No,Regular,1953,191,143,48,Asian,Salty,Low-Fat Diet
+59,Female,168,86,30.47,Diabetes,124,92,208,83,No,Nut Allergy,9706,6,5.4,Yes,No,Regular,2388,150,140,27,Indian,Salty,Low-Carb Diet
+47,Male,165,92,33.79,Heart Disease,135,81,166,116,No,Gluten Intolerance,6730,5,4.8,No,No,Regular,1597,139,282,24,Indian,Sweet,Low-Carb Diet
+69,Other,192,52,14.11,Hypertension,179,88,261,179,No,Nut Allergy,4004,3,5.7,No,Yes,Regular,3030,101,176,149,Mediterranean,Spicy,Low-Fat Diet
+19,Female,153,59,25.2,Heart Disease,154,103,214,105,No,Lactose Intolerance,6245,6,6,No,No,Vegan,1930,116,216,52,Western,Sweet,Low-Carb Diet
+78,Female,179,84,26.22,Hypertension,103,62,199,170,No,Gluten Intolerance,12652,5,5.6,Yes,No,Vegan,1803,59,362,82,Western,Salty,Low-Fat Diet
+18,Female,158,52,20.83,Heart Disease,145,64,232,169,Yes,Lactose Intolerance,10027,0,9.1,No,No,Keto,3414,147,272,31,Indian,Spicy,Low-Carb Diet
+63,Female,190,56,15.51,Heart Disease,165,87,203,115,No,Gluten Intolerance,6261,3,9,No,No,Regular,2714,174,212,144,Asian,Spicy,High-Protein Diet
+78,Female,154,100,42.17,Diabetes,162,101,242,180,Yes,Gluten Intolerance,8525,2,9.2,Yes,No,Vegan,1537,56,243,128,Mediterranean,Salty,Balanced Diet
+58,Other,176,111,35.83,Diabetes,117,77,196,140,No,Gluten Intolerance,9456,5,9.2,No,No,Regular,1497,130,180,116,Western,Sweet,High-Protein Diet
+23,Female,157,89,36.11,Hypertension,129,97,295,82,No,Nut Allergy,10707,0,9,No,No,Vegetarian,2963,198,256,76,Mediterranean,Spicy,Balanced Diet
+51,Other,157,82,33.27,Diabetes,150,82,201,194,No,Nut Allergy,6900,3,9.9,No,No,Regular,1468,166,276,110,Asian,Salty,Low-Carb Diet
+32,Male,190,95,26.32,Hypertension,130,60,238,89,No,Nut Allergy,6208,5,5,No,Yes,Keto,3335,178,267,69,Indian,Sweet,Low-Carb Diet
+21,Other,179,94,29.34,Hypertension,98,84,284,159,No,Gluten Intolerance,12133,2,6.3,Yes,No,Regular,3232,93,224,78,Indian,Salty,Low-Carb Diet
+48,Male,151,74,32.45,Heart Disease,126,81,181,179,No,Gluten Intolerance,7366,5,4.7,No,No,Regular,1283,60,346,133,Western,Salty,Low-Fat Diet
+46,Female,174,50,16.51,Diabetes,164,79,223,214,No,Lactose Intolerance,14526,3,6.7,No,No,Regular,2345,160,210,26,Asian,Sweet,Low-Fat Diet
+19,Male,180,88,27.16,Heart Disease,129,86,150,103,No,Lactose Intolerance,14879,2,5.6,No,No,Regular,2572,161,338,42,Asian,Sweet,Low-Carb Diet
+79,Female,176,79,25.5,Obesity,102,67,153,233,No,Gluten Intolerance,12419,5,6.1,No,No,Regular,1635,189,106,99,Indian,Salty,Low-Carb Diet
+78,Male,153,99,42.29,Hypertension,177,109,164,131,No,Gluten Intolerance,3523,3,5.1,No,No,Regular,3088,146,327,78,Western,Sweet,Balanced Diet
+26,Male,159,102,40.35,Diabetes,153,116,190,146,No,Lactose Intolerance,4937,1,7,No,No,Vegan,3388,189,283,44,Asian,Spicy,Balanced Diet
+54,Other,169,94,32.91,Diabetes,169,96,272,240,Yes,Lactose Intolerance,2591,6,7.7,No,No,Regular,2970,59,132,87,Mediterranean,Spicy,Low-Fat Diet
+55,Other,178,70,22.09,Hypertension,124,64,296,149,No,Gluten Intolerance,7842,4,8.1,Yes,Yes,Regular,1807,138,324,67,Western,Salty,Low-Carb Diet
+31,Other,156,56,23.01,Obesity,164,69,176,185,No,Nut Allergy,14030,6,8.9,Yes,No,Vegan,1432,162,263,105,Indian,Spicy,Low-Fat Diet
+44,Other,184,63,18.61,Diabetes,178,82,181,235,No,Gluten Intolerance,12342,0,6.1,No,No,Regular,1427,84,234,101,Indian,Sweet,Low-Fat Diet
+18,Male,157,112,45.44,Hypertension,133,82,284,76,No,Nut Allergy,13228,4,9,No,Yes,Regular,2447,51,323,36,Indian,Salty,Low-Carb Diet
+35,Female,153,53,22.64,Hypertension,102,83,260,101,No,Lactose Intolerance,5334,2,5.5,No,Yes,Regular,3270,85,204,92,Asian,Sweet,Low-Fat Diet
+49,Male,170,86,29.76,Diabetes,153,63,190,108,Yes,Lactose Intolerance,14704,1,9,No,No,Regular,2933,112,208,54,Asian,Spicy,High-Protein Diet
+52,Male,164,94,34.95,Heart Disease,134,68,227,196,No,Lactose Intolerance,6582,1,7.6,Yes,No,Keto,1871,79,178,49,Mediterranean,Salty,Low-Fat Diet
+72,Other,159,57,22.55,Diabetes,109,97,289,86,Yes,Gluten Intolerance,5750,6,5.7,Yes,No,Vegetarian,3261,161,111,86,Mediterranean,Sweet,Low-Fat Diet
+25,Other,192,89,24.14,Obesity,152,116,299,127,No,Lactose Intolerance,8933,5,6.9,No,No,Vegan,1748,142,397,94,Western,Spicy,Balanced Diet
+39,Other,161,90,34.72,Heart Disease,161,70,173,173,No,Gluten Intolerance,13689,4,8,No,No,Keto,2439,143,375,103,Indian,Spicy,Low-Fat Diet
+40,Male,165,63,23.14,Diabetes,121,79,181,73,No,Nut Allergy,11901,5,4.4,Yes,No,Vegetarian,3475,174,359,23,Indian,Sweet,Low-Carb Diet
+60,Female,168,88,31.18,Heart Disease,142,92,214,171,No,Gluten Intolerance,2887,1,7.6,Yes,Yes,Vegetarian,3098,196,264,110,Mediterranean,Sweet,Low-Fat Diet
+34,Female,197,70,18.04,Diabetes,160,108,219,151,No,Gluten Intolerance,7531,3,9.4,Yes,No,Regular,3170,144,133,32,Asian,Sweet,High-Protein Diet
+48,Male,159,88,34.81,Obesity,140,84,282,219,No,Lactose Intolerance,3735,5,4.8,No,No,Keto,2250,80,309,25,Western,Sweet,Low-Carb Diet
+32,Female,174,116,38.31,Obesity,106,88,223,184,No,Nut Allergy,11715,6,7.1,No,No,Keto,1466,133,273,93,Mediterranean,Sweet,Low-Carb Diet
+67,Female,199,64,16.16,Diabetes,123,100,178,130,No,Nut Allergy,12953,6,8,No,Yes,Vegetarian,1277,149,316,97,Indian,Spicy,Balanced Diet
+75,Male,192,93,25.23,Diabetes,137,99,267,238,No,Lactose Intolerance,14948,3,8.5,Yes,No,Regular,1878,142,100,143,Indian,Salty,Low-Fat Diet
+53,Male,180,102,31.48,Diabetes,108,66,151,199,Yes,Lactose Intolerance,8824,0,7.6,No,No,Regular,1968,199,312,103,Asian,Sweet,Low-Fat Diet
+70,Female,180,65,20.06,Diabetes,90,90,154,141,No,Nut Allergy,9253,1,10,Yes,No,Vegetarian,3427,55,354,39,Western,Sweet,Low-Fat Diet
+49,Female,168,54,19.13,Heart Disease,144,72,242,202,Yes,Lactose Intolerance,7132,3,8.6,No,Yes,Keto,3126,100,307,137,Mediterranean,Sweet,Low-Carb Diet
+49,Female,150,110,48.89,Heart Disease,104,60,215,118,No,Nut Allergy,3147,5,6.1,No,No,Regular,3158,188,252,49,Western,Spicy,High-Protein Diet
+77,Male,177,72,22.98,Diabetes,155,96,224,224,No,Gluten Intolerance,10807,4,8.6,No,No,Regular,1950,95,171,107,Asian,Spicy,Low-Fat Diet
+42,Male,178,112,35.35,Diabetes,141,85,181,134,No,Gluten Intolerance,14154,6,4.2,No,Yes,Keto,2611,159,236,54,Western,Sweet,High-Protein Diet
+69,Male,182,80,24.15,Hypertension,93,101,184,136,No,Gluten Intolerance,14723,2,4.4,No,No,Keto,1344,65,313,50,Indian,Spicy,Balanced Diet
+61,Female,180,82,25.31,Diabetes,120,97,152,210,No,Lactose Intolerance,6793,3,9.6,No,No,Keto,2216,180,335,56,Western,Spicy,Low-Carb Diet
+73,Male,167,90,32.27,Hypertension,100,82,193,231,Yes,Gluten Intolerance,8547,1,9,Yes,No,Regular,1573,74,127,110,Western,Sweet,Balanced Diet
+38,Female,175,61,19.92,Diabetes,97,89,269,110,No,Gluten Intolerance,11244,1,10,No,No,Keto,2819,67,237,23,Mediterranean,Salty,Balanced Diet
+79,Other,182,69,20.83,Hypertension,160,116,231,137,Yes,Gluten Intolerance,12651,0,9.1,Yes,No,Keto,2495,72,260,81,Mediterranean,Salty,Low-Carb Diet
+63,Other,159,70,27.69,Obesity,141,64,163,131,No,Lactose Intolerance,2958,2,9.5,No,No,Vegan,3147,143,110,135,Asian,Spicy,Low-Fat Diet
+57,Female,186,54,15.61,Heart Disease,132,117,285,163,No,Nut Allergy,7452,3,6.7,No,No,Vegetarian,2896,123,101,46,Western,Salty,Low-Carb Diet
+69,Female,168,114,40.39,Diabetes,103,106,189,88,No,Gluten Intolerance,5660,2,4,No,Yes,Regular,1429,104,118,75,Mediterranean,Sweet,High-Protein Diet
+48,Other,170,98,33.91,Diabetes,152,71,279,172,No,Nut Allergy,8489,1,4.3,No,Yes,Keto,1473,189,382,21,Mediterranean,Spicy,Low-Fat Diet
+78,Other,174,110,36.33,Hypertension,165,88,263,168,No,Nut Allergy,3925,2,6.5,No,No,Regular,3342,135,399,136,Western,Sweet,Low-Carb Diet
+50,Male,191,84,23.03,Diabetes,130,116,173,99,No,Gluten Intolerance,7702,4,7.6,Yes,Yes,Keto,3249,56,397,21,Indian,Sweet,Low-Fat Diet
+42,Male,154,61,25.72,Diabetes,176,117,245,179,Yes,Nut Allergy,13958,4,9.4,Yes,No,Vegan,3333,131,164,85,Western,Spicy,Low-Fat Diet
+25,Female,199,98,24.75,Heart Disease,164,71,159,246,Yes,Nut Allergy,2342,5,9.8,No,Yes,Regular,2220,146,138,127,Western,Sweet,Balanced Diet
+51,Male,184,86,25.4,Heart Disease,111,86,294,215,Yes,Gluten Intolerance,14852,1,5.7,No,Yes,Regular,1550,123,183,29,Asian,Spicy,High-Protein Diet
+44,Other,175,96,31.35,Hypertension,125,90,217,78,No,Lactose Intolerance,6944,5,6.7,Yes,No,Regular,2396,131,250,149,Mediterranean,Sweet,Balanced Diet
+31,Male,169,69,24.16,Diabetes,100,62,199,234,No,Nut Allergy,5101,0,6.4,No,No,Regular,3095,75,203,66,Asian,Spicy,Low-Fat Diet
+74,Other,197,85,21.9,Diabetes,124,91,220,150,No,Nut Allergy,5433,3,8.2,Yes,No,Vegetarian,1956,54,245,142,Asian,Salty,High-Protein Diet
+33,Female,178,69,21.78,Heart Disease,108,84,237,89,No,Nut Allergy,10682,5,8.9,Yes,No,Keto,2767,124,315,95,Mediterranean,Salty,Low-Carb Diet
+73,Male,197,54,13.91,Heart Disease,91,107,180,171,Yes,Gluten Intolerance,13857,5,8.6,No,No,Vegan,3489,131,390,146,Indian,Salty,Low-Fat Diet
+36,Female,159,105,41.53,Diabetes,97,91,275,209,No,Gluten Intolerance,12204,2,9.5,Yes,No,Regular,2169,86,285,138,Western,Spicy,Low-Carb Diet
+75,Female,180,84,25.93,Diabetes,166,63,180,142,Yes,Lactose Intolerance,7617,5,5.3,No,No,Keto,2821,50,304,54,Indian,Spicy,Balanced Diet
+71,Female,199,114,28.79,Heart Disease,110,116,193,138,No,Lactose Intolerance,13543,6,7,No,No,Regular,2795,108,241,48,Asian,Spicy,High-Protein Diet
+57,Female,160,90,35.16,Diabetes,177,118,185,96,Yes,Gluten Intolerance,3996,4,6.6,No,No,Vegetarian,2529,129,119,70,Indian,Spicy,Low-Fat Diet
+63,Other,170,99,34.26,Heart Disease,136,63,243,71,No,Nut Allergy,9136,6,5.7,No,Yes,Regular,2288,59,232,84,Asian,Salty,High-Protein Diet
+74,Female,199,51,12.88,Diabetes,102,101,214,107,No,Gluten Intolerance,11264,3,5.7,No,No,Keto,2759,65,190,87,Indian,Sweet,High-Protein Diet
+62,Male,185,85,24.84,Diabetes,148,108,222,70,No,Nut Allergy,14304,5,5.8,Yes,No,Vegetarian,3344,155,370,22,Western,Spicy,Low-Fat Diet
+37,Other,177,69,22.02,Diabetes,162,65,220,211,Yes,Lactose Intolerance,14436,4,8.2,No,No,Regular,2831,172,325,106,Indian,Spicy,Balanced Diet
+31,Female,189,75,21,Heart Disease,146,77,199,183,Yes,Gluten Intolerance,13157,5,5.5,No,No,Vegan,1358,154,198,128,Western,Sweet,High-Protein Diet
+29,Other,152,87,37.66,Hypertension,129,81,297,136,No,Nut Allergy,6065,2,5.1,No,Yes,Regular,3090,129,230,35,Asian,Sweet,Low-Carb Diet
+53,Other,157,72,29.21,Diabetes,142,88,217,77,No,Nut Allergy,2199,2,9.1,No,No,Regular,3493,59,215,114,Asian,Spicy,Low-Carb Diet
+66,Female,186,104,30.06,Diabetes,112,117,235,239,No,Gluten Intolerance,5931,5,5.2,Yes,No,Keto,3289,64,224,35,Asian,Spicy,High-Protein Diet
+72,Female,179,53,16.54,Obesity,174,84,286,229,Yes,Lactose Intolerance,4068,3,9.3,No,Yes,Keto,1856,163,194,95,Mediterranean,Sweet,High-Protein Diet
+66,Female,193,67,17.99,Diabetes,150,106,287,245,No,Gluten Intolerance,4196,0,9.5,No,No,Regular,2957,153,343,69,Indian,Salty,Low-Carb Diet
+64,Male,188,96,27.16,Diabetes,105,117,281,135,No,Gluten Intolerance,8206,2,4.3,No,No,Regular,2310,119,297,88,Western,Spicy,Balanced Diet
+74,Female,155,104,43.29,Diabetes,118,81,273,72,No,Nut Allergy,4597,3,7.4,Yes,No,Keto,2680,150,225,66,Mediterranean,Sweet,High-Protein Diet
+31,Other,197,86,22.16,Diabetes,142,87,203,199,No,Lactose Intolerance,7127,6,8.3,No,No,Regular,1360,176,139,35,Asian,Spicy,Low-Carb Diet
+28,Male,194,118,31.35,Heart Disease,119,63,244,185,No,Lactose Intolerance,5272,1,6.6,No,Yes,Regular,2720,178,128,138,Western,Sweet,Low-Carb Diet
+43,Male,175,69,22.53,Diabetes,112,77,285,130,No,Gluten Intolerance,5597,6,5.3,No,No,Regular,1209,116,321,66,Mediterranean,Sweet,High-Protein Diet
+74,Male,197,110,28.34,Obesity,96,63,154,192,No,Gluten Intolerance,12612,4,9.4,No,No,Regular,1726,65,322,101,Indian,Salty,Low-Fat Diet
+66,Female,163,83,31.24,Hypertension,176,110,170,141,No,Gluten Intolerance,11118,0,5.4,No,No,Regular,2034,93,327,68,Asian,Salty,Balanced Diet
+62,Other,159,114,45.09,Hypertension,150,68,222,142,No,Nut Allergy,13274,1,10,Yes,No,Keto,3356,89,227,91,Mediterranean,Salty,Low-Fat Diet
+46,Female,155,108,44.95,Heart Disease,131,77,186,241,No,Nut Allergy,3496,0,6.2,No,No,Keto,2332,163,340,30,Western,Sweet,High-Protein Diet
+23,Male,199,63,15.91,Heart Disease,128,94,156,164,No,Nut Allergy,5911,3,8.8,No,No,Regular,3194,65,382,25,Asian,Spicy,High-Protein Diet
+63,Other,191,62,17,Diabetes,92,60,161,217,No,Gluten Intolerance,2717,3,8.9,No,Yes,Regular,2556,122,281,51,Western,Spicy,Balanced Diet
+74,Other,184,91,26.88,Diabetes,134,103,280,88,No,Nut Allergy,14013,0,9.7,Yes,No,Keto,2265,113,249,104,Western,Sweet,Low-Fat Diet
+39,Male,177,53,16.92,Diabetes,119,98,268,83,No,Nut Allergy,8069,5,5,No,No,Vegan,1889,149,280,32,Indian,Spicy,Low-Carb Diet
+45,Other,171,91,31.12,Hypertension,176,104,196,150,Yes,Lactose Intolerance,13450,2,6.3,No,No,Regular,2085,151,236,131,Indian,Sweet,Balanced Diet
+52,Male,177,100,31.92,Hypertension,118,118,176,121,Yes,Lactose Intolerance,12204,1,4.2,No,Yes,Regular,2364,147,153,137,Indian,Spicy,Low-Carb Diet
+72,Female,162,66,25.15,Hypertension,161,88,189,73,No,Lactose Intolerance,13867,1,7.8,No,Yes,Vegetarian,3410,124,197,90,Mediterranean,Salty,Balanced Diet
+31,Female,193,69,18.52,Diabetes,122,93,288,175,Yes,Lactose Intolerance,7093,0,4.6,No,Yes,Keto,1230,81,109,94,Indian,Sweet,High-Protein Diet
+27,Male,156,71,29.17,Diabetes,109,98,240,166,No,Gluten Intolerance,2082,1,6.9,Yes,Yes,Vegetarian,1760,137,363,53,Indian,Salty,Balanced Diet
+33,Male,194,101,26.84,Diabetes,118,76,196,133,No,Lactose Intolerance,9966,3,4.6,No,No,Vegan,1882,51,297,90,Western,Sweet,Low-Fat Diet
+38,Male,188,50,14.15,Heart Disease,162,73,221,130,No,Gluten Intolerance,3249,2,5.8,No,Yes,Regular,2428,54,176,23,Western,Sweet,Low-Fat Diet
+32,Male,193,70,18.79,Heart Disease,147,104,208,93,No,Lactose Intolerance,6806,0,5.9,Yes,No,Keto,3389,173,111,89,Indian,Sweet,Low-Fat Diet
+73,Other,153,91,38.87,Heart Disease,95,73,294,170,Yes,Nut Allergy,4336,4,6.2,No,No,Keto,1280,82,288,123,Mediterranean,Sweet,Balanced Diet
+43,Female,189,100,27.99,Hypertension,166,82,217,215,No,Gluten Intolerance,8892,4,7.6,Yes,No,Regular,2493,182,365,142,Mediterranean,Salty,High-Protein Diet
+41,Male,162,101,38.48,Diabetes,119,88,226,114,No,Gluten Intolerance,11986,5,5.3,Yes,No,Vegetarian,1905,56,303,148,Western,Spicy,Low-Fat Diet
+66,Other,181,83,25.34,Heart Disease,154,72,164,141,Yes,Nut Allergy,11494,1,6.1,No,Yes,Regular,1872,197,178,109,Asian,Sweet,Low-Carb Diet
+36,Female,165,116,42.61,Hypertension,158,91,206,164,No,Gluten Intolerance,8291,4,4.5,Yes,No,Regular,2916,147,351,42,Indian,Salty,Low-Carb Diet
+78,Male,189,110,30.79,Hypertension,171,108,297,136,Yes,Lactose Intolerance,2637,1,6.8,No,Yes,Regular,2221,140,228,34,Western,Sweet,Low-Carb Diet
+24,Other,176,106,34.22,Diabetes,142,117,296,236,No,Nut Allergy,6374,3,5.5,No,Yes,Regular,2360,141,123,103,Asian,Sweet,Balanced Diet
+75,Female,193,64,17.18,Hypertension,150,69,294,76,No,Nut Allergy,7989,0,8.9,No,No,Keto,1390,93,355,32,Mediterranean,Salty,High-Protein Diet
+51,Other,163,76,28.6,Diabetes,162,109,239,101,No,Gluten Intolerance,8235,3,7.1,No,No,Vegetarian,2375,166,314,64,Mediterranean,Sweet,Balanced Diet
+23,Male,150,64,28.44,Diabetes,153,68,209,238,Yes,Nut Allergy,6114,2,8.8,No,No,Regular,2039,177,397,106,Indian,Sweet,Low-Fat Diet
+32,Other,194,115,30.56,Hypertension,120,97,196,77,No,Lactose Intolerance,13864,2,7.5,No,Yes,Regular,1895,127,285,145,Indian,Spicy,Low-Carb Diet
+19,Other,190,91,25.21,Heart Disease,131,116,156,244,No,Nut Allergy,8060,1,6.4,No,No,Keto,1362,164,193,144,Indian,Sweet,High-Protein Diet
+20,Female,189,117,32.75,Obesity,130,101,151,249,No,Lactose Intolerance,2961,0,6.6,No,No,Keto,3348,58,389,78,Mediterranean,Salty,Low-Fat Diet
+36,Other,193,100,26.85,Diabetes,177,86,254,180,No,Nut Allergy,7559,0,9.1,Yes,No,Keto,1803,189,278,127,Western,Spicy,High-Protein Diet
+27,Male,155,101,42.04,Hypertension,99,72,207,216,No,Lactose Intolerance,14718,4,9.3,No,Yes,Vegan,2231,160,265,54,Mediterranean,Salty,High-Protein Diet
+41,Male,166,56,20.32,Diabetes,159,118,160,204,No,Gluten Intolerance,14061,4,9.9,No,No,Regular,1491,152,280,120,Mediterranean,Sweet,Low-Carb Diet
+26,Male,188,103,29.14,Diabetes,148,60,271,138,Yes,Gluten Intolerance,3808,2,5.7,No,No,Keto,1534,165,392,51,Asian,Salty,Low-Fat Diet
+57,Female,167,96,34.42,Hypertension,122,112,221,131,No,Nut Allergy,6394,1,4.9,Yes,No,Keto,1924,96,294,100,Indian,Sweet,Low-Carb Diet
+23,Female,162,70,26.67,Heart Disease,90,72,211,112,No,Nut Allergy,13230,2,7,Yes,Yes,Regular,3497,144,198,132,Asian,Spicy,Balanced Diet
+29,Male,161,70,27.01,Diabetes,117,88,172,160,Yes,Gluten Intolerance,5278,4,7.2,No,Yes,Regular,2840,137,288,31,Asian,Spicy,High-Protein Diet
+71,Male,163,78,29.36,Diabetes,92,101,163,176,Yes,Lactose Intolerance,11993,4,8,No,No,Vegetarian,3161,136,121,70,Mediterranean,Sweet,Low-Fat Diet
+38,Male,189,98,27.43,Hypertension,171,118,251,136,No,Lactose Intolerance,14470,4,8.2,No,No,Regular,1702,156,318,45,Asian,Spicy,Low-Fat Diet
+48,Other,161,93,35.88,Heart Disease,149,83,217,105,No,Nut Allergy,9073,4,9.3,No,No,Keto,1551,54,246,68,Western,Spicy,Low-Fat Diet
+22,Other,164,119,44.24,Obesity,122,100,166,183,No,Gluten Intolerance,4002,1,8.1,Yes,No,Regular,1484,64,366,117,Mediterranean,Spicy,Balanced Diet
+28,Male,154,67,28.25,Hypertension,103,62,205,75,No,Nut Allergy,10767,2,4,No,No,Vegetarian,2467,104,299,104,Mediterranean,Spicy,Balanced Diet
+61,Male,165,56,20.57,Diabetes,148,114,276,174,No,Lactose Intolerance,7481,2,9.4,No,Yes,Regular,2055,108,320,41,Mediterranean,Spicy,Low-Fat Diet
+39,Male,195,92,24.19,Hypertension,115,95,269,244,Yes,Gluten Intolerance,4741,2,6,No,No,Keto,3082,111,157,54,Indian,Spicy,High-Protein Diet
+45,Female,154,57,24.03,Obesity,112,66,274,163,No,Lactose Intolerance,6336,6,6.7,No,Yes,Regular,2526,55,156,65,Indian,Spicy,Low-Carb Diet
+69,Other,152,76,32.89,Diabetes,138,60,221,203,No,Lactose Intolerance,10856,0,10,No,No,Regular,1290,184,337,46,Western,Salty,Low-Carb Diet
+65,Other,154,53,22.35,Hypertension,151,110,287,102,No,Gluten Intolerance,9096,1,5.4,No,No,Regular,2290,141,302,58,Mediterranean,Salty,Balanced Diet
+22,Male,152,66,28.57,Obesity,132,102,251,96,Yes,Gluten Intolerance,10094,0,7,No,Yes,Vegan,3428,177,243,137,Mediterranean,Sweet,Balanced Diet
+32,Male,187,115,32.89,Diabetes,165,95,153,97,No,Gluten Intolerance,12589,4,5.8,Yes,No,Vegetarian,1902,110,253,87,Asian,Spicy,Balanced Diet
+37,Other,194,77,20.46,Diabetes,114,97,252,118,No,Nut Allergy,5048,1,7.3,No,No,Regular,1988,105,393,136,Asian,Salty,Balanced Diet
+78,Female,194,99,26.3,Heart Disease,124,70,191,217,No,Gluten Intolerance,10761,4,4.9,Yes,No,Vegan,2626,176,252,134,Western,Sweet,High-Protein Diet
+38,Other,172,96,32.45,Heart Disease,104,119,289,85,No,Nut Allergy,12279,3,6,No,No,Regular,1501,101,176,149,Indian,Spicy,High-Protein Diet
+74,Other,151,54,23.68,Hypertension,145,92,220,228,No,Lactose Intolerance,4471,6,8.5,No,No,Vegetarian,3385,101,106,42,Mediterranean,Salty,Balanced Diet
+70,Female,168,102,36.14,Heart Disease,126,108,163,230,Yes,Lactose Intolerance,9031,6,7.5,Yes,No,Regular,1565,134,107,111,Asian,Salty,Low-Carb Diet
+29,Female,176,95,30.67,Diabetes,100,75,214,148,No,Gluten Intolerance,12689,6,9.3,Yes,Yes,Regular,1632,166,109,135,Mediterranean,Sweet,High-Protein Diet
+40,Other,188,54,15.28,Heart Disease,90,65,222,249,No,Lactose Intolerance,4667,4,6.7,No,Yes,Vegetarian,2777,162,266,79,Indian,Salty,Low-Fat Diet
+25,Other,195,102,26.82,Hypertension,138,64,265,107,Yes,Nut Allergy,7079,3,10,No,No,Regular,2543,154,384,47,Indian,Sweet,Balanced Diet
+39,Female,162,95,36.2,Obesity,157,113,230,77,No,Lactose Intolerance,4525,1,9.4,No,No,Regular,2689,193,176,43,Mediterranean,Salty,Balanced Diet
+68,Female,197,98,25.25,Heart Disease,129,118,187,242,No,Nut Allergy,10495,2,6.7,No,No,Vegetarian,2259,117,103,135,Asian,Salty,Balanced Diet
+21,Female,180,97,29.94,Hypertension,114,67,204,70,No,Gluten Intolerance,13036,2,8.9,No,No,Keto,1218,50,128,98,Indian,Sweet,High-Protein Diet
+58,Male,172,62,20.96,Heart Disease,126,110,274,242,No,Nut Allergy,13140,5,7.8,Yes,No,Regular,1466,149,259,35,Indian,Salty,Low-Fat Diet
+78,Female,151,112,49.12,Heart Disease,122,88,292,169,Yes,Nut Allergy,3952,5,8.6,Yes,Yes,Keto,2146,65,158,142,Indian,Salty,Balanced Diet
+26,Male,177,82,26.17,Hypertension,111,106,179,94,No,Lactose Intolerance,5569,6,4.9,Yes,No,Keto,2276,149,370,73,Indian,Spicy,Balanced Diet
+71,Other,171,110,37.62,Heart Disease,109,85,299,180,No,Lactose Intolerance,13474,3,4.1,No,No,Vegetarian,1557,136,332,120,Indian,Spicy,Low-Fat Diet
+43,Male,176,85,27.44,Diabetes,173,95,274,100,No,Lactose Intolerance,9627,0,6.4,Yes,No,Regular,2299,117,174,88,Asian,Sweet,High-Protein Diet
+46,Male,171,90,30.78,Diabetes,130,74,192,180,Yes,Nut Allergy,13767,4,9.8,Yes,No,Regular,2780,57,358,52,Indian,Salty,Balanced Diet
+39,Female,179,97,30.27,Obesity,143,108,270,119,No,Nut Allergy,3672,4,4.4,No,No,Keto,1945,74,225,119,Western,Spicy,Low-Fat Diet
+21,Male,191,92,25.22,Diabetes,135,71,205,218,Yes,Lactose Intolerance,12954,5,9.8,No,No,Keto,2791,53,104,134,Asian,Salty,Balanced Diet
+45,Female,182,78,23.55,Obesity,110,73,175,85,No,Lactose Intolerance,4662,6,8.1,No,No,Keto,1639,129,364,38,Western,Spicy,Balanced Diet
+51,Male,151,101,44.3,Hypertension,165,111,237,202,No,Nut Allergy,2415,0,8.5,Yes,No,Vegetarian,1641,102,269,62,Mediterranean,Sweet,Balanced Diet
+72,Female,193,68,18.26,Heart Disease,139,95,292,150,No,Nut Allergy,11575,5,7.3,Yes,No,Vegetarian,1325,169,286,147,Mediterranean,Sweet,Low-Fat Diet
+58,Other,182,64,19.32,Heart Disease,90,94,208,157,Yes,Lactose Intolerance,12625,6,8,No,No,Vegetarian,2483,162,328,144,Indian,Sweet,Low-Carb Diet
+55,Female,161,99,38.19,Diabetes,179,74,203,114,No,Lactose Intolerance,9657,0,5.1,Yes,No,Vegetarian,3231,138,311,113,Western,Salty,Low-Fat Diet
+35,Female,160,72,28.12,Diabetes,90,103,223,120,No,Lactose Intolerance,14331,6,6.1,No,No,Vegetarian,3161,133,371,61,Asian,Sweet,High-Protein Diet
+34,Other,162,69,26.29,Diabetes,92,110,278,188,No,Lactose Intolerance,6170,2,6.5,No,No,Keto,1441,64,101,71,Mediterranean,Sweet,Low-Carb Diet
+18,Female,177,116,37.03,Hypertension,112,69,259,219,No,Gluten Intolerance,6843,4,5.4,No,No,Vegetarian,2826,63,171,72,Asian,Sweet,Low-Fat Diet
+46,Female,192,115,31.2,Diabetes,115,74,252,208,Yes,Lactose Intolerance,2115,2,6.4,Yes,No,Regular,1595,54,173,87,Indian,Sweet,Low-Fat Diet
+63,Other,196,114,29.68,Hypertension,90,110,162,220,No,Gluten Intolerance,6353,3,7.4,No,No,Regular,3425,86,124,109,Mediterranean,Spicy,High-Protein Diet
+79,Other,151,59,25.88,Hypertension,108,99,232,224,No,Nut Allergy,12171,6,9.1,No,No,Regular,3391,108,188,141,Western,Spicy,Low-Carb Diet
+66,Other,187,96,27.45,Diabetes,126,117,230,111,Yes,Lactose Intolerance,8782,1,8.2,No,No,Regular,2948,152,394,75,Indian,Salty,Low-Carb Diet
+26,Male,170,72,24.91,Obesity,178,86,164,215,No,Nut Allergy,9341,5,4,No,No,Keto,3322,93,220,114,Indian,Sweet,Low-Carb Diet
+34,Other,192,118,32.01,Obesity,112,117,179,96,No,Gluten Intolerance,5386,1,4.7,Yes,No,Vegetarian,1724,198,194,125,Mediterranean,Sweet,Low-Fat Diet
+63,Other,170,117,40.48,Heart Disease,164,81,254,107,No,Lactose Intolerance,3459,4,9.4,No,No,Vegetarian,2548,190,377,95,Mediterranean,Sweet,Balanced Diet
+36,Female,180,93,28.7,Diabetes,151,98,189,107,No,Nut Allergy,8784,5,7.6,No,No,Regular,1202,99,274,86,Western,Salty,Balanced Diet
+25,Other,189,106,29.67,Hypertension,153,75,207,237,No,Lactose Intolerance,11203,4,8,No,No,Regular,3105,74,337,28,Asian,Salty,High-Protein Diet
+25,Other,163,105,39.52,Obesity,118,105,299,152,No,Gluten Intolerance,11576,5,7.1,No,No,Regular,1462,56,373,55,Asian,Salty,Balanced Diet
+29,Male,175,113,36.9,Hypertension,172,100,296,208,No,Nut Allergy,7464,3,6.4,Yes,No,Keto,1597,70,360,66,Western,Salty,Balanced Diet
+62,Other,196,115,29.94,Heart Disease,170,94,265,225,No,Nut Allergy,2566,2,4.9,No,Yes,Regular,2636,128,183,62,Western,Spicy,Low-Carb Diet
+42,Male,181,105,32.05,Hypertension,155,76,203,160,Yes,Lactose Intolerance,13762,0,6.8,No,No,Keto,2654,75,272,102,Asian,Spicy,High-Protein Diet
+63,Female,165,54,19.83,Hypertension,176,97,156,229,No,Gluten Intolerance,6144,1,4.2,Yes,No,Regular,2085,121,172,75,Asian,Sweet,Low-Fat Diet
+19,Other,194,87,23.12,Heart Disease,113,75,268,246,No,Lactose Intolerance,10038,4,7.8,No,No,Regular,1854,195,352,139,Indian,Spicy,High-Protein Diet
+30,Female,193,63,16.91,Diabetes,139,91,185,120,Yes,Lactose Intolerance,8519,6,4,No,No,Vegetarian,2255,197,162,36,Mediterranean,Salty,High-Protein Diet
+47,Male,187,59,16.87,Diabetes,106,94,155,171,No,Gluten Intolerance,7671,5,6.9,No,No,Regular,1990,112,328,102,Indian,Salty,Low-Carb Diet
+19,Female,165,73,26.81,Diabetes,101,108,263,238,No,Lactose Intolerance,10567,5,7.3,Yes,Yes,Vegan,1558,63,333,138,Mediterranean,Spicy,Low-Carb Diet
+60,Other,182,61,18.42,Diabetes,162,116,200,172,No,Gluten Intolerance,13720,5,4.5,No,Yes,Regular,1605,132,180,83,Western,Sweet,Low-Carb Diet
+72,Female,176,72,23.24,Obesity,92,76,280,96,Yes,Nut Allergy,6816,3,7.9,No,No,Regular,1477,184,381,115,Mediterranean,Salty,High-Protein Diet
+54,Male,188,115,32.54,Heart Disease,137,77,180,145,Yes,Lactose Intolerance,12144,2,6.7,No,No,Regular,3259,65,383,142,Indian,Salty,High-Protein Diet
+20,Other,163,106,39.9,Obesity,121,113,227,83,No,Gluten Intolerance,8847,6,5.4,No,Yes,Regular,1219,53,225,42,Mediterranean,Sweet,Balanced Diet
+61,Male,157,80,32.46,Heart Disease,100,89,153,184,No,Lactose Intolerance,7348,1,8.7,Yes,Yes,Regular,3039,50,307,84,Indian,Salty,Low-Fat Diet
+76,Male,189,96,26.87,Hypertension,128,72,181,195,No,Nut Allergy,5739,6,6.6,Yes,No,Regular,1986,73,169,119,Asian,Salty,Low-Fat Diet
+52,Male,162,106,40.39,Hypertension,177,117,170,244,No,Gluten Intolerance,5424,0,9.9,No,No,Keto,1702,75,241,120,Mediterranean,Sweet,High-Protein Diet
+22,Female,193,115,30.87,Heart Disease,169,97,265,110,No,Nut Allergy,11062,5,5.1,Yes,Yes,Vegetarian,2224,65,101,23,Asian,Sweet,Low-Carb Diet
+25,Male,187,92,26.31,Obesity,106,100,157,99,No,Lactose Intolerance,2509,3,4.2,Yes,No,Vegetarian,1539,165,164,136,Asian,Sweet,Low-Fat Diet
+65,Male,193,53,14.23,Diabetes,167,84,195,79,Yes,Lactose Intolerance,14225,0,6.9,No,No,Regular,3001,168,211,128,Western,Salty,Low-Carb Diet
+62,Other,181,91,27.78,Diabetes,138,62,219,95,No,Gluten Intolerance,2795,2,10,No,No,Regular,3475,175,248,64,Mediterranean,Spicy,Low-Carb Diet
+47,Female,158,91,36.45,Diabetes,154,113,172,180,Yes,Lactose Intolerance,3391,2,8.8,No,Yes,Regular,3200,52,358,103,Asian,Spicy,Balanced Diet
+73,Other,190,84,23.27,Obesity,171,91,291,83,No,Nut Allergy,9593,6,5.4,No,No,Regular,1979,191,351,125,Asian,Salty,High-Protein Diet
+76,Other,163,116,43.66,Heart Disease,179,90,275,84,No,Gluten Intolerance,4993,5,4.2,No,No,Regular,2285,121,249,88,Western,Salty,High-Protein Diet
+21,Male,161,68,26.23,Hypertension,138,67,255,141,No,Gluten Intolerance,14591,1,8.9,Yes,No,Keto,3080,60,108,146,Western,Salty,Low-Carb Diet
+43,Other,151,66,28.95,Diabetes,167,118,278,164,Yes,Nut Allergy,12424,2,9.2,Yes,No,Regular,2891,156,357,89,Indian,Sweet,High-Protein Diet
+59,Other,163,118,44.41,Diabetes,155,117,272,237,Yes,Lactose Intolerance,5154,0,4.1,No,No,Regular,2890,123,175,86,Mediterranean,Salty,Low-Carb Diet
+54,Male,189,98,27.43,Hypertension,148,111,218,168,No,Lactose Intolerance,11557,0,7.3,Yes,No,Regular,1758,102,121,96,Mediterranean,Spicy,Low-Fat Diet
+77,Male,168,105,37.2,Heart Disease,128,72,281,157,No,Gluten Intolerance,7167,2,6.1,No,No,Regular,3071,56,259,30,Asian,Sweet,Low-Fat Diet
+66,Female,197,77,19.84,Diabetes,103,113,257,221,Yes,Gluten Intolerance,3477,3,7.8,Yes,No,Regular,1727,75,187,23,Mediterranean,Salty,Low-Carb Diet
+65,Female,163,67,25.22,Hypertension,121,67,221,194,No,Nut Allergy,4946,5,8,Yes,Yes,Keto,2489,182,362,141,Western,Salty,Balanced Diet
+30,Female,185,115,33.6,Heart Disease,175,79,190,99,No,Nut Allergy,14504,4,7.5,No,No,Regular,2820,139,285,93,Mediterranean,Salty,Balanced Diet
+76,Male,199,113,28.53,Diabetes,172,94,284,98,No,Nut Allergy,6593,6,9.4,No,Yes,Regular,2170,195,277,97,Asian,Salty,High-Protein Diet
+68,Other,157,67,27.18,Heart Disease,120,112,172,131,Yes,Nut Allergy,2749,6,7.4,No,No,Regular,1399,110,164,98,Asian,Salty,Low-Fat Diet
+18,Male,177,99,31.6,Diabetes,114,77,223,223,No,Nut Allergy,10914,5,5.2,No,No,Regular,3417,78,340,35,Indian,Spicy,Balanced Diet
+53,Male,187,114,32.6,Heart Disease,96,64,283,99,No,Lactose Intolerance,14482,2,4.8,No,No,Vegan,2028,75,315,39,Asian,Salty,Low-Carb Diet
+52,Female,191,93,25.49,Hypertension,167,69,155,209,No,Nut Allergy,3909,3,7.3,No,Yes,Regular,2311,59,352,123,Asian,Spicy,High-Protein Diet
+41,Male,164,102,37.92,Heart Disease,121,61,212,127,No,Nut Allergy,13454,2,5,Yes,No,Regular,1596,98,332,98,Mediterranean,Salty,Balanced Diet
+22,Male,158,62,24.84,Heart Disease,106,85,238,125,No,Gluten Intolerance,7586,6,9.9,No,No,Regular,2911,116,121,119,Asian,Sweet,High-Protein Diet
+53,Male,171,108,36.93,Hypertension,152,98,196,135,Yes,Gluten Intolerance,13259,0,4.1,Yes,Yes,Vegan,2974,141,169,44,Indian,Salty,Low-Fat Diet
+64,Female,178,59,18.62,Hypertension,108,100,153,150,No,Gluten Intolerance,12939,5,6.5,No,Yes,Keto,2512,96,367,34,Western,Sweet,High-Protein Diet
+34,Female,157,111,45.03,Heart Disease,155,62,150,75,Yes,Gluten Intolerance,8728,4,6.5,No,No,Vegetarian,1571,149,122,99,Indian,Spicy,Low-Carb Diet
+41,Male,170,57,19.72,Diabetes,116,118,263,158,Yes,Lactose Intolerance,5100,6,6.2,No,No,Regular,1509,92,109,63,Asian,Spicy,Low-Fat Diet
+68,Male,186,67,19.37,Hypertension,137,115,242,73,No,Lactose Intolerance,8832,2,7.1,No,No,Regular,2899,192,283,88,Mediterranean,Spicy,Low-Carb Diet
+31,Other,164,95,35.32,Obesity,91,77,268,141,No,Gluten Intolerance,11934,3,4.6,Yes,No,Regular,1393,172,195,71,Mediterranean,Sweet,Low-Fat Diet
+24,Female,154,55,23.19,Obesity,140,73,275,152,No,Nut Allergy,7749,3,6.5,No,Yes,Regular,2436,157,347,25,Western,Sweet,Low-Fat Diet
+26,Female,163,119,44.79,Hypertension,140,90,235,150,Yes,Lactose Intolerance,2724,0,5.7,No,No,Vegetarian,2956,63,259,148,Indian,Sweet,Low-Fat Diet
+66,Other,195,95,24.98,Obesity,102,102,294,158,No,Lactose Intolerance,6612,6,5,No,No,Keto,1896,71,257,50,Indian,Salty,Low-Carb Diet
+33,Male,168,105,37.2,Obesity,147,65,205,127,No,Gluten Intolerance,2641,3,9.2,No,No,Keto,1852,58,397,66,Mediterranean,Sweet,Low-Carb Diet
+46,Other,153,78,33.32,Diabetes,175,117,153,84,No,Gluten Intolerance,2898,6,4.9,Yes,Yes,Regular,2414,199,399,135,Indian,Spicy,Low-Fat Diet
+38,Female,168,68,24.09,Heart Disease,146,72,229,225,No,Nut Allergy,9057,2,9.6,No,Yes,Regular,1955,158,147,41,Asian,Spicy,High-Protein Diet
+36,Male,181,59,18.01,Obesity,139,69,166,152,No,Gluten Intolerance,8199,2,9.4,Yes,No,Regular,3428,173,331,20,Asian,Sweet,Low-Carb Diet
+66,Other,171,68,23.26,Heart Disease,143,102,227,198,No,Gluten Intolerance,7434,3,5.5,No,No,Regular,1489,162,308,55,Indian,Salty,Low-Carb Diet
+22,Female,197,79,20.36,Hypertension,168,118,258,245,Yes,Nut Allergy,7484,5,6.9,No,Yes,Keto,3492,65,340,59,Asian,Spicy,Balanced Diet
+40,Other,181,116,35.41,Heart Disease,137,85,271,112,No,Gluten Intolerance,13396,3,6.1,No,No,Vegan,1773,154,301,58,Asian,Sweet,High-Protein Diet
+36,Other,166,100,36.29,Hypertension,177,108,265,181,Yes,Gluten Intolerance,3850,5,7.2,Yes,No,Keto,1402,76,184,44,Western,Spicy,Balanced Diet
+19,Male,192,109,29.57,Hypertension,109,69,293,142,No,Lactose Intolerance,8017,5,7.8,Yes,No,Regular,1422,66,168,122,Western,Salty,Balanced Diet
+57,Male,171,89,30.44,Diabetes,94,92,299,77,No,Nut Allergy,10716,6,5.2,No,No,Regular,2700,185,254,62,Western,Salty,Low-Carb Diet
+33,Male,172,51,17.24,Diabetes,96,68,286,112,No,Lactose Intolerance,7562,3,8.8,No,No,Keto,2926,195,390,43,Western,Spicy,Low-Carb Diet
+43,Other,187,90,25.74,Hypertension,165,65,237,155,Yes,Nut Allergy,2770,3,6.7,Yes,No,Keto,2074,194,192,142,Western,Salty,Balanced Diet
+46,Female,173,57,19.05,Hypertension,99,68,209,228,No,Nut Allergy,7446,0,9.7,No,No,Keto,2665,100,135,61,Indian,Sweet,Balanced Diet
+34,Male,172,70,23.66,Heart Disease,174,90,267,72,No,Gluten Intolerance,12952,2,9.8,No,No,Regular,3404,196,121,124,Mediterranean,Spicy,Balanced Diet
+70,Other,183,84,25.08,Diabetes,141,61,169,111,No,Gluten Intolerance,13251,0,6.7,No,Yes,Vegetarian,1821,79,354,77,Indian,Sweet,High-Protein Diet
+48,Female,165,61,22.41,Diabetes,113,82,183,151,No,Nut Allergy,5390,4,8.8,No,No,Regular,3292,50,351,41,Mediterranean,Spicy,Low-Carb Diet
+55,Female,179,55,17.17,Diabetes,124,94,152,76,No,Gluten Intolerance,2539,0,6.3,No,No,Regular,1604,195,347,79,Asian,Sweet,Low-Carb Diet
+50,Female,181,74,22.59,Heart Disease,99,119,297,175,Yes,Lactose Intolerance,2285,2,5.9,No,No,Regular,1870,197,176,71,Asian,Sweet,Low-Fat Diet
+19,Female,150,88,39.11,Diabetes,165,107,230,224,No,Nut Allergy,2112,6,5.8,No,No,Regular,2851,83,299,110,Mediterranean,Sweet,Low-Fat Diet
+50,Other,164,58,21.56,Hypertension,141,72,242,128,Yes,Lactose Intolerance,11691,3,4.9,No,No,Keto,1772,153,345,112,Western,Salty,High-Protein Diet
+68,Male,191,100,27.41,Diabetes,119,81,231,125,No,Lactose Intolerance,14700,5,5.5,No,No,Vegetarian,1492,152,358,99,Asian,Sweet,Balanced Diet
+43,Female,163,92,34.63,Heart Disease,105,88,282,137,Yes,Lactose Intolerance,9125,3,6.1,No,Yes,Regular,2030,164,247,121,Indian,Sweet,Balanced Diet
+60,Other,153,118,50.41,Obesity,106,72,264,90,Yes,Gluten Intolerance,5467,5,5.8,Yes,No,Keto,1703,196,306,98,Western,Spicy,Low-Fat Diet
+37,Female,197,91,23.45,Heart Disease,175,116,267,156,No,Nut Allergy,5703,5,9.4,No,No,Regular,1908,108,347,76,Mediterranean,Sweet,High-Protein Diet
+25,Other,160,65,25.39,Diabetes,114,86,267,182,No,Nut Allergy,11736,2,6.9,No,No,Vegan,2741,107,257,83,Western,Sweet,Balanced Diet
+43,Female,174,71,23.45,Hypertension,136,74,294,86,No,Nut Allergy,2072,3,9.5,No,No,Regular,3048,109,367,124,Western,Salty,Low-Fat Diet
+61,Other,174,112,36.99,Diabetes,158,117,279,236,No,Nut Allergy,8934,0,8.9,No,No,Regular,2008,143,103,83,Indian,Salty,Low-Carb Diet
+65,Other,151,88,38.59,Diabetes,107,119,210,183,Yes,Gluten Intolerance,11160,0,6.2,No,No,Regular,2286,69,143,66,Western,Sweet,Low-Fat Diet
+66,Male,162,94,35.82,Diabetes,117,96,264,143,No,Gluten Intolerance,10386,2,7.4,No,No,Regular,2704,57,113,63,Indian,Spicy,Balanced Diet
+45,Female,180,75,23.15,Hypertension,132,63,247,79,No,Nut Allergy,13727,4,7.3,No,No,Vegetarian,1718,112,118,35,Asian,Salty,Low-Fat Diet
+57,Other,187,113,32.31,Hypertension,123,113,244,75,Yes,Lactose Intolerance,3959,0,8.2,No,No,Regular,2017,87,291,104,Indian,Spicy,Low-Fat Diet
+63,Female,150,87,38.67,Diabetes,173,83,183,174,No,Nut Allergy,5519,5,9.9,No,No,Regular,2498,168,104,146,Asian,Salty,Low-Fat Diet
+18,Male,187,66,18.87,Heart Disease,162,60,161,247,Yes,Lactose Intolerance,5343,2,7.1,No,No,Regular,3231,160,233,92,Mediterranean,Sweet,High-Protein Diet
+32,Male,184,87,25.7,Hypertension,144,114,157,231,No,Nut Allergy,9489,0,8.1,No,No,Keto,1767,107,300,63,Asian,Salty,Balanced Diet
+64,Female,160,50,19.53,Hypertension,117,97,175,105,No,Nut Allergy,4999,0,6,No,No,Keto,2057,93,152,131,Mediterranean,Salty,Balanced Diet
+52,Male,180,88,27.16,Heart Disease,117,89,173,91,No,Lactose Intolerance,9484,6,5.3,Yes,No,Regular,1296,184,215,110,Mediterranean,Sweet,High-Protein Diet
+44,Male,157,80,32.46,Hypertension,157,69,238,231,No,Nut Allergy,9453,1,5.8,No,No,Regular,1750,68,279,87,Indian,Spicy,Balanced Diet
+71,Female,163,81,30.49,Diabetes,151,79,162,137,No,Lactose Intolerance,3057,6,5.4,No,No,Keto,1310,72,367,102,Mediterranean,Salty,Low-Carb Diet
+41,Female,160,95,37.11,Diabetes,110,77,172,181,No,Lactose Intolerance,5738,4,9.5,No,No,Vegetarian,1712,164,104,82,Western,Sweet,Low-Fat Diet
+50,Other,169,92,32.21,Diabetes,104,104,218,132,No,Lactose Intolerance,11119,1,5.9,No,No,Vegan,3163,147,236,80,Western,Salty,Low-Carb Diet
+47,Other,162,51,19.43,Obesity,136,97,288,70,Yes,Nut Allergy,6176,5,4.5,Yes,Yes,Regular,1271,120,263,103,Indian,Spicy,Balanced Diet
+73,Other,191,58,15.9,Heart Disease,162,96,244,171,No,Nut Allergy,10429,1,5.7,No,No,Keto,1821,159,252,77,Western,Spicy,Low-Fat Diet
+66,Male,168,96,34.01,Heart Disease,106,115,221,102,No,Lactose Intolerance,13353,2,7,No,No,Vegetarian,2042,109,258,45,Indian,Sweet,High-Protein Diet
+46,Female,162,97,36.96,Diabetes,119,97,282,113,No,Gluten Intolerance,14375,2,6.5,No,No,Keto,2695,133,262,65,Mediterranean,Salty,Balanced Diet
+35,Male,171,68,23.26,Hypertension,153,113,256,71,No,Gluten Intolerance,13241,2,5,No,Yes,Vegetarian,1846,182,368,27,Asian,Salty,High-Protein Diet
+19,Other,169,85,29.76,Heart Disease,101,119,247,125,Yes,Lactose Intolerance,7207,3,7.6,No,No,Keto,3141,125,178,147,Indian,Sweet,Low-Fat Diet
+66,Male,182,84,25.36,Diabetes,137,106,223,245,No,Nut Allergy,4926,5,8.3,No,No,Regular,3264,188,298,50,Asian,Sweet,Balanced Diet
+56,Female,181,95,29,Hypertension,174,96,257,209,No,Nut Allergy,7640,0,9.1,No,No,Regular,3107,145,283,53,Asian,Sweet,High-Protein Diet
+49,Female,157,65,26.37,Heart Disease,114,74,268,191,Yes,Nut Allergy,12819,3,9.3,No,No,Regular,2706,199,161,83,Western,Sweet,High-Protein Diet
+20,Other,160,75,29.3,Obesity,117,80,209,242,Yes,Nut Allergy,8319,0,6.2,Yes,No,Regular,2979,163,279,120,Mediterranean,Sweet,Low-Fat Diet
+51,Other,151,58,25.44,Heart Disease,167,63,286,248,Yes,Gluten Intolerance,6163,0,4,Yes,Yes,Regular,3446,154,245,100,Indian,Sweet,Low-Carb Diet
+72,Other,150,67,29.78,Obesity,148,83,250,211,Yes,Nut Allergy,12329,3,7.8,Yes,Yes,Vegetarian,2935,110,151,122,Western,Sweet,Low-Carb Diet
+40,Other,196,105,27.33,Obesity,134,114,257,127,No,Lactose Intolerance,3107,2,4.6,No,No,Regular,2223,113,188,114,Mediterranean,Salty,High-Protein Diet
+78,Other,159,53,20.96,Diabetes,118,116,212,227,No,Gluten Intolerance,12116,0,4.7,No,No,Vegan,1278,65,110,107,Asian,Spicy,Balanced Diet
+19,Male,164,96,35.69,Hypertension,170,79,200,191,No,Nut Allergy,2854,6,6.4,No,No,Vegan,1836,54,194,72,Indian,Spicy,Balanced Diet
+55,Female,152,114,49.34,Heart Disease,164,105,219,172,Yes,Gluten Intolerance,3044,6,4.6,No,Yes,Keto,3262,148,225,66,Western,Salty,Low-Fat Diet
+40,Female,167,62,22.23,Hypertension,136,113,168,204,Yes,Lactose Intolerance,7886,0,4.5,No,No,Regular,1459,153,252,48,Mediterranean,Sweet,Low-Carb Diet
+34,Male,164,86,31.98,Hypertension,104,79,270,246,No,Nut Allergy,10753,5,4.2,No,No,Regular,2039,111,325,29,Asian,Sweet,High-Protein Diet
+19,Male,153,105,44.85,Hypertension,125,88,258,72,Yes,Gluten Intolerance,11957,2,4.1,No,No,Vegan,3022,128,105,108,Western,Spicy,Balanced Diet
+51,Female,179,102,31.83,Hypertension,102,113,221,168,Yes,Nut Allergy,9303,2,7.6,No,No,Keto,2039,69,145,143,Western,Sweet,Low-Carb Diet
+51,Male,199,75,18.94,Hypertension,101,74,262,240,No,Nut Allergy,6004,2,5.7,No,No,Vegetarian,2590,69,386,139,Indian,Spicy,Balanced Diet
+44,Other,190,69,19.11,Hypertension,98,66,190,229,No,Gluten Intolerance,12834,3,9.7,Yes,No,Keto,1224,167,306,62,Western,Salty,Low-Carb Diet
+44,Female,158,83,33.25,Obesity,163,71,264,126,Yes,Gluten Intolerance,14304,1,8.7,No,No,Regular,2400,157,366,79,Indian,Salty,High-Protein Diet
+24,Female,195,95,24.98,Hypertension,175,80,178,155,Yes,Nut Allergy,14581,5,9.6,Yes,No,Regular,1323,72,161,66,Indian,Salty,Balanced Diet
+45,Female,175,110,35.92,Hypertension,140,76,164,204,No,Nut Allergy,6277,0,8.9,Yes,No,Vegetarian,3425,59,242,95,Mediterranean,Salty,Low-Fat Diet
+60,Male,196,103,26.81,Heart Disease,157,100,183,128,Yes,Nut Allergy,6448,1,5.7,Yes,No,Keto,2577,136,114,21,Indian,Sweet,Balanced Diet
+43,Male,176,119,38.42,Diabetes,176,100,277,89,No,Lactose Intolerance,7328,6,4.5,No,No,Regular,1682,197,230,25,Western,Spicy,Low-Carb Diet
+72,Male,181,84,25.64,Diabetes,95,62,289,86,No,Nut Allergy,13265,1,6,No,No,Keto,1366,122,375,35,Asian,Spicy,Balanced Diet
+71,Other,175,86,28.08,Heart Disease,170,110,159,78,No,Gluten Intolerance,11794,5,8.7,No,No,Vegetarian,2224,98,290,95,Western,Spicy,Low-Fat Diet
+50,Female,181,53,16.18,Diabetes,116,110,263,181,No,Lactose Intolerance,7932,2,4.3,Yes,Yes,Regular,1891,163,214,53,Western,Sweet,High-Protein Diet
+64,Male,151,117,51.31,Heart Disease,124,109,253,238,No,Lactose Intolerance,2430,4,5.6,Yes,No,Regular,2397,163,113,121,Indian,Salty,Low-Fat Diet
+34,Female,171,90,30.78,Hypertension,157,114,211,203,No,Gluten Intolerance,6839,0,5.3,No,Yes,Keto,3442,194,284,98,Mediterranean,Spicy,Balanced Diet
+60,Female,176,87,28.09,Diabetes,155,71,225,147,No,Gluten Intolerance,2452,2,8.7,No,Yes,Vegetarian,2935,102,326,122,Indian,Salty,Low-Carb Diet
+61,Other,164,99,36.81,Hypertension,124,79,278,112,Yes,Lactose Intolerance,9008,6,5.9,No,No,Regular,3112,55,247,129,Western,Spicy,Balanced Diet
+76,Other,152,113,48.91,Heart Disease,125,84,250,118,Yes,Gluten Intolerance,12596,2,9.1,Yes,No,Keto,2608,79,346,84,Asian,Spicy,Low-Carb Diet
+34,Female,164,85,31.6,Heart Disease,134,105,199,104,No,Nut Allergy,7229,1,9.9,No,Yes,Vegetarian,1710,79,344,103,Mediterranean,Sweet,Low-Fat Diet
+74,Female,186,113,32.66,Obesity,133,77,168,234,Yes,Nut Allergy,14214,1,9.8,No,Yes,Regular,1425,86,223,119,Asian,Sweet,Low-Carb Diet
+66,Female,153,83,35.46,Hypertension,165,92,244,125,Yes,Lactose Intolerance,5570,2,4.1,No,No,Vegan,1995,117,269,24,Indian,Salty,Low-Carb Diet
+34,Female,171,67,22.91,Heart Disease,148,94,232,164,Yes,Gluten Intolerance,7315,0,7.3,No,No,Regular,2644,72,305,101,Indian,Sweet,Balanced Diet
+29,Female,167,101,36.21,Obesity,110,119,232,240,No,Gluten Intolerance,5581,4,7.2,No,No,Keto,2744,96,214,136,Asian,Salty,High-Protein Diet
+43,Other,179,117,36.52,Heart Disease,104,68,224,211,No,Nut Allergy,9784,2,9.4,No,Yes,Vegan,2442,94,118,125,Mediterranean,Spicy,Low-Carb Diet
+24,Other,191,79,21.66,Diabetes,134,85,282,106,No,Gluten Intolerance,4899,2,8.4,Yes,Yes,Keto,1692,87,155,45,Indian,Spicy,Low-Fat Diet
+76,Male,170,65,22.49,Heart Disease,178,101,159,86,No,Lactose Intolerance,12321,0,7.6,No,No,Regular,3298,180,157,69,Indian,Salty,Balanced Diet
+48,Other,192,69,18.72,Heart Disease,170,94,275,119,No,Lactose Intolerance,10429,5,4.5,No,Yes,Keto,3194,81,347,130,Indian,Sweet,Low-Carb Diet
+20,Other,187,57,16.3,Diabetes,131,73,250,119,No,Gluten Intolerance,12935,3,9.9,Yes,No,Regular,3439,83,278,122,Western,Spicy,Low-Carb Diet
+59,Male,195,111,29.19,Diabetes,175,76,186,76,No,Gluten Intolerance,3259,4,5.6,Yes,No,Keto,3017,66,387,127,Indian,Spicy,Low-Carb Diet
+52,Female,178,108,34.09,Diabetes,111,75,235,160,Yes,Lactose Intolerance,8800,2,6.9,No,Yes,Regular,1800,147,131,122,Asian,Salty,Balanced Diet
+35,Other,174,115,37.98,Hypertension,160,89,187,93,No,Lactose Intolerance,12981,2,9.2,Yes,No,Regular,1375,162,238,140,Indian,Spicy,Low-Carb Diet
+46,Other,175,71,23.18,Diabetes,162,71,256,77,No,Nut Allergy,4072,1,7.2,Yes,Yes,Regular,1331,108,206,59,Mediterranean,Spicy,High-Protein Diet
+66,Male,184,85,25.11,Diabetes,141,111,245,108,No,Gluten Intolerance,13007,4,9.3,No,No,Regular,1935,52,350,81,Western,Sweet,High-Protein Diet
+61,Female,153,70,29.9,Obesity,145,110,278,187,Yes,Nut Allergy,6917,3,7.2,No,No,Regular,1557,111,277,52,Western,Spicy,Balanced Diet
+74,Female,186,110,31.8,Diabetes,171,117,223,75,No,Nut Allergy,5260,0,9.5,Yes,No,Vegetarian,2010,128,316,82,Indian,Sweet,Low-Fat Diet
+47,Female,157,105,42.6,Diabetes,145,89,208,141,No,Lactose Intolerance,10885,3,7.8,No,Yes,Regular,2657,95,111,82,Western,Spicy,Low-Carb Diet
+31,Female,198,58,14.79,Obesity,121,78,233,90,No,Gluten Intolerance,14401,2,4.5,No,No,Regular,3095,147,391,82,Western,Salty,Balanced Diet
+65,Female,188,112,31.69,Heart Disease,118,92,224,110,Yes,Nut Allergy,5954,5,5.2,Yes,No,Regular,1797,128,180,112,Western,Salty,Low-Fat Diet
+29,Female,176,59,19.05,Diabetes,103,114,242,95,No,Gluten Intolerance,10908,2,8,Yes,No,Regular,1434,174,280,21,Indian,Sweet,High-Protein Diet
+60,Other,196,72,18.74,Obesity,93,70,249,95,No,Lactose Intolerance,5672,3,6.3,No,No,Vegan,2919,122,186,56,Asian,Salty,Low-Carb Diet

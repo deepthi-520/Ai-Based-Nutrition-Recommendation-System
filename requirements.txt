@@ -1,0 +1,10 @@
+flask
+pandas
+joblib
+scikit-learn==1.6.1
+tensorflow>=2.10
+numpy>=1.23
+Pillow>=9.0
+matplotlib>=3.6
+flask>=2.2
+
